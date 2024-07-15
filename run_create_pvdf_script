@@ -1,6 +1,6 @@
 #a job script to run create_pvdf.py to creatd pandas dataframes for each chromosome that contain only features (genome regions) where the p-value < 0.05 (refers to the important genes in the paper)
 #${start_in} ${end_in} are script arguments that refer to the chromosomes to process start_in=0 and end_in=23 will process all of them, 23 refers to the X chromosome, there is no Y chromosome in the data
-#to submit a job for this script run: sbatch --export=start_in=0,end_in=23 run_create_pvdf_script
+#to submit a job for this script run: sbatch --export=start_in=1,end_in=24 run_create_pvdf_script
 
 
 #!/bin/bash -l
