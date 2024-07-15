@@ -46,4 +46,6 @@ for file_num in range(int(float(sys.argv[2])), int(float(sys.argv[3]))):
 test_data = pd.DataFrame(chr_vals)
 filename = './results38/hg38_chr' + str(chr_id) + '_200_' + str(int(float(sys.argv[2]))) + '_' + str(int(float(sys.argv[3]))) + '.h5'
 test_data.to_hdf(filename, key='data', mode='w')
-
+#OUTPUT: note that computing all files (1632 total) in a single job might take too long, it is better to save results for every ~200 files, for example the output file names
+#for chromosome 6 (chr_i=6) might look like these: 
+#hg38_chr6_200_0_200.h5, hg38_chr6_200_200_400.h5, ..., hg38_chr6_200_1400_1632.h5
