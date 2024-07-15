@@ -11,6 +11,8 @@ df38 = pd.read_csv("./genome_df38.csv", delimiter=",")
 df38 = pd.DataFrame(df38)
 df38 = df38.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
 for chr_id in range(int(float(sys.argv[1])), int(float(sys.argv[2]))):
+    if chr_id == 23: #this is chromosome X
+        chr_id = 'X'
     print(chr_id)
     filename = "./results38/hg38_chr" + str(chr_id) + "_200data"
     with h5py.File(filename + '.h5', 'r') as hdf:
