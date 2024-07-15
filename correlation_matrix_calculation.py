@@ -30,7 +30,8 @@ for chr_i in range(1, 24):
 	filename = "./hg38_chr" + str(chr_i) + "_200data.h5" #saving combined h5 files for each chr
 	tdf.to_hdf(filename, key='data', mode='w')
 
-#Section 2: the second step is to use cudf (to use GPU for pandas dfs, see RAPIDS library) to calculate correlation matrices
+
+#Section 2 needs GPU: the second step is to use cudf (to use GPU for pandas dfs, see RAPIDS library) to calculate correlation matrices
 #because the data may contain ~1 million columns it will take hours to compute pairwise correlation of 1632 samples with so much columns
 #GPU usage is needed
 #module load python/3.10-anaconda-2023.03
