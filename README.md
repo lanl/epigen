@@ -19,6 +19,7 @@ The data doesn't contain the chromosome Y.
 4. For each chromosome calculate the pairwise correlation matrix between samples, requires GPU, otherwise will take hours vs minutes per chromosome: correlation_matrix_calculation.py.
 5. For each chromosome obtain a list of known genes and their bp position in the chromosome: get_ret_df_files.py.
 6. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
+7. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
 
 
 
