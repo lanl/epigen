@@ -1,0 +1,1633 @@
+ID,Accession,Target,Biosample term name,Software used,Genome
+/annotations/ENCSR719YJX/,ENCSR719YJX,ATF3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR004FAB/,ENCSR004FAB,ATF3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR895TBB/,ENCSR895TBB,ATF3,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR838JMY/,ENCSR838JMY,ATF3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR344FFN/,ENCSR344FFN,ATF3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR442VQK/,ENCSR442VQK,ATF3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR190FBH/,ENCSR190FBH,ATF3,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR595WXN/,ENCSR595WXN,ATF3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR655KNC/,ENCSR655KNC,ATF3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR452CXD/,ENCSR452CXD,ATF3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR291ZRR/,ENCSR291ZRR,ATF3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR667PZF/,ENCSR667PZF,ATF3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR553KXP/,ENCSR553KXP,ATF3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR907OTB/,ENCSR907OTB,ATF3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR989XGT/,ENCSR989XGT,ATF3,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR981EPY/,ENCSR981EPY,ATF3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR307DYO/,ENCSR307DYO,ATF3,natural killer cell,avocado,GRCh38
+/annotations/ENCSR424XOU/,ENCSR424XOU,ATF3,neutrophil,avocado,GRCh38
+/annotations/ENCSR804CYA/,ENCSR804CYA,ATF3,neutrophil,avocado,GRCh38
+/annotations/ENCSR134GHA/,ENCSR134GHA,ATF3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR306NQE/,ENCSR306NQE,ATF3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR461YTY/,ENCSR461YTY,ATF3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR076KVQ/,ENCSR076KVQ,ATF3,T-cell,avocado,GRCh38
+/annotations/ENCSR369HCG/,ENCSR369HCG,ATF3,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR680OBW/,ENCSR680OBW,BHLHE40,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR534SIE/,ENCSR534SIE,BHLHE40,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR062AOK/,ENCSR062AOK,BHLHE40,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR723EDO/,ENCSR723EDO,BHLHE40,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR302VUZ/,ENCSR302VUZ,BHLHE40,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR319LKN/,ENCSR319LKN,BHLHE40,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR237IVL/,ENCSR237IVL,BHLHE40,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR965ZUK/,ENCSR965ZUK,BHLHE40,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR013YWY/,ENCSR013YWY,BHLHE40,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR321YRN/,ENCSR321YRN,BHLHE40,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR023EQD/,ENCSR023EQD,BHLHE40,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR430TEO/,ENCSR430TEO,BHLHE40,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR530ALD/,ENCSR530ALD,BHLHE40,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR561PAW/,ENCSR561PAW,BHLHE40,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR640GNW/,ENCSR640GNW,BHLHE40,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR204JGF/,ENCSR204JGF,BHLHE40,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR600MLO/,ENCSR600MLO,BHLHE40,natural killer cell,avocado,GRCh38
+/annotations/ENCSR781EAH/,ENCSR781EAH,BHLHE40,neutrophil,avocado,GRCh38
+/annotations/ENCSR260ZJU/,ENCSR260ZJU,BHLHE40,neutrophil,avocado,GRCh38
+/annotations/ENCSR979FGZ/,ENCSR979FGZ,BHLHE40,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR048BGN/,ENCSR048BGN,BHLHE40,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR023YCR/,ENCSR023YCR,BHLHE40,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR869ZRN/,ENCSR869ZRN,BHLHE40,T-cell,avocado,GRCh38
+/annotations/ENCSR148YFX/,ENCSR148YFX,BHLHE40,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR066VMG/,ENCSR066VMG,CEBPB,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR101DRY/,ENCSR101DRY,CEBPB,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR395FZG/,ENCSR395FZG,CEBPB,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR908VVL/,ENCSR908VVL,CEBPB,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR379CVN/,ENCSR379CVN,CEBPB,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR745SIQ/,ENCSR745SIQ,CEBPB,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR569OPE/,ENCSR569OPE,CEBPB,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR343IBX/,ENCSR343IBX,CEBPB,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR484WIL/,ENCSR484WIL,CEBPB,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR903EFS/,ENCSR903EFS,CEBPB,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR567XOE/,ENCSR567XOE,CEBPB,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR824QWW/,ENCSR824QWW,CEBPB,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR721AQB/,ENCSR721AQB,CEBPB,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR065LTY/,ENCSR065LTY,CEBPB,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR014OJV/,ENCSR014OJV,CEBPB,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR540BCE/,ENCSR540BCE,CEBPB,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR165TBE/,ENCSR165TBE,CEBPB,natural killer cell,avocado,GRCh38
+/annotations/ENCSR115WFC/,ENCSR115WFC,CEBPB,neutrophil,avocado,GRCh38
+/annotations/ENCSR067CIY/,ENCSR067CIY,CEBPB,neutrophil,avocado,GRCh38
+/annotations/ENCSR005TXZ/,ENCSR005TXZ,CEBPB,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR594PEK/,ENCSR594PEK,CEBPB,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR056ALK/,ENCSR056ALK,CEBPB,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR190FKN/,ENCSR190FKN,CEBPB,T-cell,avocado,GRCh38
+/annotations/ENCSR290MGK/,ENCSR290MGK,CEBPB,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR714QGY/,ENCSR714QGY,CHD2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR103FYC/,ENCSR103FYC,CHD2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR030DIN/,ENCSR030DIN,CHD2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR848FLP/,ENCSR848FLP,CHD2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR151OXK/,ENCSR151OXK,CHD2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR256PZA/,ENCSR256PZA,CHD2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR021RJQ/,ENCSR021RJQ,CHD2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR939ZYE/,ENCSR939ZYE,CHD2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR780UQX/,ENCSR780UQX,CHD2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR501ZMA/,ENCSR501ZMA,CHD2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR864JHG/,ENCSR864JHG,CHD2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR030AAY/,ENCSR030AAY,CHD2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR827GAN/,ENCSR827GAN,CHD2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR489UCI/,ENCSR489UCI,CHD2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR012AVR/,ENCSR012AVR,CHD2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR575BTN/,ENCSR575BTN,CHD2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR027AYK/,ENCSR027AYK,CHD2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR128IYI/,ENCSR128IYI,CHD2,neutrophil,avocado,GRCh38
+/annotations/ENCSR026XLV/,ENCSR026XLV,CHD2,neutrophil,avocado,GRCh38
+/annotations/ENCSR020YSP/,ENCSR020YSP,CHD2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR420VRR/,ENCSR420VRR,CHD2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR972OBK/,ENCSR972OBK,CHD2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR357WOV/,ENCSR357WOV,CHD2,T-cell,avocado,GRCh38
+/annotations/ENCSR838BNM/,ENCSR838BNM,CHD2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR502DIT/,ENCSR502DIT,CTCF,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR708MGI/,ENCSR708MGI,CTCF,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR134RMI/,ENCSR134RMI,CTCF,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR755PJF/,ENCSR755PJF,CTCF,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR268VZS/,ENCSR268VZS,CTCF,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR295GVC/,ENCSR295GVC,CTCF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR096OAV/,ENCSR096OAV,CTCF,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR739MAE/,ENCSR739MAE,CTCF,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR291RHP/,ENCSR291RHP,CTCF,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR051ZHO/,ENCSR051ZHO,CTCF,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR588FKL/,ENCSR588FKL,CTCF,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR107MVI/,ENCSR107MVI,CTCF,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR141VRJ/,ENCSR141VRJ,CTCF,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR136MLR/,ENCSR136MLR,CTCF,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR973CMC/,ENCSR973CMC,CTCF,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR235VEH/,ENCSR235VEH,CTCF,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR999OSL/,ENCSR999OSL,CTCF,natural killer cell,avocado,GRCh38
+/annotations/ENCSR082TOV/,ENCSR082TOV,CTCF,neutrophil,avocado,GRCh38
+/annotations/ENCSR070YUE/,ENCSR070YUE,CTCF,neutrophil,avocado,GRCh38
+/annotations/ENCSR872MSC/,ENCSR872MSC,CTCF,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR343GZL/,ENCSR343GZL,CTCF,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR903DWV/,ENCSR903DWV,CTCF,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR052QDH/,ENCSR052QDH,CTCF,T-cell,avocado,GRCh38
+/annotations/ENCSR728CPI/,ENCSR728CPI,CTCF,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR047JYK/,ENCSR047JYK,EGR1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR265HYT/,ENCSR265HYT,EGR1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR335RHO/,ENCSR335RHO,EGR1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR863VIF/,ENCSR863VIF,EGR1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR317OCX/,ENCSR317OCX,EGR1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR672DZZ/,ENCSR672DZZ,EGR1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR129NNH/,ENCSR129NNH,EGR1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR675TUT/,ENCSR675TUT,EGR1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR988PUM/,ENCSR988PUM,EGR1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR373XZP/,ENCSR373XZP,EGR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR549ZVT/,ENCSR549ZVT,EGR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR107PZB/,ENCSR107PZB,EGR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR215XFL/,ENCSR215XFL,EGR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR246ZOB/,ENCSR246ZOB,EGR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR793ZIH/,ENCSR793ZIH,EGR1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR417NUO/,ENCSR417NUO,EGR1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR024EHS/,ENCSR024EHS,EGR1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR682WGD/,ENCSR682WGD,EGR1,neutrophil,avocado,GRCh38
+/annotations/ENCSR327QNN/,ENCSR327QNN,EGR1,neutrophil,avocado,GRCh38
+/annotations/ENCSR419DVR/,ENCSR419DVR,EGR1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR394PAN/,ENCSR394PAN,EGR1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR015JCV/,ENCSR015JCV,EGR1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR615XCC/,ENCSR615XCC,EGR1,T-cell,avocado,GRCh38
+/annotations/ENCSR382PCD/,ENCSR382PCD,EGR1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR798MVJ/,ENCSR798MVJ,ELF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR019NQB/,ENCSR019NQB,ELF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR663LIM/,ENCSR663LIM,ELF1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR276GOW/,ENCSR276GOW,ELF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR961IAX/,ENCSR961IAX,ELF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR239QVR/,ENCSR239QVR,ELF1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR274RPP/,ENCSR274RPP,ELF1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR637HZL/,ENCSR637HZL,ELF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR966DIR/,ENCSR966DIR,ELF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR312IPS/,ENCSR312IPS,ELF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR771TYF/,ENCSR771TYF,ELF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR410TEK/,ENCSR410TEK,ELF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR165PFP/,ENCSR165PFP,ELF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR049SIW/,ENCSR049SIW,ELF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR005ZAA/,ENCSR005ZAA,ELF1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR002DVV/,ENCSR002DVV,ELF1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR536DZK/,ENCSR536DZK,ELF1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR970CLG/,ENCSR970CLG,ELF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR658ULL/,ENCSR658ULL,ELF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR553PBR/,ENCSR553PBR,ELF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR133DAQ/,ENCSR133DAQ,ELF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR860DNJ/,ENCSR860DNJ,ELF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR279JJF/,ENCSR279JJF,ELF1,T-cell,avocado,GRCh38
+/annotations/ENCSR388FXU/,ENCSR388FXU,ELF1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR591AIN/,ENCSR591AIN,ELK1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR925VMN/,ENCSR925VMN,ELK1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR049LES/,ENCSR049LES,ELK1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR419AEA/,ENCSR419AEA,ELK1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR191DSK/,ENCSR191DSK,ELK1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR670HBW/,ENCSR670HBW,ELK1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR341KWI/,ENCSR341KWI,ELK1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR993SCB/,ENCSR993SCB,ELK1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR061BCN/,ENCSR061BCN,ELK1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR470VUS/,ENCSR470VUS,ELK1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR992OUA/,ENCSR992OUA,ELK1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR679SIJ/,ENCSR679SIJ,ELK1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR977GPL/,ENCSR977GPL,ELK1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR279QWV/,ENCSR279QWV,ELK1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR546UOG/,ENCSR546UOG,ELK1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR538YMZ/,ENCSR538YMZ,ELK1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR027AYZ/,ENCSR027AYZ,ELK1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR815HRT/,ENCSR815HRT,ELK1,neutrophil,avocado,GRCh38
+/annotations/ENCSR741GBT/,ENCSR741GBT,ELK1,neutrophil,avocado,GRCh38
+/annotations/ENCSR147RZE/,ENCSR147RZE,ELK1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR531PSR/,ENCSR531PSR,ELK1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR125GUD/,ENCSR125GUD,ELK1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR999UCP/,ENCSR999UCP,ELK1,T-cell,avocado,GRCh38
+/annotations/ENCSR279DGD/,ENCSR279DGD,ELK1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR235KCK/,ENCSR235KCK,EP300,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR105UAO/,ENCSR105UAO,EP300,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR067WFC/,ENCSR067WFC,EP300,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR556LKF/,ENCSR556LKF,EP300,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR767IBV/,ENCSR767IBV,EP300,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR584ACW/,ENCSR584ACW,EP300,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR680ACY/,ENCSR680ACY,EP300,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR550IHC/,ENCSR550IHC,EP300,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR804RUG/,ENCSR804RUG,EP300,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR871BNX/,ENCSR871BNX,EP300,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR057EIN/,ENCSR057EIN,EP300,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR527OGG/,ENCSR527OGG,EP300,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR144UXO/,ENCSR144UXO,EP300,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR749FNB/,ENCSR749FNB,EP300,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR890ZIZ/,ENCSR890ZIZ,EP300,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR850TKC/,ENCSR850TKC,EP300,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR622FRR/,ENCSR622FRR,EP300,natural killer cell,avocado,GRCh38
+/annotations/ENCSR812UMM/,ENCSR812UMM,EP300,neutrophil,avocado,GRCh38
+/annotations/ENCSR242JIT/,ENCSR242JIT,EP300,neutrophil,avocado,GRCh38
+/annotations/ENCSR617OXP/,ENCSR617OXP,EP300,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR953UGI/,ENCSR953UGI,EP300,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR091WBA/,ENCSR091WBA,EP300,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR395OMC/,ENCSR395OMC,EP300,T-cell,avocado,GRCh38
+/annotations/ENCSR691XNH/,ENCSR691XNH,EP300,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR602AII/,ENCSR602AII,ETS1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR605QHP/,ENCSR605QHP,ETS1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR383LIF/,ENCSR383LIF,ETS1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR892BTV/,ENCSR892BTV,ETS1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR744LWV/,ENCSR744LWV,ETS1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR966IVH/,ENCSR966IVH,ETS1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR076SYI/,ENCSR076SYI,ETS1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR872UMV/,ENCSR872UMV,ETS1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR480ZNT/,ENCSR480ZNT,ETS1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR219NLV/,ENCSR219NLV,ETS1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR823FDN/,ENCSR823FDN,ETS1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR371PZO/,ENCSR371PZO,ETS1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR167ZPE/,ENCSR167ZPE,ETS1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR582UUP/,ENCSR582UUP,ETS1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR547MMI/,ENCSR547MMI,ETS1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR525XLB/,ENCSR525XLB,ETS1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR564YKK/,ENCSR564YKK,ETS1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR537GQI/,ENCSR537GQI,ETS1,neutrophil,avocado,GRCh38
+/annotations/ENCSR893XQU/,ENCSR893XQU,ETS1,neutrophil,avocado,GRCh38
+/annotations/ENCSR842CRV/,ENCSR842CRV,ETS1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR370FSM/,ENCSR370FSM,ETS1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR926HQX/,ENCSR926HQX,ETS1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR971TKP/,ENCSR971TKP,ETS1,T-cell,avocado,GRCh38
+/annotations/ENCSR113JMC/,ENCSR113JMC,ETS1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR587KBU/,ENCSR587KBU,EZH2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR858EIK/,ENCSR858EIK,EZH2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR835VLW/,ENCSR835VLW,EZH2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR212GAI/,ENCSR212GAI,EZH2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR629LFO/,ENCSR629LFO,EZH2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR061HVO/,ENCSR061HVO,EZH2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR089FEF/,ENCSR089FEF,EZH2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR957JOQ/,ENCSR957JOQ,EZH2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR011MTN/,ENCSR011MTN,EZH2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR290XJF/,ENCSR290XJF,EZH2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR116QDC/,ENCSR116QDC,EZH2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR856RMR/,ENCSR856RMR,EZH2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR369LMQ/,ENCSR369LMQ,EZH2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR587SUI/,ENCSR587SUI,EZH2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR939OWO/,ENCSR939OWO,EZH2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR296CSR/,ENCSR296CSR,EZH2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR264GHS/,ENCSR264GHS,EZH2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR293JHT/,ENCSR293JHT,EZH2,neutrophil,avocado,GRCh38
+/annotations/ENCSR079UAO/,ENCSR079UAO,EZH2,neutrophil,avocado,GRCh38
+/annotations/ENCSR066UMW/,ENCSR066UMW,EZH2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR581TRQ/,ENCSR581TRQ,EZH2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR967DJS/,ENCSR967DJS,EZH2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR792AVM/,ENCSR792AVM,EZH2,T-cell,avocado,GRCh38
+/annotations/ENCSR370TDW/,ENCSR370TDW,EZH2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR115TQM/,ENCSR115TQM,EZH2phosphoT487,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR049BBO/,ENCSR049BBO,EZH2phosphoT487,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR661ACF/,ENCSR661ACF,EZH2phosphoT487,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR941MNH/,ENCSR941MNH,EZH2phosphoT487,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR134SPR/,ENCSR134SPR,EZH2phosphoT487,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR019OLF/,ENCSR019OLF,EZH2phosphoT487,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR157EUP/,ENCSR157EUP,EZH2phosphoT487,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR048KDH/,ENCSR048KDH,EZH2phosphoT487,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR933HZG/,ENCSR933HZG,EZH2phosphoT487,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR873FUI/,ENCSR873FUI,EZH2phosphoT487,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR100GJW/,ENCSR100GJW,EZH2phosphoT487,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR377AMA/,ENCSR377AMA,EZH2phosphoT487,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR670VCG/,ENCSR670VCG,EZH2phosphoT487,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR853XZF/,ENCSR853XZF,EZH2phosphoT487,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR982XKJ/,ENCSR982XKJ,EZH2phosphoT487,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR869TMR/,ENCSR869TMR,EZH2phosphoT487,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR045DTL/,ENCSR045DTL,EZH2phosphoT487,natural killer cell,avocado,GRCh38
+/annotations/ENCSR148QHK/,ENCSR148QHK,EZH2phosphoT487,neutrophil,avocado,GRCh38
+/annotations/ENCSR382RPS/,ENCSR382RPS,EZH2phosphoT487,neutrophil,avocado,GRCh38
+/annotations/ENCSR727SBS/,ENCSR727SBS,EZH2phosphoT487,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR429SUI/,ENCSR429SUI,EZH2phosphoT487,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR372LIC/,ENCSR372LIC,EZH2phosphoT487,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR435IJM/,ENCSR435IJM,EZH2phosphoT487,T-cell,avocado,GRCh38
+/annotations/ENCSR309PMG/,ENCSR309PMG,EZH2phosphoT487,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR850WRP/,ENCSR850WRP,FOXA1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR168YUO/,ENCSR168YUO,FOXA1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR904SFD/,ENCSR904SFD,FOXA1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR867LUQ/,ENCSR867LUQ,FOXA1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR804VOW/,ENCSR804VOW,FOXA1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR698DLF/,ENCSR698DLF,FOXA1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR218OQF/,ENCSR218OQF,FOXA1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR536TZF/,ENCSR536TZF,FOXA1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR036FAB/,ENCSR036FAB,FOXA1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR516YZI/,ENCSR516YZI,FOXA1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR314VVL/,ENCSR314VVL,FOXA1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR372NAB/,ENCSR372NAB,FOXA1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR186ICL/,ENCSR186ICL,FOXA1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR805SEZ/,ENCSR805SEZ,FOXA1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR507WNO/,ENCSR507WNO,FOXA1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR062DVP/,ENCSR062DVP,FOXA1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR792XZI/,ENCSR792XZI,FOXA1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR630SZC/,ENCSR630SZC,FOXA1,neutrophil,avocado,GRCh38
+/annotations/ENCSR410GCV/,ENCSR410GCV,FOXA1,neutrophil,avocado,GRCh38
+/annotations/ENCSR789ZIC/,ENCSR789ZIC,FOXA1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR095KAJ/,ENCSR095KAJ,FOXA1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR728JDT/,ENCSR728JDT,FOXA1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR557KUI/,ENCSR557KUI,FOXA1,T-cell,avocado,GRCh38
+/annotations/ENCSR966YYC/,ENCSR966YYC,FOXA1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR629HHG/,ENCSR629HHG,FOXK2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR343IGI/,ENCSR343IGI,FOXK2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR412EEP/,ENCSR412EEP,FOXK2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR286JVS/,ENCSR286JVS,FOXK2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR964MKT/,ENCSR964MKT,FOXK2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR807TWS/,ENCSR807TWS,FOXK2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR118VOS/,ENCSR118VOS,FOXK2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR120BOR/,ENCSR120BOR,FOXK2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR312ZAU/,ENCSR312ZAU,FOXK2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR316EBG/,ENCSR316EBG,FOXK2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR426YGV/,ENCSR426YGV,FOXK2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR159SQH/,ENCSR159SQH,FOXK2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR113RFJ/,ENCSR113RFJ,FOXK2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR085KFG/,ENCSR085KFG,FOXK2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR226BKW/,ENCSR226BKW,FOXK2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR326NNJ/,ENCSR326NNJ,FOXK2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR064ZBP/,ENCSR064ZBP,FOXK2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR344IZO/,ENCSR344IZO,FOXK2,neutrophil,avocado,GRCh38
+/annotations/ENCSR133TBK/,ENCSR133TBK,FOXK2,neutrophil,avocado,GRCh38
+/annotations/ENCSR366LWG/,ENCSR366LWG,FOXK2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR761HUF/,ENCSR761HUF,FOXK2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR499PKU/,ENCSR499PKU,FOXK2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR179EYM/,ENCSR179EYM,FOXK2,T-cell,avocado,GRCh38
+/annotations/ENCSR409YEQ/,ENCSR409YEQ,FOXK2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR969RCM/,ENCSR969RCM,GABPA,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR211ZWV/,ENCSR211ZWV,GABPA,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR181UHL/,ENCSR181UHL,GABPA,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR972SQO/,ENCSR972SQO,GABPA,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR531WVV/,ENCSR531WVV,GABPA,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR668VEQ/,ENCSR668VEQ,GABPA,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR064YJU/,ENCSR064YJU,GABPA,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR134VUO/,ENCSR134VUO,GABPA,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR583NRS/,ENCSR583NRS,GABPA,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR019WHZ/,ENCSR019WHZ,GABPA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR428OAH/,ENCSR428OAH,GABPA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR513EIO/,ENCSR513EIO,GABPA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR089KJX/,ENCSR089KJX,GABPA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR334UMS/,ENCSR334UMS,GABPA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR762KHI/,ENCSR762KHI,GABPA,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR806AAW/,ENCSR806AAW,GABPA,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR591JLB/,ENCSR591JLB,GABPA,natural killer cell,avocado,GRCh38
+/annotations/ENCSR270DHF/,ENCSR270DHF,GABPA,neutrophil,avocado,GRCh38
+/annotations/ENCSR583BZG/,ENCSR583BZG,GABPA,neutrophil,avocado,GRCh38
+/annotations/ENCSR428SUQ/,ENCSR428SUQ,GABPA,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR125FAG/,ENCSR125FAG,GABPA,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR005DYG/,ENCSR005DYG,GABPA,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR856XKF/,ENCSR856XKF,GABPA,T-cell,avocado,GRCh38
+/annotations/ENCSR158SZX/,ENCSR158SZX,GABPA,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR877KCX/,ENCSR877KCX,GTF2F1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR419KLB/,ENCSR419KLB,GTF2F1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR438CLM/,ENCSR438CLM,GTF2F1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR182GZA/,ENCSR182GZA,GTF2F1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR750DIA/,ENCSR750DIA,GTF2F1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR650AHA/,ENCSR650AHA,GTF2F1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR392KKV/,ENCSR392KKV,GTF2F1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR620XDG/,ENCSR620XDG,GTF2F1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR621IYB/,ENCSR621IYB,GTF2F1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR349BON/,ENCSR349BON,GTF2F1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR112RQT/,ENCSR112RQT,GTF2F1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR567ESF/,ENCSR567ESF,GTF2F1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR028QFQ/,ENCSR028QFQ,GTF2F1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR368SBE/,ENCSR368SBE,GTF2F1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR348EJA/,ENCSR348EJA,GTF2F1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR167VFO/,ENCSR167VFO,GTF2F1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR245PLV/,ENCSR245PLV,GTF2F1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR344AUS/,ENCSR344AUS,GTF2F1,neutrophil,avocado,GRCh38
+/annotations/ENCSR377KGB/,ENCSR377KGB,GTF2F1,neutrophil,avocado,GRCh38
+/annotations/ENCSR080EXS/,ENCSR080EXS,GTF2F1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR789UWV/,ENCSR789UWV,GTF2F1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR615TJQ/,ENCSR615TJQ,GTF2F1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR332GJM/,ENCSR332GJM,GTF2F1,T-cell,avocado,GRCh38
+/annotations/ENCSR151ZQN/,ENCSR151ZQN,GTF2F1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR217OLD/,ENCSR217OLD,H2AFZ,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR755JXL/,ENCSR755JXL,H2AFZ,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR600FVW/,ENCSR600FVW,H2AFZ,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR576GAB/,ENCSR576GAB,H2AFZ,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR669DGK/,ENCSR669DGK,H2AFZ,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR809PNS/,ENCSR809PNS,H2AFZ,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR138MMY/,ENCSR138MMY,H2AFZ,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR096KTM/,ENCSR096KTM,H2AFZ,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR667EMB/,ENCSR667EMB,H2AFZ,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR021LPG/,ENCSR021LPG,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR167NWO/,ENCSR167NWO,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR851TNS/,ENCSR851TNS,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR852NGZ/,ENCSR852NGZ,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR753NUY/,ENCSR753NUY,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR416MFU/,ENCSR416MFU,H2AFZ,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR956YYD/,ENCSR956YYD,H2AFZ,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR472XQI/,ENCSR472XQI,H2AFZ,natural killer cell,avocado,GRCh38
+/annotations/ENCSR121VUL/,ENCSR121VUL,H2AFZ,neutrophil,avocado,GRCh38
+/annotations/ENCSR834PAW/,ENCSR834PAW,H2AFZ,neutrophil,avocado,GRCh38
+/annotations/ENCSR621PCQ/,ENCSR621PCQ,H2AFZ,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR269EPP/,ENCSR269EPP,H2AFZ,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR984RKW/,ENCSR984RKW,H2AFZ,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR262NEB/,ENCSR262NEB,H2AFZ,T-cell,avocado,GRCh38
+/annotations/ENCSR598FAF/,ENCSR598FAF,H2AFZ,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR588XZC/,ENCSR588XZC,H2AK5ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR921YYF/,ENCSR921YYF,H2AK5ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR985KVC/,ENCSR985KVC,H2AK5ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR866RQP/,ENCSR866RQP,H2AK5ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR657UGX/,ENCSR657UGX,H2AK5ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR796AOR/,ENCSR796AOR,H2AK5ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR553OKU/,ENCSR553OKU,H2AK5ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR770QRM/,ENCSR770QRM,H2AK5ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR879TMT/,ENCSR879TMT,H2AK5ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR537QFE/,ENCSR537QFE,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR364ZSR/,ENCSR364ZSR,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR015JHO/,ENCSR015JHO,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR215DNC/,ENCSR215DNC,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR477HZC/,ENCSR477HZC,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR768KNU/,ENCSR768KNU,H2AK5ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR168MDY/,ENCSR168MDY,H2AK5ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR110FCP/,ENCSR110FCP,H2AK5ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR955MYY/,ENCSR955MYY,H2AK5ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR973FOB/,ENCSR973FOB,H2AK5ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR653OYP/,ENCSR653OYP,H2AK5ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR702RQB/,ENCSR702RQB,H2AK5ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR193GIV/,ENCSR193GIV,H2AK5ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR378KZO/,ENCSR378KZO,H2AK5ac,T-cell,avocado,GRCh38
+/annotations/ENCSR414HLR/,ENCSR414HLR,H2AK5ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR004HBP/,ENCSR004HBP,H2BK120ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR221AYK/,ENCSR221AYK,H2BK120ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR642EKU/,ENCSR642EKU,H2BK120ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR299QLV/,ENCSR299QLV,H2BK120ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR832ISN/,ENCSR832ISN,H2BK120ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR057JGI/,ENCSR057JGI,H2BK120ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR149XUC/,ENCSR149XUC,H2BK120ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR455ZRP/,ENCSR455ZRP,H2BK120ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR828UUA/,ENCSR828UUA,H2BK120ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR753RPP/,ENCSR753RPP,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR141JUH/,ENCSR141JUH,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR372CTA/,ENCSR372CTA,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR103FAK/,ENCSR103FAK,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR049FTN/,ENCSR049FTN,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR135XUX/,ENCSR135XUX,H2BK120ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR925QAJ/,ENCSR925QAJ,H2BK120ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR178XPV/,ENCSR178XPV,H2BK120ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR166RAM/,ENCSR166RAM,H2BK120ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR256ZPM/,ENCSR256ZPM,H2BK120ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR061XPT/,ENCSR061XPT,H2BK120ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR556TMT/,ENCSR556TMT,H2BK120ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR805QFU/,ENCSR805QFU,H2BK120ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR399MHO/,ENCSR399MHO,H2BK120ac,T-cell,avocado,GRCh38
+/annotations/ENCSR306LLS/,ENCSR306LLS,H2BK120ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR370UAQ/,ENCSR370UAQ,H2BK12ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR865BGT/,ENCSR865BGT,H2BK12ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR438CJD/,ENCSR438CJD,H2BK12ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR241OKN/,ENCSR241OKN,H2BK12ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR519QRR/,ENCSR519QRR,H2BK12ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR257XGS/,ENCSR257XGS,H2BK12ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR305IXD/,ENCSR305IXD,H2BK12ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR943TRN/,ENCSR943TRN,H2BK12ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR192OIM/,ENCSR192OIM,H2BK12ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR300EMV/,ENCSR300EMV,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR972YHH/,ENCSR972YHH,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR966SEK/,ENCSR966SEK,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR636KDK/,ENCSR636KDK,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR740XOR/,ENCSR740XOR,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR501DME/,ENCSR501DME,H2BK12ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR314COW/,ENCSR314COW,H2BK12ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR310NVB/,ENCSR310NVB,H2BK12ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR070UWQ/,ENCSR070UWQ,H2BK12ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR769HXD/,ENCSR769HXD,H2BK12ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR732ONN/,ENCSR732ONN,H2BK12ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR162ZCY/,ENCSR162ZCY,H2BK12ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR282ASU/,ENCSR282ASU,H2BK12ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR278OKV/,ENCSR278OKV,H2BK12ac,T-cell,avocado,GRCh38
+/annotations/ENCSR453UNP/,ENCSR453UNP,H2BK12ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR548SSY/,ENCSR548SSY,H2BK15ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR385HHZ/,ENCSR385HHZ,H2BK15ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR431WPA/,ENCSR431WPA,H2BK15ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR986OQM/,ENCSR986OQM,H2BK15ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR569KNS/,ENCSR569KNS,H2BK15ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR419JAJ/,ENCSR419JAJ,H2BK15ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR186VXC/,ENCSR186VXC,H2BK15ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR910LFD/,ENCSR910LFD,H2BK15ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR996YAO/,ENCSR996YAO,H2BK15ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR334GGA/,ENCSR334GGA,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR457LYA/,ENCSR457LYA,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR895FSO/,ENCSR895FSO,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR091HTQ/,ENCSR091HTQ,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR829QZA/,ENCSR829QZA,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR455CKX/,ENCSR455CKX,H2BK15ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR187RBE/,ENCSR187RBE,H2BK15ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR555KHX/,ENCSR555KHX,H2BK15ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR816AUC/,ENCSR816AUC,H2BK15ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR600OEP/,ENCSR600OEP,H2BK15ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR606UKT/,ENCSR606UKT,H2BK15ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR979PVW/,ENCSR979PVW,H2BK15ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR368VFV/,ENCSR368VFV,H2BK15ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR335BHV/,ENCSR335BHV,H2BK15ac,T-cell,avocado,GRCh38
+/annotations/ENCSR598WVE/,ENCSR598WVE,H2BK15ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR382ZFD/,ENCSR382ZFD,H2BK5ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR343LRH/,ENCSR343LRH,H2BK5ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR953THP/,ENCSR953THP,H2BK5ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR632ATO/,ENCSR632ATO,H2BK5ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR772LVK/,ENCSR772LVK,H2BK5ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR118SCG/,ENCSR118SCG,H2BK5ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR564TXL/,ENCSR564TXL,H2BK5ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR622LAG/,ENCSR622LAG,H2BK5ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR639YBU/,ENCSR639YBU,H2BK5ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR083RZQ/,ENCSR083RZQ,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR441RON/,ENCSR441RON,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR114SYU/,ENCSR114SYU,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR086TFC/,ENCSR086TFC,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR823KYM/,ENCSR823KYM,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR147IKH/,ENCSR147IKH,H2BK5ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR246VTY/,ENCSR246VTY,H2BK5ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR192JSI/,ENCSR192JSI,H2BK5ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR678GUF/,ENCSR678GUF,H2BK5ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR154MEV/,ENCSR154MEV,H2BK5ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR991KBR/,ENCSR991KBR,H2BK5ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR377CTG/,ENCSR377CTG,H2BK5ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR035OBH/,ENCSR035OBH,H2BK5ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR487LKI/,ENCSR487LKI,H2BK5ac,T-cell,avocado,GRCh38
+/annotations/ENCSR073CCF/,ENCSR073CCF,H2BK5ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR133SYO/,ENCSR133SYO,H3F3A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR447IZR/,ENCSR447IZR,H3F3A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR212ZMV/,ENCSR212ZMV,H3F3A,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR587ZGY/,ENCSR587ZGY,H3F3A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR941GEW/,ENCSR941GEW,H3F3A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR893ECN/,ENCSR893ECN,H3F3A,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR861ZVH/,ENCSR861ZVH,H3F3A,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR188AHX/,ENCSR188AHX,H3F3A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR337HZF/,ENCSR337HZF,H3F3A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR825UJR/,ENCSR825UJR,H3F3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR939GAK/,ENCSR939GAK,H3F3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR789EKC/,ENCSR789EKC,H3F3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR818JOZ/,ENCSR818JOZ,H3F3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR058NGQ/,ENCSR058NGQ,H3F3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR674RMP/,ENCSR674RMP,H3F3A,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR924YGN/,ENCSR924YGN,H3F3A,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR740SEV/,ENCSR740SEV,H3F3A,natural killer cell,avocado,GRCh38
+/annotations/ENCSR285MTK/,ENCSR285MTK,H3F3A,neutrophil,avocado,GRCh38
+/annotations/ENCSR533XLG/,ENCSR533XLG,H3F3A,neutrophil,avocado,GRCh38
+/annotations/ENCSR078GAJ/,ENCSR078GAJ,H3F3A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR909YWW/,ENCSR909YWW,H3F3A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR334YDU/,ENCSR334YDU,H3F3A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR615TSW/,ENCSR615TSW,H3F3A,T-cell,avocado,GRCh38
+/annotations/ENCSR245CVK/,ENCSR245CVK,H3F3A,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR475FGW/,ENCSR475FGW,H3K14ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR789HFO/,ENCSR789HFO,H3K14ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR643WQJ/,ENCSR643WQJ,H3K14ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR620UOM/,ENCSR620UOM,H3K14ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR826TPG/,ENCSR826TPG,H3K14ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR866GQB/,ENCSR866GQB,H3K14ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR872HFS/,ENCSR872HFS,H3K14ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR316MDF/,ENCSR316MDF,H3K14ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR474LWN/,ENCSR474LWN,H3K14ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR216YDG/,ENCSR216YDG,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR526PKZ/,ENCSR526PKZ,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR399IPZ/,ENCSR399IPZ,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR845GUZ/,ENCSR845GUZ,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR785JPJ/,ENCSR785JPJ,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR587TDZ/,ENCSR587TDZ,H3K14ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR847UGF/,ENCSR847UGF,H3K14ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR887LCZ/,ENCSR887LCZ,H3K14ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR197CJL/,ENCSR197CJL,H3K14ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR901AEV/,ENCSR901AEV,H3K14ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR198PUE/,ENCSR198PUE,H3K14ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR250RLZ/,ENCSR250RLZ,H3K14ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR068OMH/,ENCSR068OMH,H3K14ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR778KQQ/,ENCSR778KQQ,H3K14ac,T-cell,avocado,GRCh38
+/annotations/ENCSR168CXN/,ENCSR168CXN,H3K14ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR363OEN/,ENCSR363OEN,H3K18ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR030MXD/,ENCSR030MXD,H3K18ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR985FMW/,ENCSR985FMW,H3K18ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR682AQU/,ENCSR682AQU,H3K18ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR275BZO/,ENCSR275BZO,H3K18ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR337TJO/,ENCSR337TJO,H3K18ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR741QZX/,ENCSR741QZX,H3K18ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR284VFB/,ENCSR284VFB,H3K18ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR542AEZ/,ENCSR542AEZ,H3K18ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR238SPZ/,ENCSR238SPZ,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR435AGP/,ENCSR435AGP,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR086IXM/,ENCSR086IXM,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR636HGP/,ENCSR636HGP,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR133GJU/,ENCSR133GJU,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR978ONE/,ENCSR978ONE,H3K18ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR216ALZ/,ENCSR216ALZ,H3K18ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR909LMB/,ENCSR909LMB,H3K18ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR277SYU/,ENCSR277SYU,H3K18ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR891ICW/,ENCSR891ICW,H3K18ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR144NGP/,ENCSR144NGP,H3K18ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR828WNN/,ENCSR828WNN,H3K18ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR441IOY/,ENCSR441IOY,H3K18ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR384BYZ/,ENCSR384BYZ,H3K18ac,T-cell,avocado,GRCh38
+/annotations/ENCSR688XQR/,ENCSR688XQR,H3K18ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR109XUK/,ENCSR109XUK,H3K23ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR137PWF/,ENCSR137PWF,H3K23ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR170VHB/,ENCSR170VHB,H3K23ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR528NZQ/,ENCSR528NZQ,H3K23ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR470ABL/,ENCSR470ABL,H3K23ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR253BNR/,ENCSR253BNR,H3K23ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR599COK/,ENCSR599COK,H3K23ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR551GJI/,ENCSR551GJI,H3K23ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR928RBG/,ENCSR928RBG,H3K23ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR612KMJ/,ENCSR612KMJ,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR188FLE/,ENCSR188FLE,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR606SSI/,ENCSR606SSI,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR874MLK/,ENCSR874MLK,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR008HTN/,ENCSR008HTN,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR602CJZ/,ENCSR602CJZ,H3K23ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR782YVS/,ENCSR782YVS,H3K23ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR870EEO/,ENCSR870EEO,H3K23ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR807CBW/,ENCSR807CBW,H3K23ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR343XEX/,ENCSR343XEX,H3K23ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR836NSL/,ENCSR836NSL,H3K23ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR166GYB/,ENCSR166GYB,H3K23ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR171FKM/,ENCSR171FKM,H3K23ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR771GPN/,ENCSR771GPN,H3K23ac,T-cell,avocado,GRCh38
+/annotations/ENCSR997JIH/,ENCSR997JIH,H3K23ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR087KWZ/,ENCSR087KWZ,H3K27ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR829UVL/,ENCSR829UVL,H3K27ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR303ANG/,ENCSR303ANG,H3K27ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR852OMC/,ENCSR852OMC,H3K27ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR413THO/,ENCSR413THO,H3K27ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR749ERE/,ENCSR749ERE,H3K27ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR683OOT/,ENCSR683OOT,H3K27ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR083QBX/,ENCSR083QBX,H3K27ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR781OXN/,ENCSR781OXN,H3K27ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR511QCJ/,ENCSR511QCJ,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR410XGU/,ENCSR410XGU,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR204CTC/,ENCSR204CTC,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR868NAN/,ENCSR868NAN,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR429UKA/,ENCSR429UKA,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR248BRZ/,ENCSR248BRZ,H3K27ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR682CFQ/,ENCSR682CFQ,H3K27ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR905TZU/,ENCSR905TZU,H3K27ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR563SHA/,ENCSR563SHA,H3K27ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR943REY/,ENCSR943REY,H3K27ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR622BXY/,ENCSR622BXY,H3K27ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR764JPI/,ENCSR764JPI,H3K27ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR742WUG/,ENCSR742WUG,H3K27ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR323DCV/,ENCSR323DCV,H3K27ac,T-cell,avocado,GRCh38
+/annotations/ENCSR051KLD/,ENCSR051KLD,H3K27ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR457QLC/,ENCSR457QLC,H3K27me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR975YLQ/,ENCSR975YLQ,H3K27me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR204OGQ/,ENCSR204OGQ,H3K27me3,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR804VZU/,ENCSR804VZU,H3K27me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR780YXU/,ENCSR780YXU,H3K27me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR005BHT/,ENCSR005BHT,H3K27me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR777LMX/,ENCSR777LMX,H3K27me3,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR886OBA/,ENCSR886OBA,H3K27me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR597TFX/,ENCSR597TFX,H3K27me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR337EHG/,ENCSR337EHG,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR633TRX/,ENCSR633TRX,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR605NYT/,ENCSR605NYT,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR296ODZ/,ENCSR296ODZ,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR923AHY/,ENCSR923AHY,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR332RZU/,ENCSR332RZU,H3K27me3,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR357HFC/,ENCSR357HFC,H3K27me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR153YHG/,ENCSR153YHG,H3K27me3,natural killer cell,avocado,GRCh38
+/annotations/ENCSR237SOJ/,ENCSR237SOJ,H3K27me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR765YJG/,ENCSR765YJG,H3K27me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR370QDV/,ENCSR370QDV,H3K27me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR161RSB/,ENCSR161RSB,H3K27me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR388AVO/,ENCSR388AVO,H3K27me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR771RHM/,ENCSR771RHM,H3K27me3,T-cell,avocado,GRCh38
+/annotations/ENCSR356NXC/,ENCSR356NXC,H3K27me3,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR019ODA/,ENCSR019ODA,H3K36me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR953QHP/,ENCSR953QHP,H3K36me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR463THW/,ENCSR463THW,H3K36me3,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR918IAY/,ENCSR918IAY,H3K36me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR330RPD/,ENCSR330RPD,H3K36me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR069UBK/,ENCSR069UBK,H3K36me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR203VZA/,ENCSR203VZA,H3K36me3,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR036GRM/,ENCSR036GRM,H3K36me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR345OZC/,ENCSR345OZC,H3K36me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR969OSY/,ENCSR969OSY,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR698OSO/,ENCSR698OSO,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR549VWH/,ENCSR549VWH,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR529QDW/,ENCSR529QDW,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR965WBB/,ENCSR965WBB,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR118JYO/,ENCSR118JYO,H3K36me3,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR514AFG/,ENCSR514AFG,H3K36me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR331UJO/,ENCSR331UJO,H3K36me3,natural killer cell,avocado,GRCh38
+/annotations/ENCSR728PIK/,ENCSR728PIK,H3K36me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR455JBX/,ENCSR455JBX,H3K36me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR171WSU/,ENCSR171WSU,H3K36me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR239QTX/,ENCSR239QTX,H3K36me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR871SQR/,ENCSR871SQR,H3K36me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR827QTV/,ENCSR827QTV,H3K36me3,T-cell,avocado,GRCh38
+/annotations/ENCSR876EGL/,ENCSR876EGL,H3K36me3,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR049LJA/,ENCSR049LJA,H3K4ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR022PCV/,ENCSR022PCV,H3K4ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR584ECP/,ENCSR584ECP,H3K4ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR298XQM/,ENCSR298XQM,H3K4ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR879JFU/,ENCSR879JFU,H3K4ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR807ZNJ/,ENCSR807ZNJ,H3K4ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR278AGP/,ENCSR278AGP,H3K4ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR467IMM/,ENCSR467IMM,H3K4ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR436GXO/,ENCSR436GXO,H3K4ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR013IBD/,ENCSR013IBD,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR879ANI/,ENCSR879ANI,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR526ODB/,ENCSR526ODB,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR264ZES/,ENCSR264ZES,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR662AYC/,ENCSR662AYC,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR558TRH/,ENCSR558TRH,H3K4ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR053TPR/,ENCSR053TPR,H3K4ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR329UUO/,ENCSR329UUO,H3K4ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR049COG/,ENCSR049COG,H3K4ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR012NSV/,ENCSR012NSV,H3K4ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR205PLF/,ENCSR205PLF,H3K4ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR120JGY/,ENCSR120JGY,H3K4ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR361LNI/,ENCSR361LNI,H3K4ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR828RFX/,ENCSR828RFX,H3K4ac,T-cell,avocado,GRCh38
+/annotations/ENCSR820JDD/,ENCSR820JDD,H3K4ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR718JPD/,ENCSR718JPD,H3K4me1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR656EGD/,ENCSR656EGD,H3K4me1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR233UAA/,ENCSR233UAA,H3K4me1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR256FCY/,ENCSR256FCY,H3K4me1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR444BNV/,ENCSR444BNV,H3K4me1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR687QEW/,ENCSR687QEW,H3K4me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR612WDF/,ENCSR612WDF,H3K4me1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR314ODE/,ENCSR314ODE,H3K4me1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR912HFB/,ENCSR912HFB,H3K4me1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR962OGL/,ENCSR962OGL,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR096QXO/,ENCSR096QXO,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR266PGQ/,ENCSR266PGQ,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR042ANJ/,ENCSR042ANJ,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR529UJP/,ENCSR529UJP,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR638FFP/,ENCSR638FFP,H3K4me1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR722BCJ/,ENCSR722BCJ,H3K4me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR603JCW/,ENCSR603JCW,H3K4me1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR785LSY/,ENCSR785LSY,H3K4me1,neutrophil,avocado,GRCh38
+/annotations/ENCSR086RDO/,ENCSR086RDO,H3K4me1,neutrophil,avocado,GRCh38
+/annotations/ENCSR813LWQ/,ENCSR813LWQ,H3K4me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR567YRS/,ENCSR567YRS,H3K4me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR041QMX/,ENCSR041QMX,H3K4me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR515HZT/,ENCSR515HZT,H3K4me1,T-cell,avocado,GRCh38
+/annotations/ENCSR237CVU/,ENCSR237CVU,H3K4me1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR575AFO/,ENCSR575AFO,H3K4me2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR951CTM/,ENCSR951CTM,H3K4me2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR589UUJ/,ENCSR589UUJ,H3K4me2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR167GUS/,ENCSR167GUS,H3K4me2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR342BWG/,ENCSR342BWG,H3K4me2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR257RGU/,ENCSR257RGU,H3K4me2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR242GLP/,ENCSR242GLP,H3K4me2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR829ARX/,ENCSR829ARX,H3K4me2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR913BGR/,ENCSR913BGR,H3K4me2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR053MAC/,ENCSR053MAC,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR223WNU/,ENCSR223WNU,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR745ZAP/,ENCSR745ZAP,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR780RDE/,ENCSR780RDE,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR608BKK/,ENCSR608BKK,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR308KQC/,ENCSR308KQC,H3K4me2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR732WYV/,ENCSR732WYV,H3K4me2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR628WGD/,ENCSR628WGD,H3K4me2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR191QMZ/,ENCSR191QMZ,H3K4me2,neutrophil,avocado,GRCh38
+/annotations/ENCSR172UOD/,ENCSR172UOD,H3K4me2,neutrophil,avocado,GRCh38
+/annotations/ENCSR015DWO/,ENCSR015DWO,H3K4me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR943SZW/,ENCSR943SZW,H3K4me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR376BFP/,ENCSR376BFP,H3K4me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR122KSW/,ENCSR122KSW,H3K4me2,T-cell,avocado,GRCh38
+/annotations/ENCSR420LOP/,ENCSR420LOP,H3K4me2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR990LAG/,ENCSR990LAG,H3K4me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR675FCY/,ENCSR675FCY,H3K4me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR068JGF/,ENCSR068JGF,H3K4me3,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR367EAJ/,ENCSR367EAJ,H3K4me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR700AFY/,ENCSR700AFY,H3K4me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR423EAR/,ENCSR423EAR,H3K4me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR157DWD/,ENCSR157DWD,H3K4me3,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR884QYP/,ENCSR884QYP,H3K4me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR219WDJ/,ENCSR219WDJ,H3K4me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR120XEO/,ENCSR120XEO,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR780QWO/,ENCSR780QWO,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR403EJZ/,ENCSR403EJZ,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR545MIC/,ENCSR545MIC,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR945BFN/,ENCSR945BFN,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR890FWS/,ENCSR890FWS,H3K4me3,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR932YLK/,ENCSR932YLK,H3K4me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR614NRO/,ENCSR614NRO,H3K4me3,natural killer cell,avocado,GRCh38
+/annotations/ENCSR237STO/,ENCSR237STO,H3K4me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR581UBO/,ENCSR581UBO,H3K4me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR509IFG/,ENCSR509IFG,H3K4me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR131NYB/,ENCSR131NYB,H3K4me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR009XOB/,ENCSR009XOB,H3K4me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR668GRX/,ENCSR668GRX,H3K4me3,T-cell,avocado,GRCh38
+/annotations/ENCSR954HWA/,ENCSR954HWA,H3K4me3,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR610RFX/,ENCSR610RFX,H3K79me1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR380PMR/,ENCSR380PMR,H3K79me1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR552QHA/,ENCSR552QHA,H3K79me1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR752FGN/,ENCSR752FGN,H3K79me1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR624PXP/,ENCSR624PXP,H3K79me1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR799LZI/,ENCSR799LZI,H3K79me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR369RQJ/,ENCSR369RQJ,H3K79me1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR902UEK/,ENCSR902UEK,H3K79me1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR676WVA/,ENCSR676WVA,H3K79me1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR445GRO/,ENCSR445GRO,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR229NSB/,ENCSR229NSB,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR968HEL/,ENCSR968HEL,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR582ABS/,ENCSR582ABS,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR762AVW/,ENCSR762AVW,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR479GJF/,ENCSR479GJF,H3K79me1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR293XMX/,ENCSR293XMX,H3K79me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR272LPX/,ENCSR272LPX,H3K79me1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR685VEZ/,ENCSR685VEZ,H3K79me1,neutrophil,avocado,GRCh38
+/annotations/ENCSR281RVV/,ENCSR281RVV,H3K79me1,neutrophil,avocado,GRCh38
+/annotations/ENCSR346YQU/,ENCSR346YQU,H3K79me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR285RTW/,ENCSR285RTW,H3K79me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR761NJW/,ENCSR761NJW,H3K79me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR168FBL/,ENCSR168FBL,H3K79me1,T-cell,avocado,GRCh38
+/annotations/ENCSR324JLN/,ENCSR324JLN,H3K79me1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR774WWE/,ENCSR774WWE,H3K79me2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR324RIZ/,ENCSR324RIZ,H3K79me2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR822JOJ/,ENCSR822JOJ,H3K79me2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR166RWM/,ENCSR166RWM,H3K79me2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR297ZUV/,ENCSR297ZUV,H3K79me2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR201GDU/,ENCSR201GDU,H3K79me2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR185PFP/,ENCSR185PFP,H3K79me2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR931GGE/,ENCSR931GGE,H3K79me2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR730WCA/,ENCSR730WCA,H3K79me2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR708KVW/,ENCSR708KVW,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR602GGP/,ENCSR602GGP,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR239PHN/,ENCSR239PHN,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR645SEX/,ENCSR645SEX,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR956DEN/,ENCSR956DEN,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR312JZO/,ENCSR312JZO,H3K79me2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR560FBK/,ENCSR560FBK,H3K79me2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR788ZGY/,ENCSR788ZGY,H3K79me2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR455USR/,ENCSR455USR,H3K79me2,neutrophil,avocado,GRCh38
+/annotations/ENCSR453NAJ/,ENCSR453NAJ,H3K79me2,neutrophil,avocado,GRCh38
+/annotations/ENCSR693TJE/,ENCSR693TJE,H3K79me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR793CMR/,ENCSR793CMR,H3K79me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR056LWK/,ENCSR056LWK,H3K79me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR322UAE/,ENCSR322UAE,H3K79me2,T-cell,avocado,GRCh38
+/annotations/ENCSR744APT/,ENCSR744APT,H3K79me2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR299IYP/,ENCSR299IYP,H3K9ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR459GCC/,ENCSR459GCC,H3K9ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR578NSQ/,ENCSR578NSQ,H3K9ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR691JZX/,ENCSR691JZX,H3K9ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR308JFX/,ENCSR308JFX,H3K9ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR134LUU/,ENCSR134LUU,H3K9ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR338APE/,ENCSR338APE,H3K9ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR954DSB/,ENCSR954DSB,H3K9ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR088JTY/,ENCSR088JTY,H3K9ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR582VKF/,ENCSR582VKF,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR579LWJ/,ENCSR579LWJ,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR870LSP/,ENCSR870LSP,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR741LCY/,ENCSR741LCY,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR815BYX/,ENCSR815BYX,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR734FOY/,ENCSR734FOY,H3K9ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR385YCD/,ENCSR385YCD,H3K9ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR857UCQ/,ENCSR857UCQ,H3K9ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR479QCX/,ENCSR479QCX,H3K9ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR891PAI/,ENCSR891PAI,H3K9ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR883VSK/,ENCSR883VSK,H3K9ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR052XZV/,ENCSR052XZV,H3K9ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR050HYB/,ENCSR050HYB,H3K9ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR711MSR/,ENCSR711MSR,H3K9ac,T-cell,avocado,GRCh38
+/annotations/ENCSR550PZE/,ENCSR550PZE,H3K9ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR788SBQ/,ENCSR788SBQ,H3K9me2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR479EMC/,ENCSR479EMC,H3K9me2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR585OGT/,ENCSR585OGT,H3K9me2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR658GWD/,ENCSR658GWD,H3K9me2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR460CGX/,ENCSR460CGX,H3K9me2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR258CFL/,ENCSR258CFL,H3K9me2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR913KAY/,ENCSR913KAY,H3K9me2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR965ZBJ/,ENCSR965ZBJ,H3K9me2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR824HOF/,ENCSR824HOF,H3K9me2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR288PYF/,ENCSR288PYF,H3K9me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR294SNW/,ENCSR294SNW,H3K9me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR653FFO/,ENCSR653FFO,H3K9me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR572LFT/,ENCSR572LFT,H3K9me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR884MQR/,ENCSR884MQR,H3K9me2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR330ONL/,ENCSR330ONL,H3K9me2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR946PRH/,ENCSR946PRH,H3K9me2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR002ZMI/,ENCSR002ZMI,H3K9me2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR237IFF/,ENCSR237IFF,H3K9me2,neutrophil,avocado,GRCh38
+/annotations/ENCSR535JXF/,ENCSR535JXF,H3K9me2,neutrophil,avocado,GRCh38
+/annotations/ENCSR359BUS/,ENCSR359BUS,H3K9me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR140LND/,ENCSR140LND,H3K9me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR107NYK/,ENCSR107NYK,H3K9me2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR483LTQ/,ENCSR483LTQ,H3K9me2,T-cell,avocado,GRCh38
+/annotations/ENCSR747ALH/,ENCSR747ALH,H3K9me2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR589NGG/,ENCSR589NGG,H3K9me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR621RMT/,ENCSR621RMT,H3K9me3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR534OWF/,ENCSR534OWF,H3K9me3,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR954ZUT/,ENCSR954ZUT,H3K9me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR060QPD/,ENCSR060QPD,H3K9me3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR728PMS/,ENCSR728PMS,H3K9me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR834TXV/,ENCSR834TXV,H3K9me3,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR411XSG/,ENCSR411XSG,H3K9me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR240VFO/,ENCSR240VFO,H3K9me3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR563SMI/,ENCSR563SMI,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR152XDL/,ENCSR152XDL,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR403HWB/,ENCSR403HWB,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR356FRU/,ENCSR356FRU,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR022ECR/,ENCSR022ECR,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR145IEB/,ENCSR145IEB,H3K9me3,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR959WLM/,ENCSR959WLM,H3K9me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR082FYA/,ENCSR082FYA,H3K9me3,natural killer cell,avocado,GRCh38
+/annotations/ENCSR256YJE/,ENCSR256YJE,H3K9me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR824RRT/,ENCSR824RRT,H3K9me3,neutrophil,avocado,GRCh38
+/annotations/ENCSR453MGI/,ENCSR453MGI,H3K9me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR038BIH/,ENCSR038BIH,H3K9me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR848FLQ/,ENCSR848FLQ,H3K9me3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR639TTW/,ENCSR639TTW,H3K9me3,T-cell,avocado,GRCh38
+/annotations/ENCSR951ATJ/,ENCSR951ATJ,H3K9me3,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR598YQK/,ENCSR598YQK,H4K20me1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR709ZMG/,ENCSR709ZMG,H4K20me1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR983ZNJ/,ENCSR983ZNJ,H4K20me1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR374DNP/,ENCSR374DNP,H4K20me1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR051HMM/,ENCSR051HMM,H4K20me1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR491ZQX/,ENCSR491ZQX,H4K20me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR531GSQ/,ENCSR531GSQ,H4K20me1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR581VRX/,ENCSR581VRX,H4K20me1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR102WEF/,ENCSR102WEF,H4K20me1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR735KHS/,ENCSR735KHS,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR063HPU/,ENCSR063HPU,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR526PUP/,ENCSR526PUP,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR833YNV/,ENCSR833YNV,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR767NIV/,ENCSR767NIV,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR006ZLP/,ENCSR006ZLP,H4K20me1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR706MMK/,ENCSR706MMK,H4K20me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR783PNW/,ENCSR783PNW,H4K20me1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR777RLV/,ENCSR777RLV,H4K20me1,neutrophil,avocado,GRCh38
+/annotations/ENCSR555TNH/,ENCSR555TNH,H4K20me1,neutrophil,avocado,GRCh38
+/annotations/ENCSR512VYJ/,ENCSR512VYJ,H4K20me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR037PSN/,ENCSR037PSN,H4K20me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR264KHI/,ENCSR264KHI,H4K20me1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR196BCV/,ENCSR196BCV,H4K20me1,T-cell,avocado,GRCh38
+/annotations/ENCSR526EZF/,ENCSR526EZF,H4K20me1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR489DPT/,ENCSR489DPT,H4K8ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR752LAU/,ENCSR752LAU,H4K8ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR693PXU/,ENCSR693PXU,H4K8ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR005TQK/,ENCSR005TQK,H4K8ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR040WTS/,ENCSR040WTS,H4K8ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR741KUE/,ENCSR741KUE,H4K8ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR182HQQ/,ENCSR182HQQ,H4K8ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR795XOW/,ENCSR795XOW,H4K8ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR302ZEN/,ENCSR302ZEN,H4K8ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR083QZV/,ENCSR083QZV,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR319NRR/,ENCSR319NRR,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR943XXD/,ENCSR943XXD,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR079KEY/,ENCSR079KEY,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR199TXR/,ENCSR199TXR,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR841HUF/,ENCSR841HUF,H4K8ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR961BKG/,ENCSR961BKG,H4K8ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR417PYV/,ENCSR417PYV,H4K8ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR817MIF/,ENCSR817MIF,H4K8ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR590VXG/,ENCSR590VXG,H4K8ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR280KGY/,ENCSR280KGY,H4K8ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR560PSX/,ENCSR560PSX,H4K8ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR527BPJ/,ENCSR527BPJ,H4K8ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR061GXP/,ENCSR061GXP,H4K8ac,T-cell,avocado,GRCh38
+/annotations/ENCSR923XUD/,ENCSR923XUD,H4K8ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR440CXC/,ENCSR440CXC,H4K91ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR861ELV/,ENCSR861ELV,H4K91ac,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR221DUA/,ENCSR221DUA,H4K91ac,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR396ENO/,ENCSR396ENO,H4K91ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR760MNN/,ENCSR760MNN,H4K91ac,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR246ITK/,ENCSR246ITK,H4K91ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR894TSI/,ENCSR894TSI,H4K91ac,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR655DEB/,ENCSR655DEB,H4K91ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR791STI/,ENCSR791STI,H4K91ac,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR381EFM/,ENCSR381EFM,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR189RPI/,ENCSR189RPI,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR921GGG/,ENCSR921GGG,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR395CSB/,ENCSR395CSB,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR068WGQ/,ENCSR068WGQ,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR624XDT/,ENCSR624XDT,H4K91ac,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR756WHO/,ENCSR756WHO,H4K91ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR870NLA/,ENCSR870NLA,H4K91ac,natural killer cell,avocado,GRCh38
+/annotations/ENCSR682GJV/,ENCSR682GJV,H4K91ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR827XCN/,ENCSR827XCN,H4K91ac,neutrophil,avocado,GRCh38
+/annotations/ENCSR248BLL/,ENCSR248BLL,H4K91ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR017SGV/,ENCSR017SGV,H4K91ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR254RIR/,ENCSR254RIR,H4K91ac,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR765OLZ/,ENCSR765OLZ,H4K91ac,T-cell,avocado,GRCh38
+/annotations/ENCSR994UJT/,ENCSR994UJT,H4K91ac,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR908SJN/,ENCSR908SJN,HDAC2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR266GJH/,ENCSR266GJH,HDAC2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR450DIC/,ENCSR450DIC,HDAC2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR044WAF/,ENCSR044WAF,HDAC2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR063MPP/,ENCSR063MPP,HDAC2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR512UHI/,ENCSR512UHI,HDAC2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR856OVL/,ENCSR856OVL,HDAC2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR484LSC/,ENCSR484LSC,HDAC2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR025CFK/,ENCSR025CFK,HDAC2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR222IEW/,ENCSR222IEW,HDAC2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR838NFR/,ENCSR838NFR,HDAC2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR739CUD/,ENCSR739CUD,HDAC2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR877WYM/,ENCSR877WYM,HDAC2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR013NSX/,ENCSR013NSX,HDAC2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR709WQR/,ENCSR709WQR,HDAC2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR816LEX/,ENCSR816LEX,HDAC2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR993UAN/,ENCSR993UAN,HDAC2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR305TJJ/,ENCSR305TJJ,HDAC2,neutrophil,avocado,GRCh38
+/annotations/ENCSR413GUF/,ENCSR413GUF,HDAC2,neutrophil,avocado,GRCh38
+/annotations/ENCSR016PWY/,ENCSR016PWY,HDAC2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR586VMJ/,ENCSR586VMJ,HDAC2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR292FLN/,ENCSR292FLN,HDAC2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR628UBW/,ENCSR628UBW,HDAC2,T-cell,avocado,GRCh38
+/annotations/ENCSR905NXW/,ENCSR905NXW,HDAC2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR191FQM/,ENCSR191FQM,JUND,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR401VUB/,ENCSR401VUB,JUND,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR453SJN/,ENCSR453SJN,JUND,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR750HXQ/,ENCSR750HXQ,JUND,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR342MDU/,ENCSR342MDU,JUND,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR599IIY/,ENCSR599IIY,JUND,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR921JPB/,ENCSR921JPB,JUND,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR296IMQ/,ENCSR296IMQ,JUND,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR363UHI/,ENCSR363UHI,JUND,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR679CII/,ENCSR679CII,JUND,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR784KTN/,ENCSR784KTN,JUND,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR346ZTC/,ENCSR346ZTC,JUND,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR016IDD/,ENCSR016IDD,JUND,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR650DOT/,ENCSR650DOT,JUND,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR685VAS/,ENCSR685VAS,JUND,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR266QSF/,ENCSR266QSF,JUND,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR592FEN/,ENCSR592FEN,JUND,natural killer cell,avocado,GRCh38
+/annotations/ENCSR388POK/,ENCSR388POK,JUND,neutrophil,avocado,GRCh38
+/annotations/ENCSR837CDO/,ENCSR837CDO,JUND,neutrophil,avocado,GRCh38
+/annotations/ENCSR162AMB/,ENCSR162AMB,JUND,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR894TMV/,ENCSR894TMV,JUND,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR396MSS/,ENCSR396MSS,JUND,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR224UIP/,ENCSR224UIP,JUND,T-cell,avocado,GRCh38
+/annotations/ENCSR524QTA/,ENCSR524QTA,JUND,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR259OEA/,ENCSR259OEA,KDM1A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR716IXW/,ENCSR716IXW,KDM1A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR953YTE/,ENCSR953YTE,KDM1A,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR738MXK/,ENCSR738MXK,KDM1A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR097LWC/,ENCSR097LWC,KDM1A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR644JOR/,ENCSR644JOR,KDM1A,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR328XJM/,ENCSR328XJM,KDM1A,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR382KHQ/,ENCSR382KHQ,KDM1A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR080AKI/,ENCSR080AKI,KDM1A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR890DZX/,ENCSR890DZX,KDM1A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR600AXQ/,ENCSR600AXQ,KDM1A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR208MKP/,ENCSR208MKP,KDM1A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR458UQW/,ENCSR458UQW,KDM1A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR758TBP/,ENCSR758TBP,KDM1A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR017BVR/,ENCSR017BVR,KDM1A,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR240JUB/,ENCSR240JUB,KDM1A,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR057XGX/,ENCSR057XGX,KDM1A,natural killer cell,avocado,GRCh38
+/annotations/ENCSR066LYP/,ENCSR066LYP,KDM1A,neutrophil,avocado,GRCh38
+/annotations/ENCSR550DLD/,ENCSR550DLD,KDM1A,neutrophil,avocado,GRCh38
+/annotations/ENCSR587MDM/,ENCSR587MDM,KDM1A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR280PNP/,ENCSR280PNP,KDM1A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR494KEL/,ENCSR494KEL,KDM1A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR491JKW/,ENCSR491JKW,KDM1A,T-cell,avocado,GRCh38
+/annotations/ENCSR409DMT/,ENCSR409DMT,KDM1A,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR972EKI/,ENCSR972EKI,MAFK,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR768QGG/,ENCSR768QGG,MAFK,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR327DJL/,ENCSR327DJL,MAFK,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR094GZL/,ENCSR094GZL,MAFK,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR908UAL/,ENCSR908UAL,MAFK,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR752IVB/,ENCSR752IVB,MAFK,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR238LMC/,ENCSR238LMC,MAFK,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR602VIB/,ENCSR602VIB,MAFK,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR354NIX/,ENCSR354NIX,MAFK,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR433QSJ/,ENCSR433QSJ,MAFK,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR134SKS/,ENCSR134SKS,MAFK,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR917KPL/,ENCSR917KPL,MAFK,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR707SNC/,ENCSR707SNC,MAFK,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR248IDI/,ENCSR248IDI,MAFK,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR895BOJ/,ENCSR895BOJ,MAFK,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR637SHZ/,ENCSR637SHZ,MAFK,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR895QPK/,ENCSR895QPK,MAFK,natural killer cell,avocado,GRCh38
+/annotations/ENCSR533ECA/,ENCSR533ECA,MAFK,neutrophil,avocado,GRCh38
+/annotations/ENCSR928PPD/,ENCSR928PPD,MAFK,neutrophil,avocado,GRCh38
+/annotations/ENCSR444THD/,ENCSR444THD,MAFK,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR642UCN/,ENCSR642UCN,MAFK,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR658KMW/,ENCSR658KMW,MAFK,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR035YYQ/,ENCSR035YYQ,MAFK,T-cell,avocado,GRCh38
+/annotations/ENCSR389JIX/,ENCSR389JIX,MAFK,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR050KOY/,ENCSR050KOY,MAX,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR943OQA/,ENCSR943OQA,MAX,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR838KRF/,ENCSR838KRF,MAX,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR923CJN/,ENCSR923CJN,MAX,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR941TIU/,ENCSR941TIU,MAX,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR999NVG/,ENCSR999NVG,MAX,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR752JRZ/,ENCSR752JRZ,MAX,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR127EET/,ENCSR127EET,MAX,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR558WNL/,ENCSR558WNL,MAX,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR797LZG/,ENCSR797LZG,MAX,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR361VDN/,ENCSR361VDN,MAX,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR569LTT/,ENCSR569LTT,MAX,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR088GOQ/,ENCSR088GOQ,MAX,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR722YEF/,ENCSR722YEF,MAX,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR976FPE/,ENCSR976FPE,MAX,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR256YCC/,ENCSR256YCC,MAX,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR754ZAY/,ENCSR754ZAY,MAX,natural killer cell,avocado,GRCh38
+/annotations/ENCSR678WBU/,ENCSR678WBU,MAX,neutrophil,avocado,GRCh38
+/annotations/ENCSR655HZG/,ENCSR655HZG,MAX,neutrophil,avocado,GRCh38
+/annotations/ENCSR738CZC/,ENCSR738CZC,MAX,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR058LEQ/,ENCSR058LEQ,MAX,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR763VUB/,ENCSR763VUB,MAX,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR745NED/,ENCSR745NED,MAX,T-cell,avocado,GRCh38
+/annotations/ENCSR125PHB/,ENCSR125PHB,MAX,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR495QQE/,ENCSR495QQE,MAZ,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR591DYB/,ENCSR591DYB,MAZ,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR172BZA/,ENCSR172BZA,MAZ,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR063QUT/,ENCSR063QUT,MAZ,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR228CVW/,ENCSR228CVW,MAZ,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR504BLS/,ENCSR504BLS,MAZ,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR324ZMT/,ENCSR324ZMT,MAZ,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR094UAC/,ENCSR094UAC,MAZ,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR968IKH/,ENCSR968IKH,MAZ,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR029SSQ/,ENCSR029SSQ,MAZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR992QVT/,ENCSR992QVT,MAZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR413BDJ/,ENCSR413BDJ,MAZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR526BZR/,ENCSR526BZR,MAZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR832XRB/,ENCSR832XRB,MAZ,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR025DPF/,ENCSR025DPF,MAZ,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR952DER/,ENCSR952DER,MAZ,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR076EGY/,ENCSR076EGY,MAZ,natural killer cell,avocado,GRCh38
+/annotations/ENCSR336LZE/,ENCSR336LZE,MAZ,neutrophil,avocado,GRCh38
+/annotations/ENCSR683YAM/,ENCSR683YAM,MAZ,neutrophil,avocado,GRCh38
+/annotations/ENCSR284AJJ/,ENCSR284AJJ,MAZ,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR172MPJ/,ENCSR172MPJ,MAZ,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR375RPI/,ENCSR375RPI,MAZ,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR019THB/,ENCSR019THB,MAZ,T-cell,avocado,GRCh38
+/annotations/ENCSR443YUZ/,ENCSR443YUZ,MAZ,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR890NJC/,ENCSR890NJC,NRF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR108UOG/,ENCSR108UOG,NRF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR298NHD/,ENCSR298NHD,NRF1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR504CTN/,ENCSR504CTN,NRF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR570COA/,ENCSR570COA,NRF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR947BAS/,ENCSR947BAS,NRF1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR273XWJ/,ENCSR273XWJ,NRF1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR329DQU/,ENCSR329DQU,NRF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR606WQD/,ENCSR606WQD,NRF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR314UZT/,ENCSR314UZT,NRF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR070LBB/,ENCSR070LBB,NRF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR490BGP/,ENCSR490BGP,NRF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR646ILE/,ENCSR646ILE,NRF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR894RCX/,ENCSR894RCX,NRF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR571JRF/,ENCSR571JRF,NRF1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR758OPX/,ENCSR758OPX,NRF1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR271HVD/,ENCSR271HVD,NRF1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR800VIJ/,ENCSR800VIJ,NRF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR806ECZ/,ENCSR806ECZ,NRF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR919HZH/,ENCSR919HZH,NRF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR602IUN/,ENCSR602IUN,NRF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR395HYM/,ENCSR395HYM,NRF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR084OWP/,ENCSR084OWP,NRF1,T-cell,avocado,GRCh38
+/annotations/ENCSR396FYX/,ENCSR396FYX,NRF1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR780FCC/,ENCSR780FCC,POLR2A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR545SSU/,ENCSR545SSU,POLR2A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR339OLH/,ENCSR339OLH,POLR2A,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR341WBM/,ENCSR341WBM,POLR2A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR928XAF/,ENCSR928XAF,POLR2A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR104JLK/,ENCSR104JLK,POLR2A,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR200OQY/,ENCSR200OQY,POLR2A,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR810XHV/,ENCSR810XHV,POLR2A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR628XOP/,ENCSR628XOP,POLR2A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR288BVI/,ENCSR288BVI,POLR2A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR278YBB/,ENCSR278YBB,POLR2A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR431TPI/,ENCSR431TPI,POLR2A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR967JZY/,ENCSR967JZY,POLR2A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR427RZJ/,ENCSR427RZJ,POLR2A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR418PFE/,ENCSR418PFE,POLR2A,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR885DWP/,ENCSR885DWP,POLR2A,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR760TKN/,ENCSR760TKN,POLR2A,natural killer cell,avocado,GRCh38
+/annotations/ENCSR285JNF/,ENCSR285JNF,POLR2A,neutrophil,avocado,GRCh38
+/annotations/ENCSR612AUX/,ENCSR612AUX,POLR2A,neutrophil,avocado,GRCh38
+/annotations/ENCSR300QUY/,ENCSR300QUY,POLR2A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR467TVL/,ENCSR467TVL,POLR2A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR081NGV/,ENCSR081NGV,POLR2A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR929VBG/,ENCSR929VBG,POLR2A,T-cell,avocado,GRCh38
+/annotations/ENCSR513KZT/,ENCSR513KZT,POLR2A,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR062YHG/,ENCSR062YHG,POLR2AphosphoS5,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR453HBD/,ENCSR453HBD,POLR2AphosphoS5,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR237TKU/,ENCSR237TKU,POLR2AphosphoS5,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR107CAY/,ENCSR107CAY,POLR2AphosphoS5,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR268UKU/,ENCSR268UKU,POLR2AphosphoS5,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR760OIH/,ENCSR760OIH,POLR2AphosphoS5,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR170POH/,ENCSR170POH,POLR2AphosphoS5,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR048CUS/,ENCSR048CUS,POLR2AphosphoS5,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR780TVR/,ENCSR780TVR,POLR2AphosphoS5,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR078RBF/,ENCSR078RBF,POLR2AphosphoS5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR389OEO/,ENCSR389OEO,POLR2AphosphoS5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR359FEW/,ENCSR359FEW,POLR2AphosphoS5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR541SJV/,ENCSR541SJV,POLR2AphosphoS5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR844RVR/,ENCSR844RVR,POLR2AphosphoS5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR155GOA/,ENCSR155GOA,POLR2AphosphoS5,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR055NHP/,ENCSR055NHP,POLR2AphosphoS5,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR883KTG/,ENCSR883KTG,POLR2AphosphoS5,natural killer cell,avocado,GRCh38
+/annotations/ENCSR208XPO/,ENCSR208XPO,POLR2AphosphoS5,neutrophil,avocado,GRCh38
+/annotations/ENCSR960ALP/,ENCSR960ALP,POLR2AphosphoS5,neutrophil,avocado,GRCh38
+/annotations/ENCSR676INT/,ENCSR676INT,POLR2AphosphoS5,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR308DPZ/,ENCSR308DPZ,POLR2AphosphoS5,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR542MMK/,ENCSR542MMK,POLR2AphosphoS5,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR229QPK/,ENCSR229QPK,POLR2AphosphoS5,T-cell,avocado,GRCh38
+/annotations/ENCSR927FIS/,ENCSR927FIS,POLR2AphosphoS5,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR840ZUP/,ENCSR840ZUP,RAD21,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR535TZL/,ENCSR535TZL,RAD21,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR577BOW/,ENCSR577BOW,RAD21,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR096LKB/,ENCSR096LKB,RAD21,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR628NWW/,ENCSR628NWW,RAD21,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR326VRJ/,ENCSR326VRJ,RAD21,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR505DFU/,ENCSR505DFU,RAD21,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR917FIY/,ENCSR917FIY,RAD21,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR552GRS/,ENCSR552GRS,RAD21,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR469XYJ/,ENCSR469XYJ,RAD21,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR765AER/,ENCSR765AER,RAD21,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR269IZJ/,ENCSR269IZJ,RAD21,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR169QCV/,ENCSR169QCV,RAD21,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR128OGB/,ENCSR128OGB,RAD21,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR614XFU/,ENCSR614XFU,RAD21,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR592UBF/,ENCSR592UBF,RAD21,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR697SKW/,ENCSR697SKW,RAD21,natural killer cell,avocado,GRCh38
+/annotations/ENCSR951UGN/,ENCSR951UGN,RAD21,neutrophil,avocado,GRCh38
+/annotations/ENCSR282AKJ/,ENCSR282AKJ,RAD21,neutrophil,avocado,GRCh38
+/annotations/ENCSR837YBW/,ENCSR837YBW,RAD21,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR815LLT/,ENCSR815LLT,RAD21,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR283ZOO/,ENCSR283ZOO,RAD21,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR939EHJ/,ENCSR939EHJ,RAD21,T-cell,avocado,GRCh38
+/annotations/ENCSR933IXY/,ENCSR933IXY,RAD21,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR796ETS/,ENCSR796ETS,RCOR1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR346DCP/,ENCSR346DCP,RCOR1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR513HXW/,ENCSR513HXW,RCOR1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR130ZQM/,ENCSR130ZQM,RCOR1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR367HHI/,ENCSR367HHI,RCOR1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR149AMZ/,ENCSR149AMZ,RCOR1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR614YXN/,ENCSR614YXN,RCOR1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR734VMV/,ENCSR734VMV,RCOR1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR889PTR/,ENCSR889PTR,RCOR1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR438KDC/,ENCSR438KDC,RCOR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR857HLB/,ENCSR857HLB,RCOR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR801QCG/,ENCSR801QCG,RCOR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR779CEA/,ENCSR779CEA,RCOR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR763TKS/,ENCSR763TKS,RCOR1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR246OBY/,ENCSR246OBY,RCOR1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR510KRL/,ENCSR510KRL,RCOR1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR153BSQ/,ENCSR153BSQ,RCOR1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR254VCB/,ENCSR254VCB,RCOR1,neutrophil,avocado,GRCh38
+/annotations/ENCSR459KJJ/,ENCSR459KJJ,RCOR1,neutrophil,avocado,GRCh38
+/annotations/ENCSR707IPL/,ENCSR707IPL,RCOR1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR182YCV/,ENCSR182YCV,RCOR1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR470VKQ/,ENCSR470VKQ,RCOR1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR883RIW/,ENCSR883RIW,RCOR1,T-cell,avocado,GRCh38
+/annotations/ENCSR183OKZ/,ENCSR183OKZ,RCOR1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR992QMH/,ENCSR992QMH,REST,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR174KXR/,ENCSR174KXR,REST,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR799BXV/,ENCSR799BXV,REST,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR749JSB/,ENCSR749JSB,REST,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR246KOR/,ENCSR246KOR,REST,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR724EAE/,ENCSR724EAE,REST,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR816IJW/,ENCSR816IJW,REST,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR413JBT/,ENCSR413JBT,REST,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR664AEI/,ENCSR664AEI,REST,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR807RTS/,ENCSR807RTS,REST,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR376EQB/,ENCSR376EQB,REST,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR812QIH/,ENCSR812QIH,REST,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR046CHA/,ENCSR046CHA,REST,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR430QHX/,ENCSR430QHX,REST,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR152AVA/,ENCSR152AVA,REST,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR534YWQ/,ENCSR534YWQ,REST,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR596HUS/,ENCSR596HUS,REST,natural killer cell,avocado,GRCh38
+/annotations/ENCSR270XJA/,ENCSR270XJA,REST,neutrophil,avocado,GRCh38
+/annotations/ENCSR647WRD/,ENCSR647WRD,REST,neutrophil,avocado,GRCh38
+/annotations/ENCSR919SLW/,ENCSR919SLW,REST,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR568KBX/,ENCSR568KBX,REST,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR338EQP/,ENCSR338EQP,REST,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR013QMH/,ENCSR013QMH,REST,T-cell,avocado,GRCh38
+/annotations/ENCSR441BFQ/,ENCSR441BFQ,REST,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR307YNC/,ENCSR307YNC,RFX5,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR471WHB/,ENCSR471WHB,RFX5,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR364KWC/,ENCSR364KWC,RFX5,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR874DHS/,ENCSR874DHS,RFX5,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR807ELH/,ENCSR807ELH,RFX5,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR304QNW/,ENCSR304QNW,RFX5,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR330XFY/,ENCSR330XFY,RFX5,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR556KCW/,ENCSR556KCW,RFX5,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR691ZCT/,ENCSR691ZCT,RFX5,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR343UWU/,ENCSR343UWU,RFX5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR682KXE/,ENCSR682KXE,RFX5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR653LBV/,ENCSR653LBV,RFX5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR308GJH/,ENCSR308GJH,RFX5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR380JUO/,ENCSR380JUO,RFX5,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR143WGC/,ENCSR143WGC,RFX5,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR069ERD/,ENCSR069ERD,RFX5,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR883JCA/,ENCSR883JCA,RFX5,natural killer cell,avocado,GRCh38
+/annotations/ENCSR251BEE/,ENCSR251BEE,RFX5,neutrophil,avocado,GRCh38
+/annotations/ENCSR816AZH/,ENCSR816AZH,RFX5,neutrophil,avocado,GRCh38
+/annotations/ENCSR333UIB/,ENCSR333UIB,RFX5,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR246MJS/,ENCSR246MJS,RFX5,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR448XBH/,ENCSR448XBH,RFX5,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR922LDJ/,ENCSR922LDJ,RFX5,T-cell,avocado,GRCh38
+/annotations/ENCSR032FLV/,ENCSR032FLV,RFX5,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR459SQN/,ENCSR459SQN,RXRA,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR381EXS/,ENCSR381EXS,RXRA,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR306TPV/,ENCSR306TPV,RXRA,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR699NQZ/,ENCSR699NQZ,RXRA,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR435LSM/,ENCSR435LSM,RXRA,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR849KJE/,ENCSR849KJE,RXRA,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR448URQ/,ENCSR448URQ,RXRA,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR332QEA/,ENCSR332QEA,RXRA,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR446JFX/,ENCSR446JFX,RXRA,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR045PFJ/,ENCSR045PFJ,RXRA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR645LXF/,ENCSR645LXF,RXRA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR623PYF/,ENCSR623PYF,RXRA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR368LWM/,ENCSR368LWM,RXRA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR795TRZ/,ENCSR795TRZ,RXRA,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR055VXM/,ENCSR055VXM,RXRA,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR712YQD/,ENCSR712YQD,RXRA,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR731YDI/,ENCSR731YDI,RXRA,natural killer cell,avocado,GRCh38
+/annotations/ENCSR337RRZ/,ENCSR337RRZ,RXRA,neutrophil,avocado,GRCh38
+/annotations/ENCSR513KBS/,ENCSR513KBS,RXRA,neutrophil,avocado,GRCh38
+/annotations/ENCSR229KNO/,ENCSR229KNO,RXRA,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR797FXN/,ENCSR797FXN,RXRA,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR175SFN/,ENCSR175SFN,RXRA,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR055QSS/,ENCSR055QSS,RXRA,T-cell,avocado,GRCh38
+/annotations/ENCSR439ADK/,ENCSR439ADK,RXRA,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR738GTA/,ENCSR738GTA,SIN3A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR343CRN/,ENCSR343CRN,SIN3A,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR887WQJ/,ENCSR887WQJ,SIN3A,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR434KOR/,ENCSR434KOR,SIN3A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR688ILX/,ENCSR688ILX,SIN3A,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR574ADO/,ENCSR574ADO,SIN3A,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR742FWF/,ENCSR742FWF,SIN3A,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR537ZQY/,ENCSR537ZQY,SIN3A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR207FVY/,ENCSR207FVY,SIN3A,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR265KEM/,ENCSR265KEM,SIN3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR366RGZ/,ENCSR366RGZ,SIN3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR992SGH/,ENCSR992SGH,SIN3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR650FBI/,ENCSR650FBI,SIN3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR404BYM/,ENCSR404BYM,SIN3A,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR982XWY/,ENCSR982XWY,SIN3A,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR599SOU/,ENCSR599SOU,SIN3A,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR475YOI/,ENCSR475YOI,SIN3A,natural killer cell,avocado,GRCh38
+/annotations/ENCSR926KAX/,ENCSR926KAX,SIN3A,neutrophil,avocado,GRCh38
+/annotations/ENCSR057BBX/,ENCSR057BBX,SIN3A,neutrophil,avocado,GRCh38
+/annotations/ENCSR135ESF/,ENCSR135ESF,SIN3A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR527YZJ/,ENCSR527YZJ,SIN3A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR532MGP/,ENCSR532MGP,SIN3A,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR760HJT/,ENCSR760HJT,SIN3A,T-cell,avocado,GRCh38
+/annotations/ENCSR193AME/,ENCSR193AME,SIN3A,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR297ARR/,ENCSR297ARR,SMC3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR435MAJ/,ENCSR435MAJ,SMC3,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR137DVJ/,ENCSR137DVJ,SMC3,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR700GJP/,ENCSR700GJP,SMC3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR019VWC/,ENCSR019VWC,SMC3,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR009UUR/,ENCSR009UUR,SMC3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR585KSB/,ENCSR585KSB,SMC3,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR926LGN/,ENCSR926LGN,SMC3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR223BCD/,ENCSR223BCD,SMC3,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR125ORN/,ENCSR125ORN,SMC3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR979RQD/,ENCSR979RQD,SMC3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR182KRB/,ENCSR182KRB,SMC3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR067XCG/,ENCSR067XCG,SMC3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR016URG/,ENCSR016URG,SMC3,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR012TKY/,ENCSR012TKY,SMC3,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR975BBE/,ENCSR975BBE,SMC3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR133PDA/,ENCSR133PDA,SMC3,natural killer cell,avocado,GRCh38
+/annotations/ENCSR833PRT/,ENCSR833PRT,SMC3,neutrophil,avocado,GRCh38
+/annotations/ENCSR452RLJ/,ENCSR452RLJ,SMC3,neutrophil,avocado,GRCh38
+/annotations/ENCSR331PDH/,ENCSR331PDH,SMC3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR050FNB/,ENCSR050FNB,SMC3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR689HOV/,ENCSR689HOV,SMC3,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR454GSV/,ENCSR454GSV,SMC3,T-cell,avocado,GRCh38
+/annotations/ENCSR473FEK/,ENCSR473FEK,SMC3,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR101FBF/,ENCSR101FBF,SP1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR312UIU/,ENCSR312UIU,SP1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR440FGB/,ENCSR440FGB,SP1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR835UHF/,ENCSR835UHF,SP1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR682NIA/,ENCSR682NIA,SP1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR403FCT/,ENCSR403FCT,SP1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR094XXH/,ENCSR094XXH,SP1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR443GBM/,ENCSR443GBM,SP1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR601JEJ/,ENCSR601JEJ,SP1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR314MHE/,ENCSR314MHE,SP1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR061PDC/,ENCSR061PDC,SP1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR051XLS/,ENCSR051XLS,SP1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR804KIP/,ENCSR804KIP,SP1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR892FLT/,ENCSR892FLT,SP1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR257CGV/,ENCSR257CGV,SP1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR655KJJ/,ENCSR655KJJ,SP1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR517MHB/,ENCSR517MHB,SP1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR827ZZV/,ENCSR827ZZV,SP1,neutrophil,avocado,GRCh38
+/annotations/ENCSR554RGR/,ENCSR554RGR,SP1,neutrophil,avocado,GRCh38
+/annotations/ENCSR645PKV/,ENCSR645PKV,SP1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR474GFM/,ENCSR474GFM,SP1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR872KDA/,ENCSR872KDA,SP1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR979CBI/,ENCSR979CBI,SP1,T-cell,avocado,GRCh38
+/annotations/ENCSR863QNY/,ENCSR863QNY,SP1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR495IWW/,ENCSR495IWW,SUZ12,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR415QIP/,ENCSR415QIP,SUZ12,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR477ZNT/,ENCSR477ZNT,SUZ12,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR805ELT/,ENCSR805ELT,SUZ12,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR400EQD/,ENCSR400EQD,SUZ12,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR495XAC/,ENCSR495XAC,SUZ12,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR305TFK/,ENCSR305TFK,SUZ12,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR852HMB/,ENCSR852HMB,SUZ12,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR255TXQ/,ENCSR255TXQ,SUZ12,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR829CRP/,ENCSR829CRP,SUZ12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR932BSL/,ENCSR932BSL,SUZ12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR854DUE/,ENCSR854DUE,SUZ12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR401UQD/,ENCSR401UQD,SUZ12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR040LAW/,ENCSR040LAW,SUZ12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR715WRH/,ENCSR715WRH,SUZ12,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR351YRD/,ENCSR351YRD,SUZ12,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR168SWM/,ENCSR168SWM,SUZ12,natural killer cell,avocado,GRCh38
+/annotations/ENCSR603FWX/,ENCSR603FWX,SUZ12,neutrophil,avocado,GRCh38
+/annotations/ENCSR906RNM/,ENCSR906RNM,SUZ12,neutrophil,avocado,GRCh38
+/annotations/ENCSR694NKR/,ENCSR694NKR,SUZ12,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR607RQU/,ENCSR607RQU,SUZ12,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR091KOT/,ENCSR091KOT,SUZ12,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR914VUQ/,ENCSR914VUQ,SUZ12,T-cell,avocado,GRCh38
+/annotations/ENCSR018USE/,ENCSR018USE,SUZ12,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR163FLT/,ENCSR163FLT,TAF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR173KOB/,ENCSR173KOB,TAF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR659GUX/,ENCSR659GUX,TAF1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR859NEW/,ENCSR859NEW,TAF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR734FTY/,ENCSR734FTY,TAF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR001XNK/,ENCSR001XNK,TAF1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR276NOH/,ENCSR276NOH,TAF1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR386SCP/,ENCSR386SCP,TAF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR429MEB/,ENCSR429MEB,TAF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR716WLQ/,ENCSR716WLQ,TAF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR911KLE/,ENCSR911KLE,TAF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR336HBR/,ENCSR336HBR,TAF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR300PUH/,ENCSR300PUH,TAF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR413XWE/,ENCSR413XWE,TAF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR128AZN/,ENCSR128AZN,TAF1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR315UTV/,ENCSR315UTV,TAF1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR352UKW/,ENCSR352UKW,TAF1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR345TIS/,ENCSR345TIS,TAF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR906ITT/,ENCSR906ITT,TAF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR508BAZ/,ENCSR508BAZ,TAF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR367NJH/,ENCSR367NJH,TAF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR858HGN/,ENCSR858HGN,TAF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR157ISM/,ENCSR157ISM,TAF1,T-cell,avocado,GRCh38
+/annotations/ENCSR752BFX/,ENCSR752BFX,TAF1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR519YKR/,ENCSR519YKR,TARDBP,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR574DEU/,ENCSR574DEU,TARDBP,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR523BUW/,ENCSR523BUW,TARDBP,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR678WIC/,ENCSR678WIC,TARDBP,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR175BNG/,ENCSR175BNG,TARDBP,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR727TJP/,ENCSR727TJP,TARDBP,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR889NRY/,ENCSR889NRY,TARDBP,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR746DUD/,ENCSR746DUD,TARDBP,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR618FTP/,ENCSR618FTP,TARDBP,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR994QCF/,ENCSR994QCF,TARDBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR260YWB/,ENCSR260YWB,TARDBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR997NNS/,ENCSR997NNS,TARDBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR145KFQ/,ENCSR145KFQ,TARDBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR671EMR/,ENCSR671EMR,TARDBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR546RWH/,ENCSR546RWH,TARDBP,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR822AEC/,ENCSR822AEC,TARDBP,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR499VXA/,ENCSR499VXA,TARDBP,natural killer cell,avocado,GRCh38
+/annotations/ENCSR063LET/,ENCSR063LET,TARDBP,neutrophil,avocado,GRCh38
+/annotations/ENCSR736DVE/,ENCSR736DVE,TARDBP,neutrophil,avocado,GRCh38
+/annotations/ENCSR907IGH/,ENCSR907IGH,TARDBP,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR606HNS/,ENCSR606HNS,TARDBP,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR295CWV/,ENCSR295CWV,TARDBP,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR447QNV/,ENCSR447QNV,TARDBP,T-cell,avocado,GRCh38
+/annotations/ENCSR940MRC/,ENCSR940MRC,TARDBP,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR425YNL/,ENCSR425YNL,TBP,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR537DOL/,ENCSR537DOL,TBP,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR412TUB/,ENCSR412TUB,TBP,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR618KWB/,ENCSR618KWB,TBP,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR550DRZ/,ENCSR550DRZ,TBP,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR742NVJ/,ENCSR742NVJ,TBP,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR618HDM/,ENCSR618HDM,TBP,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR260IDU/,ENCSR260IDU,TBP,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR586CMR/,ENCSR586CMR,TBP,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR319XDI/,ENCSR319XDI,TBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR701NFL/,ENCSR701NFL,TBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR341HWJ/,ENCSR341HWJ,TBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR152HWS/,ENCSR152HWS,TBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR784DFC/,ENCSR784DFC,TBP,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR345MEI/,ENCSR345MEI,TBP,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR788HEU/,ENCSR788HEU,TBP,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR149NGS/,ENCSR149NGS,TBP,natural killer cell,avocado,GRCh38
+/annotations/ENCSR657ZXT/,ENCSR657ZXT,TBP,neutrophil,avocado,GRCh38
+/annotations/ENCSR889JSJ/,ENCSR889JSJ,TBP,neutrophil,avocado,GRCh38
+/annotations/ENCSR418FON/,ENCSR418FON,TBP,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR353GLW/,ENCSR353GLW,TBP,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR673UPG/,ENCSR673UPG,TBP,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR775NKE/,ENCSR775NKE,TBP,T-cell,avocado,GRCh38
+/annotations/ENCSR437SMH/,ENCSR437SMH,TBP,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR815DOK/,ENCSR815DOK,TCF12,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR686XXL/,ENCSR686XXL,TCF12,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR113PGV/,ENCSR113PGV,TCF12,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR980WRD/,ENCSR980WRD,TCF12,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR070XSK/,ENCSR070XSK,TCF12,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR988CFP/,ENCSR988CFP,TCF12,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR276IZH/,ENCSR276IZH,TCF12,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR280FZD/,ENCSR280FZD,TCF12,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR529HIN/,ENCSR529HIN,TCF12,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR635GXB/,ENCSR635GXB,TCF12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR512DCT/,ENCSR512DCT,TCF12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR263CQE/,ENCSR263CQE,TCF12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR786WCG/,ENCSR786WCG,TCF12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR571EHN/,ENCSR571EHN,TCF12,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR568MUB/,ENCSR568MUB,TCF12,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR248BWI/,ENCSR248BWI,TCF12,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR842DLX/,ENCSR842DLX,TCF12,natural killer cell,avocado,GRCh38
+/annotations/ENCSR209HUY/,ENCSR209HUY,TCF12,neutrophil,avocado,GRCh38
+/annotations/ENCSR864XDF/,ENCSR864XDF,TCF12,neutrophil,avocado,GRCh38
+/annotations/ENCSR418BPP/,ENCSR418BPP,TCF12,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR262FFS/,ENCSR262FFS,TCF12,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR084ZXB/,ENCSR084ZXB,TCF12,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR635IHI/,ENCSR635IHI,TCF12,T-cell,avocado,GRCh38
+/annotations/ENCSR202QBA/,ENCSR202QBA,TCF12,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR885RUG/,ENCSR885RUG,USF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR072PMA/,ENCSR072PMA,USF1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR261GZS/,ENCSR261GZS,USF1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR771LHJ/,ENCSR771LHJ,USF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR839YJN/,ENCSR839YJN,USF1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR522XAB/,ENCSR522XAB,USF1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR490SIQ/,ENCSR490SIQ,USF1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR616KVJ/,ENCSR616KVJ,USF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR865DVS/,ENCSR865DVS,USF1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR244KTD/,ENCSR244KTD,USF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR674OQX/,ENCSR674OQX,USF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR959LBS/,ENCSR959LBS,USF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR566EKS/,ENCSR566EKS,USF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR848XCN/,ENCSR848XCN,USF1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR985XZQ/,ENCSR985XZQ,USF1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR078CNU/,ENCSR078CNU,USF1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR411TFW/,ENCSR411TFW,USF1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR469CLO/,ENCSR469CLO,USF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR625NNT/,ENCSR625NNT,USF1,neutrophil,avocado,GRCh38
+/annotations/ENCSR325ZQF/,ENCSR325ZQF,USF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR623GYB/,ENCSR623GYB,USF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR518NLW/,ENCSR518NLW,USF1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR939QSL/,ENCSR939QSL,USF1,T-cell,avocado,GRCh38
+/annotations/ENCSR456JSH/,ENCSR456JSH,USF1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR317HWJ/,ENCSR317HWJ,USF2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR924QTA/,ENCSR924QTA,USF2,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR842QMF/,ENCSR842QMF,USF2,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR613WEI/,ENCSR613WEI,USF2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR588GSK/,ENCSR588GSK,USF2,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR620RXX/,ENCSR620RXX,USF2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR651IIU/,ENCSR651IIU,USF2,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR637XEA/,ENCSR637XEA,USF2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR866RUY/,ENCSR866RUY,USF2,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR449EKH/,ENCSR449EKH,USF2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR127QIJ/,ENCSR127QIJ,USF2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR444OTJ/,ENCSR444OTJ,USF2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR066SBG/,ENCSR066SBG,USF2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR482JTC/,ENCSR482JTC,USF2,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR995FFB/,ENCSR995FFB,USF2,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR883LTC/,ENCSR883LTC,USF2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR944DGN/,ENCSR944DGN,USF2,natural killer cell,avocado,GRCh38
+/annotations/ENCSR808XZN/,ENCSR808XZN,USF2,neutrophil,avocado,GRCh38
+/annotations/ENCSR778PVE/,ENCSR778PVE,USF2,neutrophil,avocado,GRCh38
+/annotations/ENCSR828RNP/,ENCSR828RNP,USF2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR446VAH/,ENCSR446VAH,USF2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR495RWI/,ENCSR495RWI,USF2,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR227CLS/,ENCSR227CLS,USF2,T-cell,avocado,GRCh38
+/annotations/ENCSR990PIK/,ENCSR990PIK,USF2,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR152RSF/,ENCSR152RSF,YY1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR422QDS/,ENCSR422QDS,YY1,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR262EQC/,ENCSR262EQC,YY1,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR820GRJ/,ENCSR820GRJ,YY1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR969FCX/,ENCSR969FCX,YY1,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR382GQL/,ENCSR382GQL,YY1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR633UPX/,ENCSR633UPX,YY1,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR711BUN/,ENCSR711BUN,YY1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR983IKZ/,ENCSR983IKZ,YY1,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR377ECG/,ENCSR377ECG,YY1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR310NAL/,ENCSR310NAL,YY1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR156TPE/,ENCSR156TPE,YY1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR615UJX/,ENCSR615UJX,YY1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR998NEM/,ENCSR998NEM,YY1,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR903ONV/,ENCSR903ONV,YY1,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR062NBA/,ENCSR062NBA,YY1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR952BOU/,ENCSR952BOU,YY1,natural killer cell,avocado,GRCh38
+/annotations/ENCSR950VCQ/,ENCSR950VCQ,YY1,neutrophil,avocado,GRCh38
+/annotations/ENCSR314ZJV/,ENCSR314ZJV,YY1,neutrophil,avocado,GRCh38
+/annotations/ENCSR642PNI/,ENCSR642PNI,YY1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR893DXR/,ENCSR893DXR,YY1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR241PYO/,ENCSR241PYO,YY1,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR380XMK/,ENCSR380XMK,YY1,T-cell,avocado,GRCh38
+/annotations/ENCSR087MJM/,ENCSR087MJM,YY1,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR326KFF/,ENCSR326KFF,ZBTB33,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR885YJQ/,ENCSR885YJQ,ZBTB33,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR439KTI/,ENCSR439KTI,ZBTB33,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR727WGY/,ENCSR727WGY,ZBTB33,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR741ANX/,ENCSR741ANX,ZBTB33,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR069AZD/,ENCSR069AZD,ZBTB33,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR541YNZ/,ENCSR541YNZ,ZBTB33,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR945QKG/,ENCSR945QKG,ZBTB33,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR942UFF/,ENCSR942UFF,ZBTB33,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR251CMM/,ENCSR251CMM,ZBTB33,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR735EGJ/,ENCSR735EGJ,ZBTB33,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR971INN/,ENCSR971INN,ZBTB33,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR303JPW/,ENCSR303JPW,ZBTB33,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR127JQF/,ENCSR127JQF,ZBTB33,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR297HLQ/,ENCSR297HLQ,ZBTB33,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR203AWF/,ENCSR203AWF,ZBTB33,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR784XAL/,ENCSR784XAL,ZBTB33,natural killer cell,avocado,GRCh38
+/annotations/ENCSR354BTF/,ENCSR354BTF,ZBTB33,neutrophil,avocado,GRCh38
+/annotations/ENCSR701ROO/,ENCSR701ROO,ZBTB33,neutrophil,avocado,GRCh38
+/annotations/ENCSR580RIP/,ENCSR580RIP,ZBTB33,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR822ECS/,ENCSR822ECS,ZBTB33,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR830XTC/,ENCSR830XTC,ZBTB33,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR345PZJ/,ENCSR345PZJ,ZBTB33,T-cell,avocado,GRCh38
+/annotations/ENCSR779VUO/,ENCSR779VUO,ZBTB33,T-helper 17 cell,avocado,GRCh38
+/annotations/ENCSR892XVT/,ENCSR892XVT,ZFP36,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR985MHF/,ENCSR985MHF,ZFP36,CD14-positive monocyte,avocado,GRCh38
+/annotations/ENCSR700AXR/,ENCSR700AXR,ZFP36,"CD4-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR099KIN/,ENCSR099KIN,ZFP36,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR947WCD/,ENCSR947WCD,ZFP36,"CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR417GZJ/,ENCSR417GZJ,ZFP36,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,GRCh38
+/annotations/ENCSR156MFL/,ENCSR156MFL,ZFP36,"CD8-positive, alpha-beta memory T cell",avocado,GRCh38
+/annotations/ENCSR986OHM/,ENCSR986OHM,ZFP36,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR999KNQ/,ENCSR999KNQ,ZFP36,"CD8-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR541GXK/,ENCSR541GXK,ZFP36,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR708XEM/,ENCSR708XEM,ZFP36,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR943OCR/,ENCSR943OCR,ZFP36,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR641ESK/,ENCSR641ESK,ZFP36,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR638VXP/,ENCSR638VXP,ZFP36,"common myeloid progenitor, CD34-positive",avocado,GRCh38
+/annotations/ENCSR722JDY/,ENCSR722JDY,ZFP36,"effector memory CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR161KPE/,ENCSR161KPE,ZFP36,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,GRCh38
+/annotations/ENCSR194TPZ/,ENCSR194TPZ,ZFP36,natural killer cell,avocado,GRCh38
+/annotations/ENCSR814KZX/,ENCSR814KZX,ZFP36,neutrophil,avocado,GRCh38
+/annotations/ENCSR097DTT/,ENCSR097DTT,ZFP36,neutrophil,avocado,GRCh38
+/annotations/ENCSR671AIB/,ENCSR671AIB,ZFP36,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR215QBX/,ENCSR215QBX,ZFP36,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR790QQV/,ENCSR790QQV,ZFP36,peripheral blood mononuclear cell,avocado,GRCh38
+/annotations/ENCSR922JQB/,ENCSR922JQB,ZFP36,T-cell,avocado,GRCh38
+/annotations/ENCSR966BQJ/,ENCSR966BQJ,ZFP36,T-helper 17 cell,avocado,GRCh38
