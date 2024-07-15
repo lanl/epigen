@@ -4,8 +4,11 @@ Code and scripts related to the paper. O# O4747
 **General info**: 
 
 **data** folder containes files necessary to execute the code, some large files needed to be downloaded as written in the scripts below.
+
 This repository contains python scripts and bash scripts to obtain paper results. 
+
 All of these scripts related to the hg38-aligned dataset; it is easy to get files and results for the hg19-aligned dataset by changing 38 to 19 in the code and 1632 (#samples in the hg 38) to 1479 (#samples in the hg 19).
+
 The data doesn't contain the chromosome Y.
 
 **The order of execution**:
