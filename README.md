@@ -4,9 +4,20 @@ Code and scripts related to the paper. O# O4747
 **General info**: 
 
 **data** folder containes files necessary to execute the code, some large files needed to be downloaded as written in the scripts below.
-This repository contains python scripts and bash scripts to obtain paper results.
+This repository contains python scripts and bash scripts to obtain paper results. 
+All of these scripts related to the hg38-aligned dataset; it is easy to get files and results for the hg19-aligned dataset by changing 38 to 19 in the code and 1632 (#samples in the hg 38) to 1479 (#samples in the hg 19).
+The data doesn't contain the chromosome Y.
 
 **The order of execution**:
+
+1. Download bigWig files from the ENCODE, run _run_download_data_files_script_ that calls _download_data_files.py_.
+2. For each chromosome calculate values for each 200bp region, run _run_get_values_for_chromosome_script_ that calls _get_values_for_chromosome.py_.
+3. For each chromosome obtain the dataframe that contains columns where each value (p-values here) is less than 0.05 in at least one sample (row): _create_pvdf.py_ that calls _run_create_pvdf_script_.
+4. For each chromosome calculate the pairwise correlation matrix between samples, requires GPU, otherwise will take hours vs minutes per chromosome: correlation_matrix_calculation.py.
+5. For each chromosome obtain a list of known genes and their bp position in the chromosome: get_ret_df_files.py.
+6. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
+
+
 
 
 
