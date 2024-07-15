@@ -20,6 +20,7 @@ The data doesn't contain the chromosome Y.
 5. For each chromosome obtain a list of known genes and their bp position in the chromosome: get_ret_df_files.py.
 6. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
 7. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
+8. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
 
 
 
