@@ -1,6 +1,6 @@
 #get a df that contains 200bp values from bigWig file for a specified chromosome (script argument)
 #note that chr 23 here refers to chr X and there is no chr Y in the data (ENCODE files)
-#hg38length.txt contains the length of each chromosome 
+#hg38length.txt contains the length of each chromosome for hg38 assembly
 
 import pandas as pd
 import requests
