@@ -33,6 +33,10 @@ for chr_i in range(1, 24):
 #Section 2: the second step is to use cudf (to use GPU for pandas dfs, see RAPIDS library) to calculate correlation matrices
 #because the data may contain ~1 million columns it will take hours to compute pairwise correlation of 1632 samples with so much columns
 #GPU usage is needed
+#module load python/3.10-anaconda-2023.03
+#module load cuda/11.5 #make sure cuda is enabled
+#conda activate rapids-23.06 #install RAPIDS library (large)
+
 import cudf
 import numpy as np
 import pandas as pd
@@ -40,11 +44,6 @@ import h5py
 from scipy.spatial.distance import pdist, squareform
 import time
 from datetime import timedelta
-
-#path = "/lustre/scratch5/akim/results19/fin"
-#filename = path + 'hg19_200data'
-#df_corfile = pd.read_csv(path + "1000bp_chr6_hg38_cor_dist.csv", sep = '\t')
-#df_corfile
 
 
 for chr_i in range(1, 24):
