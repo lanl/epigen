@@ -1,0 +1,1480 @@
+ID,Accession,Target,Biosample term name,Software used,Genome
+/annotations/ENCSR459JGD/,ENCSR459JGD,CTCF,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR072RNC/,ENCSR072RNC,CTCF,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR670NGH/,ENCSR670NGH,CTCF,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR672TSQ/,ENCSR672TSQ,CTCF,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR057NTO/,ENCSR057NTO,CTCF,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR952IMO/,ENCSR952IMO,CTCF,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR774KJV/,ENCSR774KJV,CTCF,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR015TSZ/,ENCSR015TSZ,CTCF,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR314KEM/,ENCSR314KEM,CTCF,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR975OYR/,ENCSR975OYR,CTCF,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR974MOR/,ENCSR974MOR,CTCF,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR996GUL/,ENCSR996GUL,CTCF,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR226JIG/,ENCSR226JIG,CTCF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR227FPX/,ENCSR227FPX,CTCF,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR534KTX/,ENCSR534KTX,CTCF,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR278CIZ/,ENCSR278CIZ,CTCF,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR048HID/,ENCSR048HID,CTCF,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR518LAF/,ENCSR518LAF,CTCF,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR876FZG/,ENCSR876FZG,CTCF,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR925LXN/,ENCSR925LXN,CTCF,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR198JRC/,ENCSR198JRC,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR147OZE/,ENCSR147OZE,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR134QGL/,ENCSR134QGL,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR024RJF/,ENCSR024RJF,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR494MJD/,ENCSR494MJD,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR114GBL/,ENCSR114GBL,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR196MPO/,ENCSR196MPO,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR990TJT/,ENCSR990TJT,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR099URT/,ENCSR099URT,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR131MMQ/,ENCSR131MMQ,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR393YQI/,ENCSR393YQI,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR860IER/,ENCSR860IER,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR413NPN/,ENCSR413NPN,CTCF,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR774GYV/,ENCSR774GYV,CTCF,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR206INF/,ENCSR206INF,CTCF,naive B cell,chromimpute,hg19
+/annotations/ENCSR270GWG/,ENCSR270GWG,CTCF,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR421DVV/,ENCSR421DVV,CTCF,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR379SME/,ENCSR379SME,CTCF,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR591SQC/,ENCSR591SQC,CTCF,natural killer cell,chromimpute,hg19
+/annotations/ENCSR112EJG/,ENCSR112EJG,CTCF,natural killer cell,chromimpute,hg19
+/annotations/ENCSR446GTB/,ENCSR446GTB,CTCF,natural killer cell,chromimpute,hg19
+/annotations/ENCSR326GNK/,ENCSR326GNK,CTCF,neutrophil,chromimpute,hg19
+/annotations/ENCSR919PEV/,ENCSR919PEV,CTCF,neutrophil,chromimpute,hg19
+/annotations/ENCSR233TLY/,ENCSR233TLY,CTCF,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR192ZNZ/,ENCSR192ZNZ,CTCF,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR992WPZ/,ENCSR992WPZ,CTCF,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR867TFH/,ENCSR867TFH,CTCF,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR753IOU/,ENCSR753IOU,CTCF,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR709GYT/,ENCSR709GYT,CTCF,T-cell,chromimpute,hg19
+/annotations/ENCSR518IJT/,ENCSR518IJT,CTCF,T-cell,chromimpute,hg19
+/annotations/ENCSR245JZK/,ENCSR245JZK,CTCF,T-cell,chromimpute,hg19
+/annotations/ENCSR054RAN/,ENCSR054RAN,CTCF,T-cell,chromimpute,hg19
+/annotations/ENCSR772JCL/,ENCSR772JCL,CTCF,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR282THY/,ENCSR282THY,CTCF,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR016PWZ/,ENCSR016PWZ,CTCF,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR760DVR/,ENCSR760DVR,CTCF,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR025PQX/,ENCSR025PQX,CTCF,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR538YVJ/,ENCSR538YVJ,CTCF,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR654VDR/,ENCSR654VDR,CTCF,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR069CSL/,ENCSR069CSL,CTCF,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR424ZNL/,ENCSR424ZNL,CTCF,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR554KVF/,ENCSR554KVF,EP300,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR333VXS/,ENCSR333VXS,EP300,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR128DZI/,ENCSR128DZI,EP300,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR304HCC/,ENCSR304HCC,EP300,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR188YNF/,ENCSR188YNF,EP300,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR149OYJ/,ENCSR149OYJ,EP300,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR137JHQ/,ENCSR137JHQ,EP300,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR312WXK/,ENCSR312WXK,EP300,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR833FJA/,ENCSR833FJA,EP300,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR929ERO/,ENCSR929ERO,EP300,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR774NHT/,ENCSR774NHT,EP300,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR846TLK/,ENCSR846TLK,EP300,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR983AZL/,ENCSR983AZL,EP300,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR829DHS/,ENCSR829DHS,EP300,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR181LYU/,ENCSR181LYU,EP300,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR837DXU/,ENCSR837DXU,EP300,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR909SPF/,ENCSR909SPF,EP300,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR177EDP/,ENCSR177EDP,EP300,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR816AVO/,ENCSR816AVO,EP300,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR309GPS/,ENCSR309GPS,EP300,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR011BVS/,ENCSR011BVS,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR974XDL/,ENCSR974XDL,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR137XQD/,ENCSR137XQD,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR181YON/,ENCSR181YON,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR814ZTJ/,ENCSR814ZTJ,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR006NXZ/,ENCSR006NXZ,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR042MPB/,ENCSR042MPB,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR096NSG/,ENCSR096NSG,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR256VUI/,ENCSR256VUI,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR700HQL/,ENCSR700HQL,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR496OHV/,ENCSR496OHV,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR705SCU/,ENCSR705SCU,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR415QTW/,ENCSR415QTW,EP300,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR294DXO/,ENCSR294DXO,EP300,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR680VWM/,ENCSR680VWM,EP300,naive B cell,chromimpute,hg19
+/annotations/ENCSR074TPW/,ENCSR074TPW,EP300,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR674KZB/,ENCSR674KZB,EP300,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR249YVJ/,ENCSR249YVJ,EP300,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR033XTZ/,ENCSR033XTZ,EP300,natural killer cell,chromimpute,hg19
+/annotations/ENCSR410QYX/,ENCSR410QYX,EP300,natural killer cell,chromimpute,hg19
+/annotations/ENCSR119WNA/,ENCSR119WNA,EP300,natural killer cell,chromimpute,hg19
+/annotations/ENCSR831SPC/,ENCSR831SPC,EP300,neutrophil,chromimpute,hg19
+/annotations/ENCSR758RBV/,ENCSR758RBV,EP300,neutrophil,chromimpute,hg19
+/annotations/ENCSR689HVT/,ENCSR689HVT,EP300,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR569TFX/,ENCSR569TFX,EP300,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR210ESH/,ENCSR210ESH,EP300,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR083ESA/,ENCSR083ESA,EP300,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR973UBW/,ENCSR973UBW,EP300,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR797XNX/,ENCSR797XNX,EP300,T-cell,chromimpute,hg19
+/annotations/ENCSR948GYS/,ENCSR948GYS,EP300,T-cell,chromimpute,hg19
+/annotations/ENCSR193ILN/,ENCSR193ILN,EP300,T-cell,chromimpute,hg19
+/annotations/ENCSR422EYW/,ENCSR422EYW,EP300,T-cell,chromimpute,hg19
+/annotations/ENCSR733AFK/,ENCSR733AFK,EP300,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR315PDQ/,ENCSR315PDQ,EP300,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR438WXT/,ENCSR438WXT,EP300,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR260TDR/,ENCSR260TDR,EP300,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR617PZL/,ENCSR617PZL,EP300,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR192MJS/,ENCSR192MJS,EP300,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR248CGW/,ENCSR248CGW,EP300,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR674UPF/,ENCSR674UPF,EP300,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR830FNL/,ENCSR830FNL,EP300,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR527KFB/,ENCSR527KFB,H2AFZ,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR950YPY/,ENCSR950YPY,H2AFZ,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR989CAA/,ENCSR989CAA,H2AFZ,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR126IOD/,ENCSR126IOD,H2AFZ,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR986UGZ/,ENCSR986UGZ,H2AFZ,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR117EMY/,ENCSR117EMY,H2AFZ,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR537UQG/,ENCSR537UQG,H2AFZ,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR792DTY/,ENCSR792DTY,H2AFZ,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR450ILC/,ENCSR450ILC,H2AFZ,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR764VVN/,ENCSR764VVN,H2AFZ,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR167ONM/,ENCSR167ONM,H2AFZ,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR642JLV/,ENCSR642JLV,H2AFZ,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR221IIR/,ENCSR221IIR,H2AFZ,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR397LBI/,ENCSR397LBI,H2AFZ,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR880WSV/,ENCSR880WSV,H2AFZ,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR289WTN/,ENCSR289WTN,H2AFZ,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR883IDJ/,ENCSR883IDJ,H2AFZ,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR329VDV/,ENCSR329VDV,H2AFZ,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR034DNJ/,ENCSR034DNJ,H2AFZ,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR844VGQ/,ENCSR844VGQ,H2AFZ,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR484MQF/,ENCSR484MQF,H2AFZ,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR925MGP/,ENCSR925MGP,H2AFZ,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR253LNX/,ENCSR253LNX,H2AFZ,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR059PRY/,ENCSR059PRY,H2AFZ,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR861RVW/,ENCSR861RVW,H2AFZ,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR980CHB/,ENCSR980CHB,H2AFZ,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR095XHX/,ENCSR095XHX,H2AFZ,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR237TTG/,ENCSR237TTG,H2AFZ,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR163HXZ/,ENCSR163HXZ,H2AFZ,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR146UMX/,ENCSR146UMX,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR995WQS/,ENCSR995WQS,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR743OZT/,ENCSR743OZT,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR786YOU/,ENCSR786YOU,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR925YCF/,ENCSR925YCF,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR390OYC/,ENCSR390OYC,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR334LRE/,ENCSR334LRE,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR779COO/,ENCSR779COO,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR949VCS/,ENCSR949VCS,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR309FTE/,ENCSR309FTE,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR725BMN/,ENCSR725BMN,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR349RLD/,ENCSR349RLD,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR209TUK/,ENCSR209TUK,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR229ABX/,ENCSR229ABX,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR496SKF/,ENCSR496SKF,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR398DNN/,ENCSR398DNN,H2AFZ,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR801IGL/,ENCSR801IGL,H2AFZ,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR011YNC/,ENCSR011YNC,H2AFZ,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR302ILU/,ENCSR302ILU,H2AFZ,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR686GLH/,ENCSR686GLH,H2AFZ,naive B cell,chromimpute,hg19
+/annotations/ENCSR693MHH/,ENCSR693MHH,H2AFZ,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR341SEV/,ENCSR341SEV,H2AFZ,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR421RHD/,ENCSR421RHD,H2AFZ,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR273ATW/,ENCSR273ATW,H2AFZ,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR675BUD/,ENCSR675BUD,H2AFZ,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR297BDF/,ENCSR297BDF,H2AFZ,natural killer cell,chromimpute,hg19
+/annotations/ENCSR738QQK/,ENCSR738QQK,H2AFZ,natural killer cell,chromimpute,hg19
+/annotations/ENCSR527KLY/,ENCSR527KLY,H2AFZ,natural killer cell,avocado,hg19
+/annotations/ENCSR888XOD/,ENCSR888XOD,H2AFZ,natural killer cell,chromimpute,hg19
+/annotations/ENCSR713AJC/,ENCSR713AJC,H2AFZ,neutrophil,chromimpute,hg19
+/annotations/ENCSR512BYK/,ENCSR512BYK,H2AFZ,neutrophil,avocado,hg19
+/annotations/ENCSR836JPB/,ENCSR836JPB,H2AFZ,neutrophil,chromimpute,hg19
+/annotations/ENCSR801WVP/,ENCSR801WVP,H2AFZ,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR112RMB/,ENCSR112RMB,H2AFZ,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR816YIP/,ENCSR816YIP,H2AFZ,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR563DKY/,ENCSR563DKY,H2AFZ,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR620FAE/,ENCSR620FAE,H2AFZ,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR743PQP/,ENCSR743PQP,H2AFZ,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR458HWC/,ENCSR458HWC,H2AFZ,T-cell,chromimpute,hg19
+/annotations/ENCSR592QRK/,ENCSR592QRK,H2AFZ,T-cell,avocado,hg19
+/annotations/ENCSR717MYU/,ENCSR717MYU,H2AFZ,T-cell,chromimpute,hg19
+/annotations/ENCSR415IQA/,ENCSR415IQA,H2AFZ,T-cell,avocado,hg19
+/annotations/ENCSR018TUB/,ENCSR018TUB,H2AFZ,T-cell,chromimpute,hg19
+/annotations/ENCSR923ZEJ/,ENCSR923ZEJ,H2AFZ,T-cell,chromimpute,hg19
+/annotations/ENCSR496ZYK/,ENCSR496ZYK,H2AFZ,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR866IZF/,ENCSR866IZF,H2AFZ,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR847KFR/,ENCSR847KFR,H2AFZ,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR995ZUM/,ENCSR995ZUM,H2AFZ,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR201EHP/,ENCSR201EHP,H2AFZ,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR920QLP/,ENCSR920QLP,H2AFZ,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR562NCN/,ENCSR562NCN,H2AFZ,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR541IGA/,ENCSR541IGA,H2AFZ,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR815HMR/,ENCSR815HMR,H2AFZ,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR436TVK/,ENCSR436TVK,H2AFZ,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR195KSM/,ENCSR195KSM,H2AK5ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR397AZA/,ENCSR397AZA,H2AK5ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR807PAB/,ENCSR807PAB,H2AK5ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR692IPS/,ENCSR692IPS,H2AK5ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR516PLG/,ENCSR516PLG,H2AK5ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR983KLL/,ENCSR983KLL,H2AK5ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR533JII/,ENCSR533JII,H2AK5ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR044XXZ/,ENCSR044XXZ,H2AK5ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR461KVG/,ENCSR461KVG,H2AK5ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR930YZU/,ENCSR930YZU,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR005YSJ/,ENCSR005YSJ,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR353BJA/,ENCSR353BJA,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR203YTP/,ENCSR203YTP,H2AK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR902BUP/,ENCSR902BUP,H2AK5ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR614XSL/,ENCSR614XSL,H2AK5ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR560HOE/,ENCSR560HOE,H2AK5ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR031KJW/,ENCSR031KJW,H2AK5ac,natural killer cell,avocado,hg19
+/annotations/ENCSR386WTB/,ENCSR386WTB,H2AK5ac,neutrophil,avocado,hg19
+/annotations/ENCSR889NIY/,ENCSR889NIY,H2AK5ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR851CDF/,ENCSR851CDF,H2AK5ac,T-cell,avocado,hg19
+/annotations/ENCSR726WCX/,ENCSR726WCX,H2AK5ac,T-cell,avocado,hg19
+/annotations/ENCSR402YXJ/,ENCSR402YXJ,H2AK5ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR082WTY/,ENCSR082WTY,H2BK120ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR894UES/,ENCSR894UES,H2BK120ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR142EWP/,ENCSR142EWP,H2BK120ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR410IOA/,ENCSR410IOA,H2BK120ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR763RFU/,ENCSR763RFU,H2BK120ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR239FEZ/,ENCSR239FEZ,H2BK120ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR877DBT/,ENCSR877DBT,H2BK120ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR897VIN/,ENCSR897VIN,H2BK120ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR822ZLB/,ENCSR822ZLB,H2BK120ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR280WSB/,ENCSR280WSB,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR518QHB/,ENCSR518QHB,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR223QGI/,ENCSR223QGI,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR113KZO/,ENCSR113KZO,H2BK120ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR492CBY/,ENCSR492CBY,H2BK120ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR189LQA/,ENCSR189LQA,H2BK120ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR712UYY/,ENCSR712UYY,H2BK120ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR247EJG/,ENCSR247EJG,H2BK120ac,natural killer cell,avocado,hg19
+/annotations/ENCSR703MWG/,ENCSR703MWG,H2BK120ac,neutrophil,avocado,hg19
+/annotations/ENCSR991KBQ/,ENCSR991KBQ,H2BK120ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR367MIV/,ENCSR367MIV,H2BK120ac,T-cell,avocado,hg19
+/annotations/ENCSR195JHV/,ENCSR195JHV,H2BK120ac,T-cell,avocado,hg19
+/annotations/ENCSR569IXF/,ENCSR569IXF,H2BK120ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR717LMT/,ENCSR717LMT,H2BK12ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR043WEW/,ENCSR043WEW,H2BK12ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR433JDD/,ENCSR433JDD,H2BK12ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR123UPF/,ENCSR123UPF,H2BK12ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR846HDZ/,ENCSR846HDZ,H2BK12ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR060WWV/,ENCSR060WWV,H2BK12ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR751IJX/,ENCSR751IJX,H2BK12ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR463PLO/,ENCSR463PLO,H2BK12ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR990OXF/,ENCSR990OXF,H2BK12ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR467LHO/,ENCSR467LHO,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR007RXF/,ENCSR007RXF,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR084KLU/,ENCSR084KLU,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR948WOG/,ENCSR948WOG,H2BK12ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR663RMK/,ENCSR663RMK,H2BK12ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR992EBO/,ENCSR992EBO,H2BK12ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR799BVQ/,ENCSR799BVQ,H2BK12ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR847WSG/,ENCSR847WSG,H2BK12ac,natural killer cell,avocado,hg19
+/annotations/ENCSR993WML/,ENCSR993WML,H2BK12ac,neutrophil,avocado,hg19
+/annotations/ENCSR137TMS/,ENCSR137TMS,H2BK12ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR670UMB/,ENCSR670UMB,H2BK12ac,T-cell,avocado,hg19
+/annotations/ENCSR761LQB/,ENCSR761LQB,H2BK12ac,T-cell,avocado,hg19
+/annotations/ENCSR650UEY/,ENCSR650UEY,H2BK12ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR823VZX/,ENCSR823VZX,H2BK15ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR944FAK/,ENCSR944FAK,H2BK15ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR703VAQ/,ENCSR703VAQ,H2BK15ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR007ZZD/,ENCSR007ZZD,H2BK15ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR399LTL/,ENCSR399LTL,H2BK15ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR391NAR/,ENCSR391NAR,H2BK15ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR359SCE/,ENCSR359SCE,H2BK15ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR639PKC/,ENCSR639PKC,H2BK15ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR482RIH/,ENCSR482RIH,H2BK15ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR417VDM/,ENCSR417VDM,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR466OOP/,ENCSR466OOP,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR619ULC/,ENCSR619ULC,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR464IMO/,ENCSR464IMO,H2BK15ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR293CQC/,ENCSR293CQC,H2BK15ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR675FTH/,ENCSR675FTH,H2BK15ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR489PXZ/,ENCSR489PXZ,H2BK15ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR078TVV/,ENCSR078TVV,H2BK15ac,natural killer cell,avocado,hg19
+/annotations/ENCSR066YXQ/,ENCSR066YXQ,H2BK15ac,neutrophil,avocado,hg19
+/annotations/ENCSR229SBW/,ENCSR229SBW,H2BK15ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR016HFH/,ENCSR016HFH,H2BK15ac,T-cell,avocado,hg19
+/annotations/ENCSR780LMT/,ENCSR780LMT,H2BK15ac,T-cell,avocado,hg19
+/annotations/ENCSR686UNN/,ENCSR686UNN,H2BK15ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR059UYR/,ENCSR059UYR,H2BK5ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR588TZP/,ENCSR588TZP,H2BK5ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR595ISZ/,ENCSR595ISZ,H2BK5ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR818VFD/,ENCSR818VFD,H2BK5ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR058YPL/,ENCSR058YPL,H2BK5ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR255XTJ/,ENCSR255XTJ,H2BK5ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR891RXI/,ENCSR891RXI,H2BK5ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR225ZRN/,ENCSR225ZRN,H2BK5ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR971PGG/,ENCSR971PGG,H2BK5ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR978OYP/,ENCSR978OYP,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR483XWB/,ENCSR483XWB,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR072TQS/,ENCSR072TQS,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR065CLG/,ENCSR065CLG,H2BK5ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR235TXB/,ENCSR235TXB,H2BK5ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR188QMV/,ENCSR188QMV,H2BK5ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR303VYT/,ENCSR303VYT,H2BK5ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR225DKL/,ENCSR225DKL,H2BK5ac,natural killer cell,avocado,hg19
+/annotations/ENCSR470PHY/,ENCSR470PHY,H2BK5ac,neutrophil,avocado,hg19
+/annotations/ENCSR639NBW/,ENCSR639NBW,H2BK5ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR275KPB/,ENCSR275KPB,H2BK5ac,T-cell,avocado,hg19
+/annotations/ENCSR976GXA/,ENCSR976GXA,H2BK5ac,T-cell,avocado,hg19
+/annotations/ENCSR450RNC/,ENCSR450RNC,H2BK5ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR564MQL/,ENCSR564MQL,H3K14ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR852WHG/,ENCSR852WHG,H3K14ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR627DCK/,ENCSR627DCK,H3K14ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR667PGS/,ENCSR667PGS,H3K14ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR884COP/,ENCSR884COP,H3K14ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR125ZBJ/,ENCSR125ZBJ,H3K14ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR107NEX/,ENCSR107NEX,H3K14ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR449ELF/,ENCSR449ELF,H3K14ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR144XXU/,ENCSR144XXU,H3K14ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR608WJV/,ENCSR608WJV,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR315XLE/,ENCSR315XLE,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR350FOV/,ENCSR350FOV,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR528KPH/,ENCSR528KPH,H3K14ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR173CHU/,ENCSR173CHU,H3K14ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR711JBN/,ENCSR711JBN,H3K14ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR564IJF/,ENCSR564IJF,H3K14ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR551NZT/,ENCSR551NZT,H3K14ac,natural killer cell,avocado,hg19
+/annotations/ENCSR560VGB/,ENCSR560VGB,H3K14ac,neutrophil,avocado,hg19
+/annotations/ENCSR921MDE/,ENCSR921MDE,H3K14ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR853MIU/,ENCSR853MIU,H3K14ac,T-cell,avocado,hg19
+/annotations/ENCSR258MDY/,ENCSR258MDY,H3K14ac,T-cell,avocado,hg19
+/annotations/ENCSR832TKZ/,ENCSR832TKZ,H3K14ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR086UWP/,ENCSR086UWP,H3K18ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR223YXX/,ENCSR223YXX,H3K18ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR854DKU/,ENCSR854DKU,H3K18ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR861EGM/,ENCSR861EGM,H3K18ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR639NEY/,ENCSR639NEY,H3K18ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR574FSD/,ENCSR574FSD,H3K18ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR523CXD/,ENCSR523CXD,H3K18ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR011SRK/,ENCSR011SRK,H3K18ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR296XPC/,ENCSR296XPC,H3K18ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR687QWT/,ENCSR687QWT,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR753PDP/,ENCSR753PDP,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR683URC/,ENCSR683URC,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR152HVA/,ENCSR152HVA,H3K18ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR111TVZ/,ENCSR111TVZ,H3K18ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR173KZP/,ENCSR173KZP,H3K18ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR618MKJ/,ENCSR618MKJ,H3K18ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR965PNG/,ENCSR965PNG,H3K18ac,natural killer cell,avocado,hg19
+/annotations/ENCSR759CYO/,ENCSR759CYO,H3K18ac,neutrophil,avocado,hg19
+/annotations/ENCSR579OPT/,ENCSR579OPT,H3K18ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR465ZSJ/,ENCSR465ZSJ,H3K18ac,T-cell,avocado,hg19
+/annotations/ENCSR056XLW/,ENCSR056XLW,H3K18ac,T-cell,avocado,hg19
+/annotations/ENCSR658AGZ/,ENCSR658AGZ,H3K18ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR798KBU/,ENCSR798KBU,H3K23ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR036ELL/,ENCSR036ELL,H3K23ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR929RSB/,ENCSR929RSB,H3K23ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR893QVQ/,ENCSR893QVQ,H3K23ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR395DUF/,ENCSR395DUF,H3K23ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR654LKL/,ENCSR654LKL,H3K23ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR584LFG/,ENCSR584LFG,H3K23ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR601OPI/,ENCSR601OPI,H3K23ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR709CVK/,ENCSR709CVK,H3K23ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR905MZX/,ENCSR905MZX,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR773JQV/,ENCSR773JQV,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR972XTP/,ENCSR972XTP,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR229PJN/,ENCSR229PJN,H3K23ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR056NIW/,ENCSR056NIW,H3K23ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR206JLQ/,ENCSR206JLQ,H3K23ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR813ELR/,ENCSR813ELR,H3K23ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR673NCS/,ENCSR673NCS,H3K23ac,natural killer cell,avocado,hg19
+/annotations/ENCSR000WZC/,ENCSR000WZC,H3K23ac,neutrophil,avocado,hg19
+/annotations/ENCSR874FKL/,ENCSR874FKL,H3K23ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR369SPP/,ENCSR369SPP,H3K23ac,T-cell,avocado,hg19
+/annotations/ENCSR735KJM/,ENCSR735KJM,H3K23ac,T-cell,avocado,hg19
+/annotations/ENCSR232UYX/,ENCSR232UYX,H3K23ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR798BFI/,ENCSR798BFI,H3K27ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR446BQW/,ENCSR446BQW,H3K27ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR920SYO/,ENCSR920SYO,H3K27ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR423ANP/,ENCSR423ANP,H3K27ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR385DCV/,ENCSR385DCV,H3K27ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR882RUK/,ENCSR882RUK,H3K27ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR080DES/,ENCSR080DES,H3K27ac,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR694HWI/,ENCSR694HWI,H3K27ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR648EQZ/,ENCSR648EQZ,H3K27ac,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR275QCA/,ENCSR275QCA,H3K27ac,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR277LHL/,ENCSR277LHL,H3K27ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR233TEC/,ENCSR233TEC,H3K27ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR528IJU/,ENCSR528IJU,H3K27ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR617LPT/,ENCSR617LPT,H3K27ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR554GZF/,ENCSR554GZF,H3K27ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR780RKM/,ENCSR780RKM,H3K27ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR858SYR/,ENCSR858SYR,H3K27ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR611BRB/,ENCSR611BRB,H3K27ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR260BMR/,ENCSR260BMR,H3K27ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR769WYL/,ENCSR769WYL,H3K27ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR885ZXU/,ENCSR885ZXU,H3K27ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR279QGZ/,ENCSR279QGZ,H3K27ac,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR544PCY/,ENCSR544PCY,H3K27ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR772HLS/,ENCSR772HLS,H3K27ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR822CKC/,ENCSR822CKC,H3K27ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR271SXM/,ENCSR271SXM,H3K27ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR091BFT/,ENCSR091BFT,H3K27ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR759FYR/,ENCSR759FYR,H3K27ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR117ZDI/,ENCSR117ZDI,H3K27ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR621EFR/,ENCSR621EFR,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR027HKR/,ENCSR027HKR,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR096UHO/,ENCSR096UHO,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR374OSP/,ENCSR374OSP,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR680HME/,ENCSR680HME,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR318PEO/,ENCSR318PEO,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR989GUV/,ENCSR989GUV,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR421ZCD/,ENCSR421ZCD,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR348DOM/,ENCSR348DOM,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR379LTV/,ENCSR379LTV,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR144RWI/,ENCSR144RWI,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR218FHZ/,ENCSR218FHZ,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR479XAT/,ENCSR479XAT,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR478IOE/,ENCSR478IOE,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR503PFP/,ENCSR503PFP,H3K27ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR044JSL/,ENCSR044JSL,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR962MEX/,ENCSR962MEX,H3K27ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR318YXV/,ENCSR318YXV,H3K27ac,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR390ABI/,ENCSR390ABI,H3K27ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR945BGC/,ENCSR945BGC,H3K27ac,naive B cell,chromimpute,hg19
+/annotations/ENCSR605DST/,ENCSR605DST,H3K27ac,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR914GRT/,ENCSR914GRT,H3K27ac,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR524SOM/,ENCSR524SOM,H3K27ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR008CTA/,ENCSR008CTA,H3K27ac,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR880LQT/,ENCSR880LQT,H3K27ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR341GDU/,ENCSR341GDU,H3K27ac,natural killer cell,chromimpute,hg19
+/annotations/ENCSR960YFT/,ENCSR960YFT,H3K27ac,natural killer cell,chromimpute,hg19
+/annotations/ENCSR471XXC/,ENCSR471XXC,H3K27ac,natural killer cell,avocado,hg19
+/annotations/ENCSR789IWW/,ENCSR789IWW,H3K27ac,natural killer cell,chromimpute,hg19
+/annotations/ENCSR406WAO/,ENCSR406WAO,H3K27ac,neutrophil,chromimpute,hg19
+/annotations/ENCSR392SEQ/,ENCSR392SEQ,H3K27ac,neutrophil,avocado,hg19
+/annotations/ENCSR523TZU/,ENCSR523TZU,H3K27ac,neutrophil,chromimpute,hg19
+/annotations/ENCSR165DIR/,ENCSR165DIR,H3K27ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR521WLU/,ENCSR521WLU,H3K27ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR629DJA/,ENCSR629DJA,H3K27ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR606TPQ/,ENCSR606TPQ,H3K27ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR928QBA/,ENCSR928QBA,H3K27ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR586OBL/,ENCSR586OBL,H3K27ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR131QGD/,ENCSR131QGD,H3K27ac,T-cell,chromimpute,hg19
+/annotations/ENCSR444HBN/,ENCSR444HBN,H3K27ac,T-cell,chromimpute,hg19
+/annotations/ENCSR904PQM/,ENCSR904PQM,H3K27ac,T-cell,avocado,hg19
+/annotations/ENCSR386PMV/,ENCSR386PMV,H3K27ac,T-cell,chromimpute,hg19
+/annotations/ENCSR599IGB/,ENCSR599IGB,H3K27ac,T-cell,avocado,hg19
+/annotations/ENCSR623YPV/,ENCSR623YPV,H3K27ac,T-cell,chromimpute,hg19
+/annotations/ENCSR809QPP/,ENCSR809QPP,H3K27ac,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR653QNV/,ENCSR653QNV,H3K27ac,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR976SIW/,ENCSR976SIW,H3K27ac,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR607VJO/,ENCSR607VJO,H3K27ac,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR468OXH/,ENCSR468OXH,H3K27ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR067RUS/,ENCSR067RUS,H3K27ac,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR241DDU/,ENCSR241DDU,H3K27ac,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR804FPU/,ENCSR804FPU,H3K27ac,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR928ION/,ENCSR928ION,H3K27ac,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR178XPF/,ENCSR178XPF,H3K27ac,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR667PZW/,ENCSR667PZW,H3K27me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR399RUZ/,ENCSR399RUZ,H3K27me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR013NCB/,ENCSR013NCB,H3K27me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR333CAO/,ENCSR333CAO,H3K27me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR260EBN/,ENCSR260EBN,H3K27me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR572MIL/,ENCSR572MIL,H3K27me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR917WIO/,ENCSR917WIO,H3K27me3,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR285VYV/,ENCSR285VYV,H3K27me3,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR368TYQ/,ENCSR368TYQ,H3K27me3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR163OQZ/,ENCSR163OQZ,H3K27me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR988FOH/,ENCSR988FOH,H3K27me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR500EBD/,ENCSR500EBD,H3K27me3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR777KNP/,ENCSR777KNP,H3K27me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR260QUV/,ENCSR260QUV,H3K27me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR244GIW/,ENCSR244GIW,H3K27me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR829DDQ/,ENCSR829DDQ,H3K27me3,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR080HWM/,ENCSR080HWM,H3K27me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR365BCD/,ENCSR365BCD,H3K27me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR178JGT/,ENCSR178JGT,H3K27me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR658KFA/,ENCSR658KFA,H3K27me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR192DAW/,ENCSR192DAW,H3K27me3,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR088XEE/,ENCSR088XEE,H3K27me3,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR302VZI/,ENCSR302VZI,H3K27me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR019ZZZ/,ENCSR019ZZZ,H3K27me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR684TVV/,ENCSR684TVV,H3K27me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR661GUD/,ENCSR661GUD,H3K27me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR585BBR/,ENCSR585BBR,H3K27me3,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR540NPE/,ENCSR540NPE,H3K27me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR905OVF/,ENCSR905OVF,H3K27me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR308IOA/,ENCSR308IOA,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR256OML/,ENCSR256OML,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR256ATP/,ENCSR256ATP,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR534TNH/,ENCSR534TNH,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR166ALR/,ENCSR166ALR,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR289RTC/,ENCSR289RTC,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR262VAK/,ENCSR262VAK,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR229RIR/,ENCSR229RIR,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR986EZE/,ENCSR986EZE,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR091LHF/,ENCSR091LHF,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR727EAU/,ENCSR727EAU,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR574SDV/,ENCSR574SDV,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR372RHL/,ENCSR372RHL,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR738UPZ/,ENCSR738UPZ,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR908OFS/,ENCSR908OFS,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR642CEG/,ENCSR642CEG,H3K27me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR565QDX/,ENCSR565QDX,H3K27me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR914XVX/,ENCSR914XVX,H3K27me3,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR506DGF/,ENCSR506DGF,H3K27me3,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR796JSF/,ENCSR796JSF,H3K27me3,naive B cell,chromimpute,hg19
+/annotations/ENCSR259ATL/,ENCSR259ATL,H3K27me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR699QEA/,ENCSR699QEA,H3K27me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR994KEQ/,ENCSR994KEQ,H3K27me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR811FDF/,ENCSR811FDF,H3K27me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR418VBF/,ENCSR418VBF,H3K27me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR729AZL/,ENCSR729AZL,H3K27me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR087YLB/,ENCSR087YLB,H3K27me3,natural killer cell,avocado,hg19
+/annotations/ENCSR921BQR/,ENCSR921BQR,H3K27me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR292QYO/,ENCSR292QYO,H3K27me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR456BZQ/,ENCSR456BZQ,H3K27me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR365YWQ/,ENCSR365YWQ,H3K27me3,neutrophil,avocado,hg19
+/annotations/ENCSR810LVP/,ENCSR810LVP,H3K27me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR776HET/,ENCSR776HET,H3K27me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR950JVU/,ENCSR950JVU,H3K27me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR514DVG/,ENCSR514DVG,H3K27me3,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR182TRL/,ENCSR182TRL,H3K27me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR275PZH/,ENCSR275PZH,H3K27me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR335SOX/,ENCSR335SOX,H3K27me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR220TVK/,ENCSR220TVK,H3K27me3,T-cell,chromimpute,hg19
+/annotations/ENCSR876PED/,ENCSR876PED,H3K27me3,T-cell,chromimpute,hg19
+/annotations/ENCSR170JIJ/,ENCSR170JIJ,H3K27me3,T-cell,avocado,hg19
+/annotations/ENCSR153FJD/,ENCSR153FJD,H3K27me3,T-cell,avocado,hg19
+/annotations/ENCSR017CCR/,ENCSR017CCR,H3K27me3,T-cell,chromimpute,hg19
+/annotations/ENCSR200BYZ/,ENCSR200BYZ,H3K27me3,T-cell,chromimpute,hg19
+/annotations/ENCSR629IGN/,ENCSR629IGN,H3K27me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR372HHS/,ENCSR372HHS,H3K27me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR200SON/,ENCSR200SON,H3K27me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR607TRE/,ENCSR607TRE,H3K27me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR562YHQ/,ENCSR562YHQ,H3K27me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR539XGR/,ENCSR539XGR,H3K27me3,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR561BIQ/,ENCSR561BIQ,H3K27me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR798MFI/,ENCSR798MFI,H3K27me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR033ONO/,ENCSR033ONO,H3K27me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR870ALZ/,ENCSR870ALZ,H3K27me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR022BQY/,ENCSR022BQY,H3K36me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR433VDC/,ENCSR433VDC,H3K36me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR950AON/,ENCSR950AON,H3K36me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR603HDN/,ENCSR603HDN,H3K36me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR745KHC/,ENCSR745KHC,H3K36me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR998RXU/,ENCSR998RXU,H3K36me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR202YFJ/,ENCSR202YFJ,H3K36me3,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR779NEG/,ENCSR779NEG,H3K36me3,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR268REH/,ENCSR268REH,H3K36me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR648NPI/,ENCSR648NPI,H3K36me3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR373STR/,ENCSR373STR,H3K36me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR962MMH/,ENCSR962MMH,H3K36me3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR119FSB/,ENCSR119FSB,H3K36me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR082BPX/,ENCSR082BPX,H3K36me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR546HJW/,ENCSR546HJW,H3K36me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR639ATP/,ENCSR639ATP,H3K36me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR257YOA/,ENCSR257YOA,H3K36me3,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR709LCU/,ENCSR709LCU,H3K36me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR585RJC/,ENCSR585RJC,H3K36me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR152BNU/,ENCSR152BNU,H3K36me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR500RWF/,ENCSR500RWF,H3K36me3,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR150SCU/,ENCSR150SCU,H3K36me3,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR247QZZ/,ENCSR247QZZ,H3K36me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR957PPV/,ENCSR957PPV,H3K36me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR724ZFR/,ENCSR724ZFR,H3K36me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR066JMW/,ENCSR066JMW,H3K36me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR291JUF/,ENCSR291JUF,H3K36me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR781RZQ/,ENCSR781RZQ,H3K36me3,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR069MOV/,ENCSR069MOV,H3K36me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR337DTA/,ENCSR337DTA,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR704FZC/,ENCSR704FZC,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR686YJT/,ENCSR686YJT,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR141MKK/,ENCSR141MKK,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR238TAS/,ENCSR238TAS,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR478JBK/,ENCSR478JBK,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR770MNE/,ENCSR770MNE,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR229VKN/,ENCSR229VKN,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR038OIG/,ENCSR038OIG,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR051NKC/,ENCSR051NKC,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR147MMP/,ENCSR147MMP,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR699TBH/,ENCSR699TBH,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR750WAR/,ENCSR750WAR,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR261YVP/,ENCSR261YVP,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR252REC/,ENCSR252REC,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR336YMI/,ENCSR336YMI,H3K36me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR803MMR/,ENCSR803MMR,H3K36me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR327TQY/,ENCSR327TQY,H3K36me3,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR237VGN/,ENCSR237VGN,H3K36me3,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR214AEV/,ENCSR214AEV,H3K36me3,naive B cell,chromimpute,hg19
+/annotations/ENCSR214SBL/,ENCSR214SBL,H3K36me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR051MWI/,ENCSR051MWI,H3K36me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR884AOY/,ENCSR884AOY,H3K36me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR451AKJ/,ENCSR451AKJ,H3K36me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR208YTD/,ENCSR208YTD,H3K36me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR070OOP/,ENCSR070OOP,H3K36me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR310QFO/,ENCSR310QFO,H3K36me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR372FYN/,ENCSR372FYN,H3K36me3,natural killer cell,avocado,hg19
+/annotations/ENCSR674TDG/,ENCSR674TDG,H3K36me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR005UOB/,ENCSR005UOB,H3K36me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR748UIY/,ENCSR748UIY,H3K36me3,neutrophil,avocado,hg19
+/annotations/ENCSR254DDB/,ENCSR254DDB,H3K36me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR026AVA/,ENCSR026AVA,H3K36me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR319TLX/,ENCSR319TLX,H3K36me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR408YQK/,ENCSR408YQK,H3K36me3,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR620HCX/,ENCSR620HCX,H3K36me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR625GXA/,ENCSR625GXA,H3K36me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR266NUM/,ENCSR266NUM,H3K36me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR053KAE/,ENCSR053KAE,H3K36me3,T-cell,chromimpute,hg19
+/annotations/ENCSR539GXB/,ENCSR539GXB,H3K36me3,T-cell,avocado,hg19
+/annotations/ENCSR253MIC/,ENCSR253MIC,H3K36me3,T-cell,avocado,hg19
+/annotations/ENCSR044ZVS/,ENCSR044ZVS,H3K36me3,T-cell,chromimpute,hg19
+/annotations/ENCSR660UJC/,ENCSR660UJC,H3K36me3,T-cell,chromimpute,hg19
+/annotations/ENCSR132DNM/,ENCSR132DNM,H3K36me3,T-cell,chromimpute,hg19
+/annotations/ENCSR759RFA/,ENCSR759RFA,H3K36me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR362AQP/,ENCSR362AQP,H3K36me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR686ZAM/,ENCSR686ZAM,H3K36me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR926BAL/,ENCSR926BAL,H3K36me3,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR189EQH/,ENCSR189EQH,H3K36me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR529TVO/,ENCSR529TVO,H3K36me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR749RCD/,ENCSR749RCD,H3K36me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR411UHY/,ENCSR411UHY,H3K36me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR488GDP/,ENCSR488GDP,H3K36me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR679DJP/,ENCSR679DJP,H3K36me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR914QXX/,ENCSR914QXX,H3K4ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR262YFP/,ENCSR262YFP,H3K4ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR378KYY/,ENCSR378KYY,H3K4ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR567CGS/,ENCSR567CGS,H3K4ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR080GTJ/,ENCSR080GTJ,H3K4ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR041EYD/,ENCSR041EYD,H3K4ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR104XMF/,ENCSR104XMF,H3K4ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR193NEX/,ENCSR193NEX,H3K4ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR667JGR/,ENCSR667JGR,H3K4ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR278MBC/,ENCSR278MBC,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR558EPM/,ENCSR558EPM,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR977PHR/,ENCSR977PHR,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR974JDS/,ENCSR974JDS,H3K4ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR139UVM/,ENCSR139UVM,H3K4ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR409FJM/,ENCSR409FJM,H3K4ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR615VTH/,ENCSR615VTH,H3K4ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR356ADI/,ENCSR356ADI,H3K4ac,natural killer cell,avocado,hg19
+/annotations/ENCSR711PWY/,ENCSR711PWY,H3K4ac,neutrophil,avocado,hg19
+/annotations/ENCSR800KYM/,ENCSR800KYM,H3K4ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR081ODJ/,ENCSR081ODJ,H3K4ac,T-cell,avocado,hg19
+/annotations/ENCSR223WUX/,ENCSR223WUX,H3K4ac,T-cell,avocado,hg19
+/annotations/ENCSR888ZYX/,ENCSR888ZYX,H3K4ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR476PJD/,ENCSR476PJD,H3K4me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR765WBH/,ENCSR765WBH,H3K4me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR796SJK/,ENCSR796SJK,H3K4me1,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR029YIX/,ENCSR029YIX,H3K4me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR667PHB/,ENCSR667PHB,H3K4me1,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR978VVT/,ENCSR978VVT,H3K4me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR970UGW/,ENCSR970UGW,H3K4me1,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR597WUO/,ENCSR597WUO,H3K4me1,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR813LQR/,ENCSR813LQR,H3K4me1,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR637XTL/,ENCSR637XTL,H3K4me1,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR714PJT/,ENCSR714PJT,H3K4me1,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR967DIE/,ENCSR967DIE,H3K4me1,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR959AJR/,ENCSR959AJR,H3K4me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR835CZO/,ENCSR835CZO,H3K4me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR047WKW/,ENCSR047WKW,H3K4me1,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR797CGC/,ENCSR797CGC,H3K4me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR190SRX/,ENCSR190SRX,H3K4me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR985LQW/,ENCSR985LQW,H3K4me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR388CGK/,ENCSR388CGK,H3K4me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR378QKG/,ENCSR378QKG,H3K4me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR910DMG/,ENCSR910DMG,H3K4me1,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR459QKY/,ENCSR459QKY,H3K4me1,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR175WIK/,ENCSR175WIK,H3K4me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR572AAG/,ENCSR572AAG,H3K4me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR241CFD/,ENCSR241CFD,H3K4me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR349EVW/,ENCSR349EVW,H3K4me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR138NTG/,ENCSR138NTG,H3K4me1,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR356WJT/,ENCSR356WJT,H3K4me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR492YEH/,ENCSR492YEH,H3K4me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR940XEO/,ENCSR940XEO,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR842YPM/,ENCSR842YPM,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR194QWP/,ENCSR194QWP,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR148NZD/,ENCSR148NZD,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR751WMY/,ENCSR751WMY,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR565RTF/,ENCSR565RTF,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR294XTP/,ENCSR294XTP,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR362HAT/,ENCSR362HAT,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR374WZG/,ENCSR374WZG,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR233SDG/,ENCSR233SDG,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR537VDE/,ENCSR537VDE,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR263SHJ/,ENCSR263SHJ,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR323YKY/,ENCSR323YKY,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR693UAQ/,ENCSR693UAQ,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR048SOC/,ENCSR048SOC,H3K4me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR008UPS/,ENCSR008UPS,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR116EFP/,ENCSR116EFP,H3K4me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR789CNG/,ENCSR789CNG,H3K4me1,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR866NLI/,ENCSR866NLI,H3K4me1,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR063XYS/,ENCSR063XYS,H3K4me1,naive B cell,chromimpute,hg19
+/annotations/ENCSR379WSH/,ENCSR379WSH,H3K4me1,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR871OLN/,ENCSR871OLN,H3K4me1,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR183MAA/,ENCSR183MAA,H3K4me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR503FFG/,ENCSR503FFG,H3K4me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR078BQR/,ENCSR078BQR,H3K4me1,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR536CCJ/,ENCSR536CCJ,H3K4me1,natural killer cell,chromimpute,hg19
+/annotations/ENCSR341ZGR/,ENCSR341ZGR,H3K4me1,natural killer cell,chromimpute,hg19
+/annotations/ENCSR188INJ/,ENCSR188INJ,H3K4me1,natural killer cell,avocado,hg19
+/annotations/ENCSR916POX/,ENCSR916POX,H3K4me1,natural killer cell,chromimpute,hg19
+/annotations/ENCSR425FBY/,ENCSR425FBY,H3K4me1,neutrophil,chromimpute,hg19
+/annotations/ENCSR721YJL/,ENCSR721YJL,H3K4me1,neutrophil,chromimpute,hg19
+/annotations/ENCSR038NBD/,ENCSR038NBD,H3K4me1,neutrophil,avocado,hg19
+/annotations/ENCSR235MCI/,ENCSR235MCI,H3K4me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR194RMD/,ENCSR194RMD,H3K4me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR780DMH/,ENCSR780DMH,H3K4me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR937RHC/,ENCSR937RHC,H3K4me1,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR652RHR/,ENCSR652RHR,H3K4me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR284CTS/,ENCSR284CTS,H3K4me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR757JUG/,ENCSR757JUG,H3K4me1,T-cell,chromimpute,hg19
+/annotations/ENCSR532YTD/,ENCSR532YTD,H3K4me1,T-cell,chromimpute,hg19
+/annotations/ENCSR477VGV/,ENCSR477VGV,H3K4me1,T-cell,avocado,hg19
+/annotations/ENCSR343LBA/,ENCSR343LBA,H3K4me1,T-cell,avocado,hg19
+/annotations/ENCSR406BIJ/,ENCSR406BIJ,H3K4me1,T-cell,chromimpute,hg19
+/annotations/ENCSR148PZX/,ENCSR148PZX,H3K4me1,T-cell,chromimpute,hg19
+/annotations/ENCSR598VVI/,ENCSR598VVI,H3K4me1,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR679LOR/,ENCSR679LOR,H3K4me1,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR419FSY/,ENCSR419FSY,H3K4me1,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR570NKJ/,ENCSR570NKJ,H3K4me1,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR977POY/,ENCSR977POY,H3K4me1,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR048IYL/,ENCSR048IYL,H3K4me1,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR339USI/,ENCSR339USI,H3K4me1,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR094KQQ/,ENCSR094KQQ,H3K4me1,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR141UZI/,ENCSR141UZI,H3K4me1,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR766UKU/,ENCSR766UKU,H3K4me1,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR520UBZ/,ENCSR520UBZ,H3K4me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR627DBA/,ENCSR627DBA,H3K4me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR228NJO/,ENCSR228NJO,H3K4me2,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR835LMU/,ENCSR835LMU,H3K4me2,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR501NGB/,ENCSR501NGB,H3K4me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR154XKZ/,ENCSR154XKZ,H3K4me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR743PDJ/,ENCSR743PDJ,H3K4me2,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR958ATH/,ENCSR958ATH,H3K4me2,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR137GAO/,ENCSR137GAO,H3K4me2,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR806ZEN/,ENCSR806ZEN,H3K4me2,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR897MKB/,ENCSR897MKB,H3K4me2,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR948AIZ/,ENCSR948AIZ,H3K4me2,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR403NDF/,ENCSR403NDF,H3K4me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR277EAY/,ENCSR277EAY,H3K4me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR468CMH/,ENCSR468CMH,H3K4me2,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR930VKM/,ENCSR930VKM,H3K4me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR433HEN/,ENCSR433HEN,H3K4me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR163UGP/,ENCSR163UGP,H3K4me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR321MTU/,ENCSR321MTU,H3K4me2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR157NON/,ENCSR157NON,H3K4me2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR436JJF/,ENCSR436JJF,H3K4me2,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR027TTP/,ENCSR027TTP,H3K4me2,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR258EBL/,ENCSR258EBL,H3K4me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR496HEY/,ENCSR496HEY,H3K4me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR291SJT/,ENCSR291SJT,H3K4me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR838KKM/,ENCSR838KKM,H3K4me2,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR520SGF/,ENCSR520SGF,H3K4me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR314WDY/,ENCSR314WDY,H3K4me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR666QPY/,ENCSR666QPY,H3K4me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR523DYM/,ENCSR523DYM,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR200IVF/,ENCSR200IVF,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR069KHK/,ENCSR069KHK,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR183AIW/,ENCSR183AIW,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR502WBA/,ENCSR502WBA,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR989OHV/,ENCSR989OHV,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR722TMX/,ENCSR722TMX,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR575TRC/,ENCSR575TRC,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR790VIF/,ENCSR790VIF,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR465WES/,ENCSR465WES,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR444LQH/,ENCSR444LQH,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR021ONT/,ENCSR021ONT,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR223WHI/,ENCSR223WHI,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR815HCA/,ENCSR815HCA,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR416YWR/,ENCSR416YWR,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR349WVX/,ENCSR349WVX,H3K4me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR289FTY/,ENCSR289FTY,H3K4me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR194ROF/,ENCSR194ROF,H3K4me2,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR141JEV/,ENCSR141JEV,H3K4me2,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR999PAF/,ENCSR999PAF,H3K4me2,naive B cell,chromimpute,hg19
+/annotations/ENCSR413LQD/,ENCSR413LQD,H3K4me2,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR735UQM/,ENCSR735UQM,H3K4me2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR579LGP/,ENCSR579LGP,H3K4me2,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR086UYE/,ENCSR086UYE,H3K4me2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR271JYK/,ENCSR271JYK,H3K4me2,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR463LCU/,ENCSR463LCU,H3K4me2,natural killer cell,chromimpute,hg19
+/annotations/ENCSR409RIS/,ENCSR409RIS,H3K4me2,natural killer cell,avocado,hg19
+/annotations/ENCSR501ZRF/,ENCSR501ZRF,H3K4me2,natural killer cell,chromimpute,hg19
+/annotations/ENCSR834ONT/,ENCSR834ONT,H3K4me2,natural killer cell,chromimpute,hg19
+/annotations/ENCSR283SJE/,ENCSR283SJE,H3K4me2,neutrophil,chromimpute,hg19
+/annotations/ENCSR701WCD/,ENCSR701WCD,H3K4me2,neutrophil,avocado,hg19
+/annotations/ENCSR250MUS/,ENCSR250MUS,H3K4me2,neutrophil,chromimpute,hg19
+/annotations/ENCSR303TVA/,ENCSR303TVA,H3K4me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR310BNO/,ENCSR310BNO,H3K4me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR582NQL/,ENCSR582NQL,H3K4me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR793OKL/,ENCSR793OKL,H3K4me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR785SRU/,ENCSR785SRU,H3K4me2,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR695TKH/,ENCSR695TKH,H3K4me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR733IHU/,ENCSR733IHU,H3K4me2,T-cell,chromimpute,hg19
+/annotations/ENCSR353NKC/,ENCSR353NKC,H3K4me2,T-cell,avocado,hg19
+/annotations/ENCSR498GWC/,ENCSR498GWC,H3K4me2,T-cell,chromimpute,hg19
+/annotations/ENCSR732AQC/,ENCSR732AQC,H3K4me2,T-cell,chromimpute,hg19
+/annotations/ENCSR818QBI/,ENCSR818QBI,H3K4me2,T-cell,avocado,hg19
+/annotations/ENCSR031ORH/,ENCSR031ORH,H3K4me2,T-cell,chromimpute,hg19
+/annotations/ENCSR650MNS/,ENCSR650MNS,H3K4me2,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR730WPU/,ENCSR730WPU,H3K4me2,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR013LDT/,ENCSR013LDT,H3K4me2,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR665GUP/,ENCSR665GUP,H3K4me2,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR010ZYV/,ENCSR010ZYV,H3K4me2,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR086WJI/,ENCSR086WJI,H3K4me2,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR314KKA/,ENCSR314KKA,H3K4me2,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR167SGC/,ENCSR167SGC,H3K4me2,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR084ATC/,ENCSR084ATC,H3K4me2,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR863DHO/,ENCSR863DHO,H3K4me2,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR879EHX/,ENCSR879EHX,H3K4me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR892LJG/,ENCSR892LJG,H3K4me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR143YQT/,ENCSR143YQT,H3K4me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR223YJI/,ENCSR223YJI,H3K4me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR202CHY/,ENCSR202CHY,H3K4me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR893ITM/,ENCSR893ITM,H3K4me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR967OYX/,ENCSR967OYX,H3K4me3,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR217ACX/,ENCSR217ACX,H3K4me3,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR865SJZ/,ENCSR865SJZ,H3K4me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR889XMJ/,ENCSR889XMJ,H3K4me3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR277ZAJ/,ENCSR277ZAJ,H3K4me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR480QSN/,ENCSR480QSN,H3K4me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR571KPN/,ENCSR571KPN,H3K4me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR675IVD/,ENCSR675IVD,H3K4me3,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR138NAE/,ENCSR138NAE,H3K4me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR285IWC/,ENCSR285IWC,H3K4me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR198DEL/,ENCSR198DEL,H3K4me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR883RON/,ENCSR883RON,H3K4me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR293BPC/,ENCSR293BPC,H3K4me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR643CAR/,ENCSR643CAR,H3K4me3,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR929ZXX/,ENCSR929ZXX,H3K4me3,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR838NFH/,ENCSR838NFH,H3K4me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR669WYS/,ENCSR669WYS,H3K4me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR776FUJ/,ENCSR776FUJ,H3K4me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR069NGI/,ENCSR069NGI,H3K4me3,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR187KHX/,ENCSR187KHX,H3K4me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR538NIU/,ENCSR538NIU,H3K4me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR090ZQY/,ENCSR090ZQY,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR749OWG/,ENCSR749OWG,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR329TAR/,ENCSR329TAR,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR138BQF/,ENCSR138BQF,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR571ISS/,ENCSR571ISS,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR154BOK/,ENCSR154BOK,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR098PBL/,ENCSR098PBL,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR646MIJ/,ENCSR646MIJ,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR570LHT/,ENCSR570LHT,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR697HMZ/,ENCSR697HMZ,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR336XVX/,ENCSR336XVX,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR971ZJT/,ENCSR971ZJT,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR583EGD/,ENCSR583EGD,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR591LCF/,ENCSR591LCF,H3K4me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR834TGJ/,ENCSR834TGJ,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR894IUG/,ENCSR894IUG,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR673NNL/,ENCSR673NNL,H3K4me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR982SIJ/,ENCSR982SIJ,H3K4me3,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR396BIW/,ENCSR396BIW,H3K4me3,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR020MIV/,ENCSR020MIV,H3K4me3,naive B cell,chromimpute,hg19
+/annotations/ENCSR151JLS/,ENCSR151JLS,H3K4me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR173GRA/,ENCSR173GRA,H3K4me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR944OCE/,ENCSR944OCE,H3K4me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR943VCO/,ENCSR943VCO,H3K4me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR653DND/,ENCSR653DND,H3K4me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR411LGI/,ENCSR411LGI,H3K4me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR030AAK/,ENCSR030AAK,H3K4me3,natural killer cell,avocado,hg19
+/annotations/ENCSR846BZW/,ENCSR846BZW,H3K4me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR171RWY/,ENCSR171RWY,H3K4me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR275WIX/,ENCSR275WIX,H3K4me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR644FVL/,ENCSR644FVL,H3K4me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR693IER/,ENCSR693IER,H3K4me3,neutrophil,avocado,hg19
+/annotations/ENCSR139HTZ/,ENCSR139HTZ,H3K4me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR110WFF/,ENCSR110WFF,H3K4me3,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR674PUI/,ENCSR674PUI,H3K4me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR921IRS/,ENCSR921IRS,H3K4me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR013JYS/,ENCSR013JYS,H3K4me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR132AWQ/,ENCSR132AWQ,H3K4me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR754HPT/,ENCSR754HPT,H3K4me3,T-cell,chromimpute,hg19
+/annotations/ENCSR003IRO/,ENCSR003IRO,H3K4me3,T-cell,chromimpute,hg19
+/annotations/ENCSR800DZD/,ENCSR800DZD,H3K4me3,T-cell,avocado,hg19
+/annotations/ENCSR448JED/,ENCSR448JED,H3K4me3,T-cell,avocado,hg19
+/annotations/ENCSR068PMW/,ENCSR068PMW,H3K4me3,T-cell,chromimpute,hg19
+/annotations/ENCSR265CBV/,ENCSR265CBV,H3K4me3,T-cell,chromimpute,hg19
+/annotations/ENCSR506QOZ/,ENCSR506QOZ,H3K4me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR841MZO/,ENCSR841MZO,H3K4me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR189FSZ/,ENCSR189FSZ,H3K4me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR639PTO/,ENCSR639PTO,H3K4me3,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR668QKH/,ENCSR668QKH,H3K4me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR092PJI/,ENCSR092PJI,H3K4me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR117LEQ/,ENCSR117LEQ,H3K4me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR171OMI/,ENCSR171OMI,H3K4me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR901CXT/,ENCSR901CXT,H3K4me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR723YKF/,ENCSR723YKF,H3K4me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR463ZMV/,ENCSR463ZMV,H3K79me1,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR309KIB/,ENCSR309KIB,H3K79me1,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR862KLV/,ENCSR862KLV,H3K79me1,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR965DCZ/,ENCSR965DCZ,H3K79me1,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR441BZM/,ENCSR441BZM,H3K79me1,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR531KNQ/,ENCSR531KNQ,H3K79me1,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR729SQR/,ENCSR729SQR,H3K79me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR255KXB/,ENCSR255KXB,H3K79me1,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR335TNH/,ENCSR335TNH,H3K79me1,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR234OGW/,ENCSR234OGW,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR380ZFS/,ENCSR380ZFS,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR161OTU/,ENCSR161OTU,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR941HKN/,ENCSR941HKN,H3K79me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR569JCB/,ENCSR569JCB,H3K79me1,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR280ATP/,ENCSR280ATP,H3K79me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR551NNH/,ENCSR551NNH,H3K79me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR582YXK/,ENCSR582YXK,H3K79me1,natural killer cell,avocado,hg19
+/annotations/ENCSR494WIK/,ENCSR494WIK,H3K79me1,neutrophil,avocado,hg19
+/annotations/ENCSR875WHQ/,ENCSR875WHQ,H3K79me1,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR740YJT/,ENCSR740YJT,H3K79me1,T-cell,avocado,hg19
+/annotations/ENCSR259ATI/,ENCSR259ATI,H3K79me1,T-cell,avocado,hg19
+/annotations/ENCSR388TPN/,ENCSR388TPN,H3K79me1,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR871QLJ/,ENCSR871QLJ,H3K79me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR851NRF/,ENCSR851NRF,H3K79me2,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR675HOY/,ENCSR675HOY,H3K79me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR648YKF/,ENCSR648YKF,H3K79me2,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR509NQO/,ENCSR509NQO,H3K79me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR850JAG/,ENCSR850JAG,H3K79me2,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR976AJS/,ENCSR976AJS,H3K79me2,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR688LWV/,ENCSR688LWV,H3K79me2,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR298UWK/,ENCSR298UWK,H3K79me2,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR022SWY/,ENCSR022SWY,H3K79me2,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR992JYH/,ENCSR992JYH,H3K79me2,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR639MHO/,ENCSR639MHO,H3K79me2,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR254ZUX/,ENCSR254ZUX,H3K79me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR766SHO/,ENCSR766SHO,H3K79me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR270VPQ/,ENCSR270VPQ,H3K79me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR556IBU/,ENCSR556IBU,H3K79me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR933BSB/,ENCSR933BSB,H3K79me2,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR763JMB/,ENCSR763JMB,H3K79me2,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR906BCR/,ENCSR906BCR,H3K79me2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR435RQC/,ENCSR435RQC,H3K79me2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR195SAK/,ENCSR195SAK,H3K79me2,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR049ZAD/,ENCSR049ZAD,H3K79me2,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR773MNA/,ENCSR773MNA,H3K79me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR380ABJ/,ENCSR380ABJ,H3K79me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR868BJO/,ENCSR868BJO,H3K79me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR264LPJ/,ENCSR264LPJ,H3K79me2,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR992MUA/,ENCSR992MUA,H3K79me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR555WKC/,ENCSR555WKC,H3K79me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR271GID/,ENCSR271GID,H3K79me2,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR640EOF/,ENCSR640EOF,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR882UWI/,ENCSR882UWI,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR121NQU/,ENCSR121NQU,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR094ZCU/,ENCSR094ZCU,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR988VKF/,ENCSR988VKF,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR708MHJ/,ENCSR708MHJ,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR670DZF/,ENCSR670DZF,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR115PXR/,ENCSR115PXR,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR697KPV/,ENCSR697KPV,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR253FAU/,ENCSR253FAU,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR524FME/,ENCSR524FME,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR503BDC/,ENCSR503BDC,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR102CSU/,ENCSR102CSU,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR183LLW/,ENCSR183LLW,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR128OEF/,ENCSR128OEF,H3K79me2,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR116OHB/,ENCSR116OHB,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR469KZN/,ENCSR469KZN,H3K79me2,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR431GMU/,ENCSR431GMU,H3K79me2,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR208CZP/,ENCSR208CZP,H3K79me2,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR036KER/,ENCSR036KER,H3K79me2,naive B cell,chromimpute,hg19
+/annotations/ENCSR713CLL/,ENCSR713CLL,H3K79me2,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR797AJW/,ENCSR797AJW,H3K79me2,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR490ZVK/,ENCSR490ZVK,H3K79me2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR055MKJ/,ENCSR055MKJ,H3K79me2,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR655MWP/,ENCSR655MWP,H3K79me2,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR176AFL/,ENCSR176AFL,H3K79me2,natural killer cell,chromimpute,hg19
+/annotations/ENCSR231BHV/,ENCSR231BHV,H3K79me2,natural killer cell,chromimpute,hg19
+/annotations/ENCSR973OEM/,ENCSR973OEM,H3K79me2,natural killer cell,chromimpute,hg19
+/annotations/ENCSR266VKI/,ENCSR266VKI,H3K79me2,natural killer cell,avocado,hg19
+/annotations/ENCSR528JGO/,ENCSR528JGO,H3K79me2,neutrophil,avocado,hg19
+/annotations/ENCSR073UHN/,ENCSR073UHN,H3K79me2,neutrophil,chromimpute,hg19
+/annotations/ENCSR903FLD/,ENCSR903FLD,H3K79me2,neutrophil,chromimpute,hg19
+/annotations/ENCSR756JSG/,ENCSR756JSG,H3K79me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR466DPU/,ENCSR466DPU,H3K79me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR844AZJ/,ENCSR844AZJ,H3K79me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR271FUV/,ENCSR271FUV,H3K79me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR818MBP/,ENCSR818MBP,H3K79me2,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR953URP/,ENCSR953URP,H3K79me2,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR203GEL/,ENCSR203GEL,H3K79me2,T-cell,chromimpute,hg19
+/annotations/ENCSR978SOJ/,ENCSR978SOJ,H3K79me2,T-cell,chromimpute,hg19
+/annotations/ENCSR648GNF/,ENCSR648GNF,H3K79me2,T-cell,avocado,hg19
+/annotations/ENCSR068YPZ/,ENCSR068YPZ,H3K79me2,T-cell,chromimpute,hg19
+/annotations/ENCSR356PJD/,ENCSR356PJD,H3K79me2,T-cell,chromimpute,hg19
+/annotations/ENCSR414DJG/,ENCSR414DJG,H3K79me2,T-cell,avocado,hg19
+/annotations/ENCSR641MBG/,ENCSR641MBG,H3K79me2,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR573OYP/,ENCSR573OYP,H3K79me2,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR250FQG/,ENCSR250FQG,H3K79me2,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR263KNI/,ENCSR263KNI,H3K79me2,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR171ZBE/,ENCSR171ZBE,H3K79me2,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR339VKA/,ENCSR339VKA,H3K79me2,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR918OJW/,ENCSR918OJW,H3K79me2,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR603VOO/,ENCSR603VOO,H3K79me2,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR939SNS/,ENCSR939SNS,H3K79me2,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR386RHM/,ENCSR386RHM,H3K79me2,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR109LTT/,ENCSR109LTT,H3K9ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR081GUV/,ENCSR081GUV,H3K9ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR919HBZ/,ENCSR919HBZ,H3K9ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR365MLP/,ENCSR365MLP,H3K9ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR704ANN/,ENCSR704ANN,H3K9ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR871KPF/,ENCSR871KPF,H3K9ac,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR583TOH/,ENCSR583TOH,H3K9ac,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR049XJL/,ENCSR049XJL,H3K9ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR230LHV/,ENCSR230LHV,H3K9ac,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR194GSQ/,ENCSR194GSQ,H3K9ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR888VWM/,ENCSR888VWM,H3K9ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR988FQG/,ENCSR988FQG,H3K9ac,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR123GFG/,ENCSR123GFG,H3K9ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR529XHK/,ENCSR529XHK,H3K9ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR000XWY/,ENCSR000XWY,H3K9ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR796QRA/,ENCSR796QRA,H3K9ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR884DVF/,ENCSR884DVF,H3K9ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR704ZUZ/,ENCSR704ZUZ,H3K9ac,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR858ZPA/,ENCSR858ZPA,H3K9ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR695HJC/,ENCSR695HJC,H3K9ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR530VYU/,ENCSR530VYU,H3K9ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR527EJN/,ENCSR527EJN,H3K9ac,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR680TYB/,ENCSR680TYB,H3K9ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR746RDM/,ENCSR746RDM,H3K9ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR084YYE/,ENCSR084YYE,H3K9ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR336ZMZ/,ENCSR336ZMZ,H3K9ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR644ZZO/,ENCSR644ZZO,H3K9ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR821BXE/,ENCSR821BXE,H3K9ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR302QYJ/,ENCSR302QYJ,H3K9ac,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR038QCU/,ENCSR038QCU,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR008NBS/,ENCSR008NBS,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR347AGI/,ENCSR347AGI,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR662HOY/,ENCSR662HOY,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR865WNL/,ENCSR865WNL,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR798UQB/,ENCSR798UQB,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR358SMU/,ENCSR358SMU,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR781JVB/,ENCSR781JVB,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR235HVI/,ENCSR235HVI,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR226NQY/,ENCSR226NQY,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR030LHI/,ENCSR030LHI,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR840TWR/,ENCSR840TWR,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR981XYD/,ENCSR981XYD,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR233ABO/,ENCSR233ABO,H3K9ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR934DEC/,ENCSR934DEC,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR194FSF/,ENCSR194FSF,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR169RCO/,ENCSR169RCO,H3K9ac,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR839RKJ/,ENCSR839RKJ,H3K9ac,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR426YBN/,ENCSR426YBN,H3K9ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR726JGH/,ENCSR726JGH,H3K9ac,naive B cell,chromimpute,hg19
+/annotations/ENCSR538KTM/,ENCSR538KTM,H3K9ac,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR076WVX/,ENCSR076WVX,H3K9ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR179GGQ/,ENCSR179GGQ,H3K9ac,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR199DKL/,ENCSR199DKL,H3K9ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR930POT/,ENCSR930POT,H3K9ac,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR037FPG/,ENCSR037FPG,H3K9ac,natural killer cell,chromimpute,hg19
+/annotations/ENCSR961TDN/,ENCSR961TDN,H3K9ac,natural killer cell,chromimpute,hg19
+/annotations/ENCSR509ZGT/,ENCSR509ZGT,H3K9ac,natural killer cell,chromimpute,hg19
+/annotations/ENCSR874RFF/,ENCSR874RFF,H3K9ac,natural killer cell,avocado,hg19
+/annotations/ENCSR068GWZ/,ENCSR068GWZ,H3K9ac,neutrophil,avocado,hg19
+/annotations/ENCSR983XAO/,ENCSR983XAO,H3K9ac,neutrophil,chromimpute,hg19
+/annotations/ENCSR120KJV/,ENCSR120KJV,H3K9ac,neutrophil,chromimpute,hg19
+/annotations/ENCSR230MRT/,ENCSR230MRT,H3K9ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR525NGA/,ENCSR525NGA,H3K9ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR380ELS/,ENCSR380ELS,H3K9ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR995PMS/,ENCSR995PMS,H3K9ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR423KVL/,ENCSR423KVL,H3K9ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR566KGN/,ENCSR566KGN,H3K9ac,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR238GWN/,ENCSR238GWN,H3K9ac,T-cell,chromimpute,hg19
+/annotations/ENCSR750LPF/,ENCSR750LPF,H3K9ac,T-cell,chromimpute,hg19
+/annotations/ENCSR505QFZ/,ENCSR505QFZ,H3K9ac,T-cell,chromimpute,hg19
+/annotations/ENCSR547HIZ/,ENCSR547HIZ,H3K9ac,T-cell,avocado,hg19
+/annotations/ENCSR456QKI/,ENCSR456QKI,H3K9ac,T-cell,avocado,hg19
+/annotations/ENCSR300RZE/,ENCSR300RZE,H3K9ac,T-cell,chromimpute,hg19
+/annotations/ENCSR088TYK/,ENCSR088TYK,H3K9ac,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR882IDL/,ENCSR882IDL,H3K9ac,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR759ATR/,ENCSR759ATR,H3K9ac,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR938AIZ/,ENCSR938AIZ,H3K9ac,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR658OHC/,ENCSR658OHC,H3K9ac,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR809OSW/,ENCSR809OSW,H3K9ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR788BMP/,ENCSR788BMP,H3K9ac,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR401SVS/,ENCSR401SVS,H3K9ac,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR840YBK/,ENCSR840YBK,H3K9ac,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR977NFF/,ENCSR977NFF,H3K9ac,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR088KWV/,ENCSR088KWV,H3K9me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR328BYE/,ENCSR328BYE,H3K9me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR877BPB/,ENCSR877BPB,H3K9me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR035YAI/,ENCSR035YAI,H3K9me3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR906WVI/,ENCSR906WVI,H3K9me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR421BDB/,ENCSR421BDB,H3K9me3,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR301XAL/,ENCSR301XAL,H3K9me3,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR972QDG/,ENCSR972QDG,H3K9me3,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR994YYO/,ENCSR994YYO,H3K9me3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR402WWX/,ENCSR402WWX,H3K9me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR077NMQ/,ENCSR077NMQ,H3K9me3,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR777UPF/,ENCSR777UPF,H3K9me3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR343XON/,ENCSR343XON,H3K9me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR465CWT/,ENCSR465CWT,H3K9me3,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR947VLS/,ENCSR947VLS,H3K9me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR113HFM/,ENCSR113HFM,H3K9me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR294VGV/,ENCSR294VGV,H3K9me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR429QNY/,ENCSR429QNY,H3K9me3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR837QWJ/,ENCSR837QWJ,H3K9me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR862XBU/,ENCSR862XBU,H3K9me3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR327ZZW/,ENCSR327ZZW,H3K9me3,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR550SJH/,ENCSR550SJH,H3K9me3,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR479LAD/,ENCSR479LAD,H3K9me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR538KAT/,ENCSR538KAT,H3K9me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR636NAJ/,ENCSR636NAJ,H3K9me3,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR558LUX/,ENCSR558LUX,H3K9me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR286SYZ/,ENCSR286SYZ,H3K9me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR731LHV/,ENCSR731LHV,H3K9me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR166CTE/,ENCSR166CTE,H3K9me3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR497SSO/,ENCSR497SSO,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR604EOM/,ENCSR604EOM,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR600JWV/,ENCSR600JWV,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR159SIQ/,ENCSR159SIQ,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR864WVE/,ENCSR864WVE,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR541OFJ/,ENCSR541OFJ,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR637RMJ/,ENCSR637RMJ,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR317EAM/,ENCSR317EAM,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR566EUL/,ENCSR566EUL,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR263XTQ/,ENCSR263XTQ,H3K9me3,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR381URM/,ENCSR381URM,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR324JBK/,ENCSR324JBK,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR404WQR/,ENCSR404WQR,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR628ZML/,ENCSR628ZML,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR290PBL/,ENCSR290PBL,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR971OUS/,ENCSR971OUS,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR778VBE/,ENCSR778VBE,H3K9me3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR243QDF/,ENCSR243QDF,H3K9me3,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR124DHY/,ENCSR124DHY,H3K9me3,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR154MAA/,ENCSR154MAA,H3K9me3,naive B cell,chromimpute,hg19
+/annotations/ENCSR808BGR/,ENCSR808BGR,H3K9me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR206EXL/,ENCSR206EXL,H3K9me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR949RZT/,ENCSR949RZT,H3K9me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR821ZEN/,ENCSR821ZEN,H3K9me3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR732EYS/,ENCSR732EYS,H3K9me3,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR586WDQ/,ENCSR586WDQ,H3K9me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR172NDD/,ENCSR172NDD,H3K9me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR401NFE/,ENCSR401NFE,H3K9me3,natural killer cell,avocado,hg19
+/annotations/ENCSR527VYB/,ENCSR527VYB,H3K9me3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR794TUV/,ENCSR794TUV,H3K9me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR225TOM/,ENCSR225TOM,H3K9me3,neutrophil,avocado,hg19
+/annotations/ENCSR839OFY/,ENCSR839OFY,H3K9me3,neutrophil,chromimpute,hg19
+/annotations/ENCSR217NMY/,ENCSR217NMY,H3K9me3,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR778QIX/,ENCSR778QIX,H3K9me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR797MUG/,ENCSR797MUG,H3K9me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR113OWG/,ENCSR113OWG,H3K9me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR305GHN/,ENCSR305GHN,H3K9me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR935NJT/,ENCSR935NJT,H3K9me3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR638ATW/,ENCSR638ATW,H3K9me3,T-cell,chromimpute,hg19
+/annotations/ENCSR398OMK/,ENCSR398OMK,H3K9me3,T-cell,avocado,hg19
+/annotations/ENCSR962DXQ/,ENCSR962DXQ,H3K9me3,T-cell,chromimpute,hg19
+/annotations/ENCSR742WVN/,ENCSR742WVN,H3K9me3,T-cell,avocado,hg19
+/annotations/ENCSR486PMZ/,ENCSR486PMZ,H3K9me3,T-cell,chromimpute,hg19
+/annotations/ENCSR000MZN/,ENCSR000MZN,H3K9me3,T-cell,chromimpute,hg19
+/annotations/ENCSR829QAZ/,ENCSR829QAZ,H3K9me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR197TZL/,ENCSR197TZL,H3K9me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR917RTV/,ENCSR917RTV,H3K9me3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR828DTQ/,ENCSR828DTQ,H3K9me3,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR057QIT/,ENCSR057QIT,H3K9me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR337RAD/,ENCSR337RAD,H3K9me3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR340TQZ/,ENCSR340TQZ,H3K9me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR333SJL/,ENCSR333SJL,H3K9me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR794OKZ/,ENCSR794OKZ,H3K9me3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR424ARD/,ENCSR424ARD,H4K20me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR269NSC/,ENCSR269NSC,H4K20me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR518NND/,ENCSR518NND,H4K20me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR735ZSG/,ENCSR735ZSG,H4K20me1,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR503CTK/,ENCSR503CTK,H4K20me1,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR125UST/,ENCSR125UST,H4K20me1,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR790ZAC/,ENCSR790ZAC,H4K20me1,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR933IMW/,ENCSR933IMW,H4K20me1,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR506SAE/,ENCSR506SAE,H4K20me1,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR229TWD/,ENCSR229TWD,H4K20me1,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR357ZRX/,ENCSR357ZRX,H4K20me1,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR489SPE/,ENCSR489SPE,H4K20me1,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR146LKG/,ENCSR146LKG,H4K20me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR703SFF/,ENCSR703SFF,H4K20me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR038YXR/,ENCSR038YXR,H4K20me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR823KNJ/,ENCSR823KNJ,H4K20me1,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR357BWL/,ENCSR357BWL,H4K20me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR882PWC/,ENCSR882PWC,H4K20me1,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR424CEI/,ENCSR424CEI,H4K20me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR059YWT/,ENCSR059YWT,H4K20me1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR555OYR/,ENCSR555OYR,H4K20me1,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR599OUH/,ENCSR599OUH,H4K20me1,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR670JKQ/,ENCSR670JKQ,H4K20me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR988TGG/,ENCSR988TGG,H4K20me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR327HYI/,ENCSR327HYI,H4K20me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR051VTU/,ENCSR051VTU,H4K20me1,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR677BVA/,ENCSR677BVA,H4K20me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR652FEV/,ENCSR652FEV,H4K20me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR038YJH/,ENCSR038YJH,H4K20me1,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR135MTZ/,ENCSR135MTZ,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR967JLV/,ENCSR967JLV,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR272FII/,ENCSR272FII,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR273ZDH/,ENCSR273ZDH,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR900LUK/,ENCSR900LUK,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR879CRN/,ENCSR879CRN,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR193MBY/,ENCSR193MBY,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR856SXX/,ENCSR856SXX,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR205KCC/,ENCSR205KCC,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR960SLD/,ENCSR960SLD,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR430GXH/,ENCSR430GXH,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR199BHC/,ENCSR199BHC,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR324FVJ/,ENCSR324FVJ,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR920REJ/,ENCSR920REJ,H4K20me1,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR616HRR/,ENCSR616HRR,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR949YEK/,ENCSR949YEK,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR670BWB/,ENCSR670BWB,H4K20me1,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR013MCG/,ENCSR013MCG,H4K20me1,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR118SOB/,ENCSR118SOB,H4K20me1,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR977KBN/,ENCSR977KBN,H4K20me1,naive B cell,chromimpute,hg19
+/annotations/ENCSR573MRC/,ENCSR573MRC,H4K20me1,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR354RZV/,ENCSR354RZV,H4K20me1,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR785UCH/,ENCSR785UCH,H4K20me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR681QSY/,ENCSR681QSY,H4K20me1,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR937OXE/,ENCSR937OXE,H4K20me1,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR397FJX/,ENCSR397FJX,H4K20me1,natural killer cell,chromimpute,hg19
+/annotations/ENCSR839HEW/,ENCSR839HEW,H4K20me1,natural killer cell,avocado,hg19
+/annotations/ENCSR568MVR/,ENCSR568MVR,H4K20me1,natural killer cell,chromimpute,hg19
+/annotations/ENCSR368CAU/,ENCSR368CAU,H4K20me1,natural killer cell,chromimpute,hg19
+/annotations/ENCSR281LIV/,ENCSR281LIV,H4K20me1,neutrophil,avocado,hg19
+/annotations/ENCSR823UGH/,ENCSR823UGH,H4K20me1,neutrophil,chromimpute,hg19
+/annotations/ENCSR015PTF/,ENCSR015PTF,H4K20me1,neutrophil,chromimpute,hg19
+/annotations/ENCSR885VZH/,ENCSR885VZH,H4K20me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR073AWL/,ENCSR073AWL,H4K20me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR639KJE/,ENCSR639KJE,H4K20me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR757VPQ/,ENCSR757VPQ,H4K20me1,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR505FJG/,ENCSR505FJG,H4K20me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR722XRN/,ENCSR722XRN,H4K20me1,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR232NDG/,ENCSR232NDG,H4K20me1,T-cell,chromimpute,hg19
+/annotations/ENCSR686PDN/,ENCSR686PDN,H4K20me1,T-cell,chromimpute,hg19
+/annotations/ENCSR938UDZ/,ENCSR938UDZ,H4K20me1,T-cell,avocado,hg19
+/annotations/ENCSR697MUV/,ENCSR697MUV,H4K20me1,T-cell,avocado,hg19
+/annotations/ENCSR406WLG/,ENCSR406WLG,H4K20me1,T-cell,chromimpute,hg19
+/annotations/ENCSR573SKX/,ENCSR573SKX,H4K20me1,T-cell,chromimpute,hg19
+/annotations/ENCSR734JHO/,ENCSR734JHO,H4K20me1,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR386RGR/,ENCSR386RGR,H4K20me1,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR980URH/,ENCSR980URH,H4K20me1,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR457FQS/,ENCSR457FQS,H4K20me1,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR774BIN/,ENCSR774BIN,H4K20me1,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR160RCV/,ENCSR160RCV,H4K20me1,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR120DSE/,ENCSR120DSE,H4K20me1,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR609LCU/,ENCSR609LCU,H4K20me1,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR179LRA/,ENCSR179LRA,H4K20me1,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR791PAV/,ENCSR791PAV,H4K20me1,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR014EDB/,ENCSR014EDB,H4K8ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR510PJC/,ENCSR510PJC,H4K8ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR040JYF/,ENCSR040JYF,H4K8ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR386JBO/,ENCSR386JBO,H4K8ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR797YGV/,ENCSR797YGV,H4K8ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR952YIV/,ENCSR952YIV,H4K8ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR580MYZ/,ENCSR580MYZ,H4K8ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR211ZNW/,ENCSR211ZNW,H4K8ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR165ZSL/,ENCSR165ZSL,H4K8ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR779WAR/,ENCSR779WAR,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR350BRC/,ENCSR350BRC,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR492OOF/,ENCSR492OOF,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR860FCN/,ENCSR860FCN,H4K8ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR585NOX/,ENCSR585NOX,H4K8ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR473SNS/,ENCSR473SNS,H4K8ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR909VRC/,ENCSR909VRC,H4K8ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR295SXD/,ENCSR295SXD,H4K8ac,natural killer cell,avocado,hg19
+/annotations/ENCSR396FIJ/,ENCSR396FIJ,H4K8ac,neutrophil,avocado,hg19
+/annotations/ENCSR414DIN/,ENCSR414DIN,H4K8ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR179NEG/,ENCSR179NEG,H4K8ac,T-cell,avocado,hg19
+/annotations/ENCSR452VPB/,ENCSR452VPB,H4K8ac,T-cell,avocado,hg19
+/annotations/ENCSR725YAR/,ENCSR725YAR,H4K8ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR954QZC/,ENCSR954QZC,H4K91ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR773MFB/,ENCSR773MFB,H4K91ac,CD14-positive monocyte,avocado,hg19
+/annotations/ENCSR139UFD/,ENCSR139UFD,H4K91ac,CD4-positive naive resting alpha-beta T cell,avocado,hg19
+/annotations/ENCSR616PCH/,ENCSR616PCH,H4K91ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR812CDH/,ENCSR812CDH,H4K91ac,"CD4-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR092KFA/,ENCSR092KFA,H4K91ac,"CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR554RSP/,ENCSR554RSP,H4K91ac,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",avocado,hg19
+/annotations/ENCSR988OIR/,ENCSR988OIR,H4K91ac,"CD8-positive, alpha-beta memory T cell",avocado,hg19
+/annotations/ENCSR018GUE/,ENCSR018GUE,H4K91ac,"CD8-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR988IUN/,ENCSR988IUN,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR107NFU/,ENCSR107NFU,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR183JJE/,ENCSR183JJE,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR064JHX/,ENCSR064JHX,H4K91ac,"common myeloid progenitor, CD34-positive",avocado,hg19
+/annotations/ENCSR152LCU/,ENCSR152LCU,H4K91ac,"effector memory CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR970NJY/,ENCSR970NJY,H4K91ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR355FFF/,ENCSR355FFF,H4K91ac,"naive thymus-derived CD4-positive, alpha-beta T cell",avocado,hg19
+/annotations/ENCSR827ZQA/,ENCSR827ZQA,H4K91ac,natural killer cell,avocado,hg19
+/annotations/ENCSR209ONL/,ENCSR209ONL,H4K91ac,neutrophil,avocado,hg19
+/annotations/ENCSR871SBJ/,ENCSR871SBJ,H4K91ac,peripheral blood mononuclear cell,avocado,hg19
+/annotations/ENCSR505YSV/,ENCSR505YSV,H4K91ac,T-cell,avocado,hg19
+/annotations/ENCSR441DST/,ENCSR441DST,H4K91ac,T-cell,avocado,hg19
+/annotations/ENCSR201WRK/,ENCSR201WRK,H4K91ac,T-helper 17 cell,avocado,hg19
+/annotations/ENCSR180LFS/,ENCSR180LFS,POLR2A,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR269YEW/,ENCSR269YEW,POLR2A,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR251LZW/,ENCSR251LZW,POLR2A,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR414RTG/,ENCSR414RTG,POLR2A,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR936XLV/,ENCSR936XLV,POLR2A,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR877RRB/,ENCSR877RRB,POLR2A,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR264NZK/,ENCSR264NZK,POLR2A,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR394IBP/,ENCSR394IBP,POLR2A,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR423LWC/,ENCSR423LWC,POLR2A,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR581QYR/,ENCSR581QYR,POLR2A,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR615FLL/,ENCSR615FLL,POLR2A,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR930TQI/,ENCSR930TQI,POLR2A,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR016HLU/,ENCSR016HLU,POLR2A,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR753SER/,ENCSR753SER,POLR2A,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR100KHE/,ENCSR100KHE,POLR2A,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR138YFO/,ENCSR138YFO,POLR2A,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR606VWE/,ENCSR606VWE,POLR2A,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR659DBU/,ENCSR659DBU,POLR2A,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR022HZK/,ENCSR022HZK,POLR2A,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR849VEC/,ENCSR849VEC,POLR2A,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR904XVT/,ENCSR904XVT,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR281KRF/,ENCSR281KRF,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR225NFP/,ENCSR225NFP,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR724CFP/,ENCSR724CFP,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR728RRD/,ENCSR728RRD,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR357JIR/,ENCSR357JIR,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR943XRH/,ENCSR943XRH,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR415QRG/,ENCSR415QRG,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR794TZJ/,ENCSR794TZJ,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR403WSV/,ENCSR403WSV,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR214ALP/,ENCSR214ALP,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR327IVU/,ENCSR327IVU,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR224ODM/,ENCSR224ODM,POLR2A,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR794DTR/,ENCSR794DTR,POLR2A,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR379XUW/,ENCSR379XUW,POLR2A,naive B cell,chromimpute,hg19
+/annotations/ENCSR095URC/,ENCSR095URC,POLR2A,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR936IBC/,ENCSR936IBC,POLR2A,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR508WGB/,ENCSR508WGB,POLR2A,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR581WYN/,ENCSR581WYN,POLR2A,natural killer cell,chromimpute,hg19
+/annotations/ENCSR018NQI/,ENCSR018NQI,POLR2A,natural killer cell,chromimpute,hg19
+/annotations/ENCSR006GYY/,ENCSR006GYY,POLR2A,natural killer cell,chromimpute,hg19
+/annotations/ENCSR187UWP/,ENCSR187UWP,POLR2A,neutrophil,chromimpute,hg19
+/annotations/ENCSR189NLZ/,ENCSR189NLZ,POLR2A,neutrophil,chromimpute,hg19
+/annotations/ENCSR448GDW/,ENCSR448GDW,POLR2A,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR744TJV/,ENCSR744TJV,POLR2A,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR641UMO/,ENCSR641UMO,POLR2A,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR195MED/,ENCSR195MED,POLR2A,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR709JOY/,ENCSR709JOY,POLR2A,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR636URG/,ENCSR636URG,POLR2A,T-cell,chromimpute,hg19
+/annotations/ENCSR912RYK/,ENCSR912RYK,POLR2A,T-cell,chromimpute,hg19
+/annotations/ENCSR555WNG/,ENCSR555WNG,POLR2A,T-cell,chromimpute,hg19
+/annotations/ENCSR779DSB/,ENCSR779DSB,POLR2A,T-cell,chromimpute,hg19
+/annotations/ENCSR510SUQ/,ENCSR510SUQ,POLR2A,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR434YHN/,ENCSR434YHN,POLR2A,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR822AXK/,ENCSR822AXK,POLR2A,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR299OXL/,ENCSR299OXL,POLR2A,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR015SIH/,ENCSR015SIH,POLR2A,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR640WSZ/,ENCSR640WSZ,POLR2A,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR114IIE/,ENCSR114IIE,POLR2A,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR389WIW/,ENCSR389WIW,POLR2A,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR147GJS/,ENCSR147GJS,POLR2A,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR338MUC/,ENCSR338MUC,RAD21,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR432XLF/,ENCSR432XLF,RAD21,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR694IMP/,ENCSR694IMP,RAD21,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR148CIL/,ENCSR148CIL,RAD21,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR202CBV/,ENCSR202CBV,RAD21,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR968MTI/,ENCSR968MTI,RAD21,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR122PAN/,ENCSR122PAN,RAD21,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR818MXK/,ENCSR818MXK,RAD21,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR907YEC/,ENCSR907YEC,RAD21,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR232OFI/,ENCSR232OFI,RAD21,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR530ZDL/,ENCSR530ZDL,RAD21,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR829ZXA/,ENCSR829ZXA,RAD21,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR420ZHO/,ENCSR420ZHO,RAD21,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR353IYC/,ENCSR353IYC,RAD21,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR198LBK/,ENCSR198LBK,RAD21,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR821NCI/,ENCSR821NCI,RAD21,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR947SBW/,ENCSR947SBW,RAD21,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR079HUC/,ENCSR079HUC,RAD21,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR201FNM/,ENCSR201FNM,RAD21,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR141OVF/,ENCSR141OVF,RAD21,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR986SRJ/,ENCSR986SRJ,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR326JCA/,ENCSR326JCA,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR165GJQ/,ENCSR165GJQ,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR153BKH/,ENCSR153BKH,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR145VPP/,ENCSR145VPP,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR061DKB/,ENCSR061DKB,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR570MEI/,ENCSR570MEI,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR208LZO/,ENCSR208LZO,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR593PBZ/,ENCSR593PBZ,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR601XRM/,ENCSR601XRM,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR334MJP/,ENCSR334MJP,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR474LCH/,ENCSR474LCH,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR168ZLK/,ENCSR168ZLK,RAD21,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR010WLD/,ENCSR010WLD,RAD21,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR482PYP/,ENCSR482PYP,RAD21,naive B cell,chromimpute,hg19
+/annotations/ENCSR892XER/,ENCSR892XER,RAD21,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR569TZM/,ENCSR569TZM,RAD21,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR067TPQ/,ENCSR067TPQ,RAD21,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR874QDX/,ENCSR874QDX,RAD21,natural killer cell,chromimpute,hg19
+/annotations/ENCSR393APM/,ENCSR393APM,RAD21,natural killer cell,chromimpute,hg19
+/annotations/ENCSR046VNV/,ENCSR046VNV,RAD21,natural killer cell,chromimpute,hg19
+/annotations/ENCSR774FUB/,ENCSR774FUB,RAD21,neutrophil,chromimpute,hg19
+/annotations/ENCSR369GHY/,ENCSR369GHY,RAD21,neutrophil,chromimpute,hg19
+/annotations/ENCSR065AQH/,ENCSR065AQH,RAD21,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR271DDC/,ENCSR271DDC,RAD21,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR842NXX/,ENCSR842NXX,RAD21,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR572PYX/,ENCSR572PYX,RAD21,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR670DDY/,ENCSR670DDY,RAD21,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR983BTJ/,ENCSR983BTJ,RAD21,T-cell,chromimpute,hg19
+/annotations/ENCSR923CZP/,ENCSR923CZP,RAD21,T-cell,chromimpute,hg19
+/annotations/ENCSR940STU/,ENCSR940STU,RAD21,T-cell,chromimpute,hg19
+/annotations/ENCSR520DMN/,ENCSR520DMN,RAD21,T-cell,chromimpute,hg19
+/annotations/ENCSR490TCH/,ENCSR490TCH,RAD21,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR300NRV/,ENCSR300NRV,RAD21,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR324NYU/,ENCSR324NYU,RAD21,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR715NLR/,ENCSR715NLR,RAD21,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR734AGA/,ENCSR734AGA,RAD21,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR958GUY/,ENCSR958GUY,RAD21,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR518ILS/,ENCSR518ILS,RAD21,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR981XPG/,ENCSR981XPG,RAD21,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR470QIO/,ENCSR470QIO,RAD21,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR891AZG/,ENCSR891AZG,SMC3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR140XQJ/,ENCSR140XQJ,SMC3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR473QPX/,ENCSR473QPX,SMC3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR700DVP/,ENCSR700DVP,SMC3,CD14-positive monocyte,chromimpute,hg19
+/annotations/ENCSR348QEV/,ENCSR348QEV,SMC3,CD1c-positive myeloid dendritic cell,chromimpute,hg19
+/annotations/ENCSR774TVM/,ENCSR774TVM,SMC3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR245YBN/,ENCSR245YBN,SMC3,"CD4-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR131JGJ/,ENCSR131JGJ,SMC3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR988DIZ/,ENCSR988DIZ,SMC3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR878BIX/,ENCSR878BIX,SMC3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR619WCV/,ENCSR619WCV,SMC3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR279SEN/,ENCSR279SEN,SMC3,"CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR256SNT/,ENCSR256SNT,SMC3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",chromimpute,hg19
+/annotations/ENCSR801IPM/,ENCSR801IPM,SMC3,"CD8-positive, alpha-beta memory T cell",chromimpute,hg19
+/annotations/ENCSR950SHF/,ENCSR950SHF,SMC3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR831CYX/,ENCSR831CYX,SMC3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR692AGA/,ENCSR692AGA,SMC3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR343YJJ/,ENCSR343YJJ,SMC3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR719UJQ/,ENCSR719UJQ,SMC3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR880DMH/,ENCSR880DMH,SMC3,"CD8-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR348MWZ/,ENCSR348MWZ,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR501IGY/,ENCSR501IGY,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR703UYP/,ENCSR703UYP,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR439AQM/,ENCSR439AQM,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR085GXF/,ENCSR085GXF,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR318LGO/,ENCSR318LGO,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR661LHO/,ENCSR661LHO,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR247XVC/,ENCSR247XVC,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR976FYC/,ENCSR976FYC,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR318FBB/,ENCSR318FBB,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR015ZDA/,ENCSR015ZDA,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR182LAG/,ENCSR182LAG,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR582KEA/,ENCSR582KEA,SMC3,"common myeloid progenitor, CD34-positive",chromimpute,hg19
+/annotations/ENCSR152YAD/,ENCSR152YAD,SMC3,"effector memory CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR371ZJV/,ENCSR371ZJV,SMC3,naive B cell,chromimpute,hg19
+/annotations/ENCSR395YQE/,ENCSR395YQE,SMC3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR409MCC/,ENCSR409MCC,SMC3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR438NMQ/,ENCSR438NMQ,SMC3,"naive thymus-derived CD4-positive, alpha-beta T cell",chromimpute,hg19
+/annotations/ENCSR505ZGW/,ENCSR505ZGW,SMC3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR800JRI/,ENCSR800JRI,SMC3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR982SVR/,ENCSR982SVR,SMC3,natural killer cell,chromimpute,hg19
+/annotations/ENCSR958UHV/,ENCSR958UHV,SMC3,neutrophil,chromimpute,hg19
+/annotations/ENCSR789JQY/,ENCSR789JQY,SMC3,neutrophil,chromimpute,hg19
+/annotations/ENCSR809TUE/,ENCSR809TUE,SMC3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR885LUJ/,ENCSR885LUJ,SMC3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR675RDQ/,ENCSR675RDQ,SMC3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR404DZF/,ENCSR404DZF,SMC3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR392IAH/,ENCSR392IAH,SMC3,peripheral blood mononuclear cell,chromimpute,hg19
+/annotations/ENCSR185FZR/,ENCSR185FZR,SMC3,T-cell,chromimpute,hg19
+/annotations/ENCSR657CIK/,ENCSR657CIK,SMC3,T-cell,chromimpute,hg19
+/annotations/ENCSR363DWU/,ENCSR363DWU,SMC3,T-cell,chromimpute,hg19
+/annotations/ENCSR251RDM/,ENCSR251RDM,SMC3,T-cell,chromimpute,hg19
+/annotations/ENCSR111NZJ/,ENCSR111NZJ,SMC3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR430RII/,ENCSR430RII,SMC3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR049RZE/,ENCSR049RZE,SMC3,T-helper 1 cell,chromimpute,hg19
+/annotations/ENCSR752YHN/,ENCSR752YHN,SMC3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR073TZN/,ENCSR073TZN,SMC3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR435CHL/,ENCSR435CHL,SMC3,T-helper 17 cell,chromimpute,hg19
+/annotations/ENCSR368APU/,ENCSR368APU,SMC3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR297BRN/,ENCSR297BRN,SMC3,T-helper 2 cell,chromimpute,hg19
+/annotations/ENCSR929HIF/,ENCSR929HIF,SMC3,T-helper 2 cell,chromimpute,hg19
