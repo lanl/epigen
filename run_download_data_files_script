@@ -1,0 +1,13 @@
+#submit a job to download data files, linked to download_data_files.py
+#without submitting a job, just run: python3 download_data_files.py 0 1632 (overall there are 1632 files from the hg38-aligned dataset)
+
+#!/bin/bash -l
+#SBATCH --output=job_%j.log
+#SBATCH --qos=standard
+#SBATCH -p gpu
+#SBATCH -t 10:00:00 
+
+module load python/3.8-anaconda-2020.07
+source activate
+conda activate myenv #this is an environment containing packages from the download_data_files.py
+python3 download_data_files.py ${start_in} ${end_in}
