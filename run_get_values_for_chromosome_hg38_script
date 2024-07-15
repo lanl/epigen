@@ -1,6 +1,6 @@
 #a job to run get_data38_200.py file to process bigWig file to get values of each 200bp for specific chromosome ${chr}
 #${start_in} ${end_in} determine the range of the files (1632 files in the hg38-aligned dataset)
-#to submit a job for this script for the first 200 files for chr 6 run: sbatch --export=chr=6,start_in=0,end_in=200 run_get200bpvalues_for_chromosome_hg38_script
+#to submit a job for this script for the first 200 files for chr 6 run: sbatch --export=chr=6,start_in=0,end_in=200 run_get_values_for_chromosome_hg38_script
 
 #!/bin/bash -l
 #SBATCH --output=job_%j.log
@@ -12,4 +12,4 @@ module load python/3.8-anaconda-2020.07
 source activate
 conda activate myenv
 
-python3 get200bpvalues_for_chromosome_hg38.py ${chr} ${start_in} ${end_in}
+python3 get_values_for_chromosome_hg38.py ${chr} ${start_in} ${end_in}
