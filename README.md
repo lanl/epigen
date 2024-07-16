@@ -18,11 +18,11 @@ The data doesn't contain the chromosome Y.
 3. For each chromosome obtain the dataframe that contains columns where each value (p-values here) is less than 0.05 in at least one sample (row): _create_pvdf.py_ that calls _run_create_pvdf_script_.
 4. For each chromosome calculate the pairwise correlation matrix between samples, requires GPU, otherwise will take hours vs minutes per chromosome: correlation_matrix_calculation.py.
 5. For each chromosome obtain a list of known genes and their bp position in the chromosome: get_ret_df_files.py.
-6. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
-7. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
-8. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
-9. Produce paper circular plot 2: produce_circular_plot.py.
-
+6. Produce paper circular plot 2: get_important_genes.py and produce_circular_plot.py.
+7. Produce paper umap plots 3, 4, and 5: produce_umap_plots.py.
+8. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
+9. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
+10. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
 
 
 
