@@ -16,7 +16,7 @@ The data doesn't contain the chromosome Y.
 1. Download bigWig files from the ENCODE, run _run_download_data_files_script_ that calls _download_data_files.py_.
 2. For each chromosome calculate values for each 200bp region, run _run_get_values_for_chromosome_script_ that calls _get_values_for_chromosome.py_.
 3. For each chromosome obtain the dataframe that contains columns where each value (p-values here) is less than 0.05 in at least one sample (row): _create_pvdf.py_ that calls _run_create_pvdf_script_.
-4. For each chromosome calculate the pairwise correlation matrix between samples, requires GPU, otherwise will take hours vs minutes per chromosome: correlation_matrix_calculation.py.
+4. For each chromosome calculate the pairwise correlation matrix between samples which requires GPU (otherwise will take hours vs minutes per chromosome): correlation_matrix_calculation.py.
 5. For each chromosome obtain a list of known genes and their bp position in the chromosome: get_ret_df_files.py.
 6. Produce paper circular plot 2: get_newick_string.py and produce_circular_plot.py.
 7. Produce paper umap plots 3, 4, and 5: produce_umap_plots.py.
