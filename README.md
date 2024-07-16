@@ -22,7 +22,7 @@ The data doesn't contain the chromosome Y.
 7. Produce paper umap plots 3, 4, and 5: produce_umap_plots.py.
 8. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
 9. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
-10. Produce paper gene ontology resuls needed for plots 9 and 10: get_important_genes.py.
+10. Produce paper gene ontology resuls needed for plots 9 and 10: produce_go_results.py.
 11. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
 
 
