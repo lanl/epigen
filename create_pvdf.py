@@ -7,7 +7,7 @@ import h5py
 import sys
 
 
-df38 = pd.read_csv("./genome_df38.csv", delimiter=",")
+df38 = pd.read_csv("./data/genome_df38.csv", delimiter=",")
 df38 = pd.DataFrame(df38)
 df38 = df38.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
 for chr_id in range(int(float(sys.argv[1])), int(float(sys.argv[2]))):
