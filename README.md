@@ -21,6 +21,7 @@ The data doesn't contain the chromosome Y.
 6. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
 7. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
 8. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
+9. Produce paper circular plot 2: produce_circular_plot.py.
 
 
 
