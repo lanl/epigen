@@ -3,7 +3,7 @@ Code and scripts related to the paper. O# O4747
 
 **General info**: 
 
-**data** folder containes files necessary to execute the code, some large files needed to be downloaded as written in the scripts below.
+**data** folder contains files necessary to execute the code, some large files needed to be downloaded as written in the scripts below.
 
 This repository contains python scripts and bash scripts to obtain paper results. 
 
