@@ -1,5 +1,5 @@
 # epigen
-Code and scripts related to the paper. O# O4747
+Code and scripts related to the paper. O# O4747: Machine learning tools for epigenetics.
 
 **General info**: 
 
