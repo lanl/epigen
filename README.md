@@ -28,8 +28,7 @@ The data doesn't contain the chromosome Y.
 11. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
 
 
-<img src="patch_circle_plot.pdf" width="128"/>
-
+![Paper plot 2 (step #6 above)](patch_circle_plot.pdf)
 
 © 2024. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S. Department of Energy/National Nuclear Security Administration. All rights in the program are reserved by Triad National Security, LLC, and the U.S. Department of Energy/National Nuclear Security Administration. The Government is granted for itself and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this material to reproduce, prepare. derivative works, distribute copies to the public, perform publicly and display publicly, and to permit others to do so.
