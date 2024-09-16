@@ -2,7 +2,7 @@
 Code and scripts related to the paper. O# O4747: Machine learning tools for epigenetics.
 
 Environmental toxins and pathogens can influence epigenetic modifications on chromosomes, thereby leaving trace evidence of exposures. However, the avalanche of epigenomic data is difficult to parse for biological interpretation given non-linear complex patterns and relationships. This attractive challenge in epigenomic data lends itself to machine learning for discerning infectivity and susceptibility. In this study, we explore over 3,000 epigenomes of uninfected individuals and provide a comprehensive characterization of the relationships among epigenetic modifiers, their modifiers, and specific immune cell types across all chromosomes using hierarchical clustering.
-
+![Workflow of our approach](biorenderfig.png)
 **General info**: 
 
 **data** folder contains files necessary to execute the code, some large files needed to be downloaded as written in the scripts below.
