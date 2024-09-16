@@ -3,6 +3,9 @@ Code and scripts related to the paper. O# O4747: Machine learning tools for epig
 
 Environmental toxins and pathogens can influence epigenetic modifications on chromosomes, thereby leaving trace evidence of exposures. However, the avalanche of epigenomic data is difficult to parse for biological interpretation given non-linear complex patterns and relationships. This attractive challenge in epigenomic data lends itself to machine learning for discerning infectivity and susceptibility. In this study, we explore over 3,000 epigenomes of uninfected individuals and provide a comprehensive characterization of the relationships among epigenetic modifiers, their modifiers, and specific immune cell types across all chromosomes using hierarchical clustering.
 ![Workflow of our approach](biorenderfig.png)
+Workflow of our approach.
+
+
 **General info**: 
 
 **data** folder contains files necessary to execute the code, some large files needed to be downloaded as written in the scripts below.
@@ -29,7 +32,10 @@ The data doesn't contain the chromosome Y.
 
 
 ![Circular plot (step #6 above)](patch_circle_plot.png)
+Circular plot (step #6 above).
+
 ![UMAP plot (step #7 above)](umap_100_marks_hg38.png)
+UMAP plot (step #7 above).
 
 © 2024. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S. Department of Energy/National Nuclear Security Administration. All rights in the program are reserved by Triad National Security, LLC, and the U.S. Department of Energy/National Nuclear Security Administration. The Government is granted for itself and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this material to reproduce, prepare. derivative works, distribute copies to the public, perform publicly and display publicly, and to permit others to do so.
