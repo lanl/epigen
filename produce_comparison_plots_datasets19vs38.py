@@ -380,6 +380,7 @@ N = 50
 unique_labels = list(np.unique(df38_labels_mark))
 co_occurrence_matrix = np.zeros((len(unique_labels), len(unique_labels)))
 labels = df38_labels_mark
+label_counts = Counter(labels)
 chr_id = 6
 clusters = fcluster(linkresult_38, 0.3, criterion='distance')    
 #print(len(np.unique(clusters)))
@@ -396,14 +397,16 @@ for cluster_id in np.unique(clusters):
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])#/np.sqrt(count_label1*count_label2)
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
                 if label1 == label2:
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])#/np.sqrt(count_label1*count_label2)
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
+
+
 
     upper_triangle_indices = np.triu_indices_from(co_occurrence_matrix, 1)
     upper_triangle_values = co_occurrence_matrix[upper_triangle_indices]
@@ -414,6 +417,8 @@ for cluster_id in np.unique(clusters):
     #print(top_co_occurring_labels)
     sorted_data = sorted(top_co_occurring_labels, key=lambda x: (x[0], x[1]))
     top_all_chrs.append(sorted_data)
+    
+    
 flattened_data = sorted_data
 item_freqs = Counter(flattened_data)
 item_freqs.most_common()
@@ -426,13 +431,17 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters (GRCh
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=30)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/omarks38_600_co_occurrence_matrix_heatmap_38_N50.eps'
-plt.savefig(file_path, format='eps')
+#file_path = '/Users/akim/Documents/epi/omarks38_600_co_occurrence_matrix_heatmap_38_N50.eps'
+#plt.savefig(file_path, format='eps')
 plt.show()
 
 #reorder 
 data = co_occurrence_matrix
 df = pd.DataFrame(data, columns=unique_labels, index=unique_labels)
+
+df38_ = pd.DataFrame(co_occurrence_matrix)
+df38_.index = df.index
+
 linked = linkage(df, 'single')
 df_ordered = df.iloc[leaves_list(linked), leaves_list(linked)]
 plt.figure(figsize=(30, 30))
@@ -444,7 +453,7 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters', fon
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=20)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/marks38_600_co_occurrence_matrix_heatmap_38_N50.eps'
+file_path = '/Users/akim/Documents/epi/marks38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -456,6 +465,7 @@ N = 50
 unique_labels = list(np.unique(df38_labels_cell))
 co_occurrence_matrix = np.zeros((len(unique_labels), len(unique_labels)))
 labels = df38_labels_cell
+label_counts = Counter(labels)
 chr_id = 6
 clusters = fcluster(linkresult_38, 0.3, criterion='distance')    
 #print(len(np.unique(clusters)))
@@ -472,13 +482,13 @@ for cluster_id in np.unique(clusters):
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
                 if label1 == label2:
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
 
     upper_triangle_indices = np.triu_indices_from(co_occurrence_matrix, 1)
@@ -514,7 +524,7 @@ plt.title('Co-occurrence Matrix Heatmap of Cell Types in Clusters', fontsize=30)
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=18)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/cells38_600_co_occurrence_matrix_heatmap_38_N50.eps'
+file_path = '/Users/akim/Documents/epi/cells38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -526,6 +536,8 @@ N = 50
 unique_labels = list(np.unique(df19_labels_mark))
 co_occurrence_matrix = np.zeros((len(unique_labels), len(unique_labels)))
 labels = df19_labels_mark
+label_counts = Counter(labels)
+
 chr_id = 6
 clusters = fcluster(linkresult_19, 0.3, criterion='distance')    
 #print(len(np.unique(clusters)))
@@ -542,13 +554,13 @@ for cluster_id in np.unique(clusters):
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
                 if label1 == label2:
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
 
     upper_triangle_indices = np.triu_indices_from(co_occurrence_matrix, 1)
@@ -572,13 +584,17 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters (GRCh
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=30)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/omarks19_600_co_occurrence_matrix_heatmap_19_N50.eps'
-plt.savefig(file_path, format='eps')
-plt.show()
+#file_path = '/Users/akim/Documents/epi/omarks19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
+#plt.savefig(file_path, format='eps')
+#plt.show()
 
 #reorder 
 data = co_occurrence_matrix
 df = pd.DataFrame(data, columns=unique_labels, index=unique_labels)
+
+df19_ = pd.DataFrame(co_occurrence_matrix)
+df19_.index = df.index
+
 linked = linkage(df, 'single')
 df_ordered = df.iloc[leaves_list(linked), leaves_list(linked)]
 plt.figure(figsize=(30, 30))
@@ -590,7 +606,7 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters', fon
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=20)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/marks19_600_co_occurrence_matrix_heatmap_19_N50.eps'
+file_path = '/Users/akim/Documents/epi/marks19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -601,6 +617,8 @@ N = 50
 unique_labels = list(np.unique(df19_labels_cell))
 co_occurrence_matrix = np.zeros((len(unique_labels), len(unique_labels)))
 labels = df19_labels_cell
+label_counts = Counter(labels)
+
 chr_id = 6
 clusters = fcluster(linkresult_19, 0.3, criterion='distance')    
 #print(len(np.unique(clusters)))
@@ -617,13 +635,13 @@ for cluster_id in np.unique(clusters):
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
                 if label1 == label2:
                     count_label1 = labels_in_cluster.count(label1)
                     count_label2 = labels_in_cluster.count(label2)
                     min_count = min(count_label1, count_label2)
-                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                    co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                     co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
 
     upper_triangle_indices = np.triu_indices_from(co_occurrence_matrix, 1)
@@ -659,9 +677,158 @@ plt.title('Co-occurrence Matrix Heatmap of Cell Types in Clusters', fontsize=30)
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=18)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/cells19_600_co_occurrence_matrix_heatmap_19_N50.eps'
+file_path = '/Users/akim/Documents/epi/cells19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
+
+
+from sklearn.manifold import MDS
+nmds = MDS(n_components=2, dissimilarity="precomputed", random_state=42)
+nmds_results = nmds.fit_transform(co_occurrence_matrix)
+plt.figure(figsize=(8, 6))
+plt.scatter(nmds_results[:, 0], nmds_results[:, 1], c='blue', alpha=0.6, edgecolors='k')
+for i, label in enumerate(df.index):
+    plt.text(nmds_results[i, 0], nmds_results[i, 1], label, fontsize=8, ha='right', color='darkblue')
+plt.title("NMDS Visualization of co-occurences")
+plt.xlabel("NMDS Dimension 1")
+plt.ylabel("NMDS Dimension 2")
+plt.grid(True)
+plt.show()
+
+
+#Figure 13
+#co-occurence matrix and df.index
+#Self-organizing maps
+import numpy as np
+from minisom import MiniSom
+import matplotlib.pyplot as plt
+from matplotlib.patches import RegularPolygon
+from matplotlib import cm, colorbar
+from mpl_toolkits.axes_grid1 import make_axes_locatable
+from collections import defaultdict
+
+som_x, som_y = 10, 10  # Adjust grid size based on your data
+som = MiniSom(som_x, som_y, co_occurrence_matrix.shape[1],
+              sigma=1.0, learning_rate=0.5, random_seed=42)
+som.train_random(co_occurrence_matrix, 100000)
+
+#  SOM visualization
+xx, yy = som.get_euclidean_coordinates()
+umatrix = som.distance_map()
+weights = som.get_weights()
+f = plt.figure(figsize=(12, 12))  # Increased figure size
+ax = f.add_subplot(111)
+ax.set_aspect('equal')
+
+# Add hexagons 
+for i in range(weights.shape[0]):
+    for j in range(weights.shape[1]):
+        wy = yy[(i, j)] * np.sqrt(3) / 2
+        hex = RegularPolygon((xx[(i, j)], wy),
+                             numVertices=6,
+                             radius=.95 / np.sqrt(3),
+                             facecolor=cm.Blues(umatrix[i, j]),
+                             alpha=.4,
+                             edgecolor='gray')
+        ax.add_patch(hex)
+
+cell_labels = defaultdict(list)
+for idx, data_point in enumerate(co_occurrence_matrix):
+    w = som.winner(data_point)  # Find BMU for each data point
+    cell_labels[w].append(df.index[idx])
+
+for (i, j), labels in cell_labels.items():
+    wx, wy = som.convert_map_to_euclidean((i, j))
+    wy = wy * np.sqrt(3) / 2
+
+    num_labels = len(labels)
+    fontsize = 9  # Adjust font size as needed
+    line_height = 0.2  # Vertical spacing between labels
+
+    # Calculate starting y-coordinate to center the labels vertically
+    total_height = (num_labels - 1) * line_height
+    start_y = wy + total_height / 2
+
+    for idx, label in enumerate(labels):
+        dy = -idx * line_height
+        plt.text(wx, start_y + dy, label, fontsize=fontsize,
+                 ha='center', va='center', color='darkblue')
+
+padding = 2  # Adjust padding if labels are cut off
+x_min, x_max = xx.min() - padding, xx.max() + padding
+y_min, y_max = (yy * np.sqrt(3) / 2).min() - padding, (yy * np.sqrt(3) / 2).max() + padding
+plt.xlim(x_min, x_max)
+plt.ylim(y_min, y_max)
+
+xrange = np.arange(weights.shape[0])
+yrange = np.arange(weights.shape[1])
+plt.xticks(xrange - 0.5, xrange)
+plt.yticks(yrange * np.sqrt(3) / 2, yrange)
+
+divider = make_axes_locatable(plt.gca())
+ax_cb = divider.new_horizontal(size="5%", pad=0.05)
+cb1 = colorbar.ColorbarBase(ax_cb, cmap=cm.Blues, orientation='vertical', alpha=.4)
+cb1.ax.get_yaxis().labelpad = 16
+cb1.ax.set_ylabel('Distance from neurons in the neighborhood', rotation=270, fontsize=16)
+plt.gcf().add_axes(ax_cb)
+
+plt.savefig('SOM_visualization.eps', format='eps')
+plt.title("SOM Visualization with Labels")
+plt.show()
+
+
+
+# diag_elements = np.diag(df19_.values).copy()
+# diag_elements[diag_elements == 0] = 1
+# normalization_matrix = np.outer(diag_elements, diag_elements)
+# co_occurrence_matrix_normalized = df19_.values / np.sqrt(normalization_matrix)
+# np.fill_diagonal(co_occurrence_matrix_normalized, 1)
+# df19_2 = co_occurrence_matrix_normalized
+
+
+# diag_elements = np.diag(df38_.values).copy()
+# diag_elements[diag_elements == 0] = 1
+# normalization_matrix = np.outer(diag_elements, diag_elements)
+# co_occurrence_matrix_normalized = df38_.values / np.sqrt(normalization_matrix)
+# np.fill_diagonal(co_occurrence_matrix_normalized, 1)
+# df38_2 = co_occurrence_matrix_normalized
+import numpy as np
+import pandas as pd
+from statsmodels.stats.multitest import multipletests
+
+def permutation_test(differences, n_permutations=10000):
+    T_obs = np.mean(differences)
+    permuted_stats = np.array([
+        np.mean(differences * np.random.choice([-1, 1], size=len(differences)))
+        for _ in range(n_permutations)
+    ])
+    
+    if T_obs > 0:
+        p_value = np.sum(permuted_stats >= T_obs) / n_permutations
+    else:
+        p_value = np.sum(permuted_stats <= T_obs) / n_permutations
+    return p_value
+
+labels = df19_.index.tolist()
+p_values = []
+
+# Perform permutation test for each row
+for label in labels:
+    row19 = df19_.loc[label].values
+    row38 = df38_.loc[label].values
+    differences = row19 - row38
+    p = permutation_test(differences)
+    p_values.append(p)
+
+# Benjamini-Hochberg correction for multiple testing
+reject, pvals_corrected, _, _ = multipletests(p_values, alpha=0.05, method='fdr_bh')
+
+non_significant_labels = [label for label, rej in zip(labels, reject) if not rej]
+significant_labels = [label for label, rej in zip(labels, reject) if rej]
+print(f"Non-significant labels (p > 0.05): {non_significant_labels}")
+print(f"Significant labels (p ≤ 0.05): {significant_labels}")
+
+
 
 
 #UMAP plots (not shown in the paper), play with the n_neighbors=10 parameter (10, 20, ..., 100)
