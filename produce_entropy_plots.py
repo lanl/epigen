@@ -256,3 +256,48 @@ fig.legend(handles=legend_handles, loc='lower center', bbox_to_anchor=(0.5, 0.0)
 plt.tight_layout(rect=[0, 0.05, 1, 0.95])
 plt.savefig("./results38/entropy_paper_plot_hg38.eps", format='eps')
 
+
+#p-value permutation test for entropies
+def pvalue_test(labels):
+    all_wa = []
+    labels_true_wa = []
+    p_values = []  #  p-values for each distance threshold
+    for i in range(0, 23):
+        chr_id = i + 1
+        linkresult = list_linkages[i]
+        wa = []
+        true_wa = []
+        p_value_chr = []  #  p-values for this chromosome
+        for dist in [0.3]: #just for distance of 0.3
+            clusters = fcluster(linkresult, dist, criterion='distance')
+            true_entropy = weighted_average_entropy(labels, clusters)
+            true_wa.append(true_entropy)
+            #print("true: ", true_wa)
+            # Random entropy calculation
+            wa_values = []
+            for j in range(1000):
+                random_labels = labels.copy()
+                random.shuffle(random_labels)
+                wa_values.append(weighted_average_entropy(random_labels, clusters))
+            wa.append(np.mean(wa_values))
+           # print("random: ", wa_values)
+            # Calculate p-value: proportion of random entropies <= true entropy
+            count_below_true = sum(1 for random_entropy in wa_values if random_entropy <= true_entropy)
+            p_value = count_below_true / len(wa_values)
+            p_value_chr.append(p_value)
+            print(count_below_true, len(wa_values))
+        
+        all_wa.append(wa)
+        p_values.append(p_value_chr)
+        
+        labels_true_wa.append(true_wa)
+
+    mean_wa_all = np.mean(all_wa, axis=0)
+    var_wa_all = np.var(all_wa, axis=0)
+
+    return all_wa, labels_true_wa, p_values
+
+
+_, _, p_values = pvalue_test(labels_mark)
+
+p_values
