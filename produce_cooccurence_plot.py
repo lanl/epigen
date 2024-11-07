@@ -86,9 +86,10 @@ N = 50 #visualize only top 50 co-occured items
 unique_labels = list(np.unique(labels_mark)) #can be labels_cell, labels_factor, or labels_activity
 co_occurrence_matrix = np.zeros((len(unique_labels), len(unique_labels)))
 labels = labels_mark #can be labels_cell, labels_factor, or labels_activity
+label_counts = Counter(labels)
 for i in range(1, 24):
     chr_id = i 
-    linkresult = linkresult[i]
+    linkresult = list_linkages[i-1]
     clusters = fcluster(linkresult, 0.3, criterion='distance')    
     print(len(np.unique(clusters)))
     for cluster_id in np.unique(clusters):
@@ -103,13 +104,13 @@ for i in range(1, 24):
                         count_label1 = labels_in_cluster.count(label1)
                         count_label2 = labels_in_cluster.count(label2)
                         min_count = min(count_label1, count_label2)
-                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                         co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
                     if label1 == label2:
                         count_label1 = labels_in_cluster.count(label1)
                         count_label2 = labels_in_cluster.count(label2)
                         min_count = min(count_label1, count_label2)
-                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count
+                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
                         co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
     upper_triangle_indices = np.triu_indices_from(co_occurrence_matrix, 1)
     upper_triangle_values = co_occurrence_matrix[upper_triangle_indices]
@@ -132,7 +133,7 @@ plt.xlabel("Epigenetic modifiers")
 plt.ylabel("Epigenetic modifiers")
 plt.show()
 
-
+co_occurrence_matrix = co_occurrence_matrix / 23 #normalize over 23 chromosomes
 #reorder the plot for visualization purposes to get FIGURE 8
 df = pd.DataFrame(co_occurrence_matrix, columns=unique_labels, index=unique_labels)
 
