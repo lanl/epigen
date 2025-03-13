@@ -1,9 +1,26 @@
-#for each chromosome get a list of known genes present at the https://genome.ucsc.edu and it is starting and ending bp position in the hg38 assembly
+# get_ret_df_files.py
+#
+# This file maps locations of known genes from gene ontology databases
+# Gene names are assigned from genes present at the https://genome.ucsc.edu
+# using starting and ending base pair positions in hg38.
+#
+# Input file: /data/hg38length.txt
+#
+# Output files: <Chromosome>_ret_def.csv
+#
+# Later in the analysis we need to extract the names of important locations
+# in the genome identified in the analysis. This file keeps track of those names.
+#
+
 import pandas as pd
-import os, io
+import io
 import numpy as np
 
 def get_gene_name(start_p, end_p, chromosome):
+    """
+    Function to get genes associated with a given bin.
+
+    """
     url = 'https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=1355398003_PxotGFFkKyc9ASqRXr6WLvia6cuT'    
     session = requests.Session()
     res_str = str(chromosome + ':' + str(start_p) + '-' + str(end_p))
@@ -35,9 +52,10 @@ start_p = 0
 divisor = 200
 for i in range(1, 24):
     chr_i = i
-    if chr_i == 23: #this is chromosome X
+    if chr_i == 23: # This is chromosome X
       chr_i = 'X'
     chromosome = "chr" + str(chr_i)
+
     end_p = (int(chr_length.loc[chr_length['Chromosome'] == chr_i, "Total length (bp)"])// divisor) * divisor
     gdf = get_gene_name(start_p, end_p, chromosome)
     start_df = pd.DataFrame()

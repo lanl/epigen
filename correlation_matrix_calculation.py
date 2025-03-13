@@ -1,12 +1,27 @@
+# correlation_matrix_calculation.py
+#
+# Calculate signal correlations
+#
+# Section 2 needs GPU: the second step is to use cudf
+# (to use GPU for pandas dfs, see RAPIDS library) to calculate correlation matrices
+# See https://docs.rapids.ai/api/cudf/stable/ for more details.
+# We used version 23.06 originally.
+#
+# Script input: Files from get_values_for_chromosome.py
+# script output: correlation matrix files, 1 per chromosome, ~26MB each.
+#         Each file contains 1-correlation for each sample,
+#         which is used as the input distance value for hierarchical clustering.
 
-#Section 1: the first step is to combine all h5 data file chunks for each chromosome into the one h5 file for each chromosome
-import pandas as pd
-import requests
-import h5py
-import json
-import os
+import cudf
 import numpy as np
+import pandas as pd
+import h5py
+import time
+from datetime import timedelta
 
+
+# Section 1: the first step is to combine all h5 data file chunks for each
+# chromosome into the one h5 file for each chromosome.
 for chr_i in range(1, 24):
 	print(chr_i)
 	if chr_i == 23:
@@ -31,22 +46,13 @@ for chr_i in range(1, 24):
 	tdf.to_hdf(filename, key='data', mode='w')
 
 
-#Section 2 needs GPU: the second step is to use cudf (to use GPU for pandas dfs, see RAPIDS library) to calculate correlation matrices
-#because the data may contain ~1 million columns it will take hours to compute pairwise correlation of 1632 samples with so much columns
-#GPU usage is needed
-#module load python/3.10-anaconda-2023.03
-#module load cuda/11.5 #make sure cuda is enabled
-#conda activate rapids-23.06 #install RAPIDS library (large)
+# Section 2 needs GPU: the second step is to use `cudf` package to calculate correlation matrices
+# because the data may contain ~1 million columns it will take many CPU hours
+# to compute pairwise correlation of 1632 samples with so much columns
+# With a GPU, this process takes a few minutes at most.
+#
 
-import cudf
-import numpy as np
-import pandas as pd
-import h5py
-from scipy.spatial.distance import pdist, squareform
-import time
-from datetime import timedelta
-
-
+# loop over chromosomes
 for chr_i in range(1, 24):
 	print(chr_i)
 	if chr_i == 23:
@@ -64,16 +70,18 @@ for chr_i in range(1, 24):
         block0_values = np.array(data_group.get('block0_values'))
     df_read = pd.DataFrame(data=block0_values, index=axis1, columns=axis0)
     # Reset index before transposing
-    df_read.index = range(0,1632) #1632 sample files in the hg38-aligned dataset
-    df_read = df_read.fillna(0) #rare but can happen
+    df_read.index = range(0,1632) # 1632 sample files in the hg38-aligned dataset
+    df_read = df_read.fillna(0)   # Rare, but can happen!
+
     df_transposed = df_read.transpose()
-    df_cudf = cudf.DataFrame.from_pandas(df_transposed)
+    df_cudf = cudf.DataFrame.from_pandas(df_transposed) # create GPU matrix
     correlation_matrix = df_cudf.corr().transpose()
+	# Distance metric for clustering.
     correlation_matrix = 1 - correlation_matrix
-    #print(correlation_matrix)
     correlation_matrix.to_csv(filename + 'correlation.h5') #saving correlation files
-    #pd.read_csv(filename + 'correlation.h5', index_col=0)
-    #print(chr_i, " ", df_read.shape)
     end_time = time.monotonic()
+
     print(timedelta(seconds=end_time - start_time))
+
+
 

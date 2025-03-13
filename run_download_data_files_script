@@ -1,6 +1,15 @@
-#submit a job to download data files, linked to download_data_files.py
-#without submitting a job, just run: python3 download_data_files.py 0 1632 (overall there are 1632 files from the hg38-aligned dataset)
-#to submit a job for this script run the following to download the first 200 files: sbatch --export=start_in=0,end_in=200 run_download_data_files_script
+# To download files using slurm, see this script.
+#
+# Otherwise, simply run download_data_files.py manually.
+# submit a job to download data files, linked to download_data_files.py
+# without submitting a job, just run: python3 download_data_files.py 0 1632
+# (overall there are 1632 files from the hg38-aligned dataset)
+#
+# The start and end indicies need to be specified using environment variables.
+# To submit a job for this script run the following to download the
+# first 200 files: `sbatch --export=start_in=0,end_in=200 run_download_data_files_script`
+#
+# Note: These .bigwig files are large: ~0.5GB per file.
 
 
 #!/bin/bash -l
