@@ -1,13 +1,46 @@
-#get newick string for chr 6; for input for circular plot
+# get_newick_string.py
+#
+#
+# The newick string is a format for describing trees.
+# This format is used by phylogenetic software, so we use that
+# https://en.wikipedia.org/wiki/Newick_format
+#
+# get newick string for chr 6; for input for circular plot
+#
+# Input file needed: correlation file for chromosome of interest.
+#
+# Note: to change the chromosome of interest, change the
+#
+#
 import numpy as np
 import pandas as pd
-import scipy.cluster.hierarchy as sch
 from scipy.spatial.distance import squareform, pdist
 from sklearn.metrics.pairwise import pairwise_distances
 import scipy.cluster.hierarchy as sch
 import matplotlib.pyplot as plt
 import os
 
+def check_symmetric(arr):
+    if arr.shape[0] != arr.shape[1]:
+        raise ValueError("The given array is not square!")
+    non_symmetric_indices = []
+    n = arr.shape[0]
+    for i in range(n):
+        for j in range(i+1, n):  # Only check the upper triangle
+            if arr[i, j] != arr[j, i]:
+                non_symmetric_indices.append((i, j))
+    return non_symmetric_indices
+
+def make_symmetric(mat):
+    rows, cols = mat.shape
+    for i in range(rows):
+        for j in range(i + 1, cols):  # only consider upper triangular part
+            if mat[i, j] != mat[j, i]:  # unsymmetrical
+                # Take the minimum of the two unsymmetrical entries
+                symmetric_value = min(mat[i, j], mat[j, i])
+                mat[i, j] = symmetric_value
+                mat[j, i] = symmetric_value
+    return mat
 
 def get_peaks_matching_genes(binwidth, d, ret_df):
     start_p = list(map(int, d.index))
@@ -245,11 +278,13 @@ def plot_colored_dendrogram(linkresult, num_to_str_label, clusters):
 
     plt.show()
 
-
-chr_id = 6 #for chromosome 6; could be 1-22 or X
+#INPUT CHROMOSOME NUMBER
+chr_id = 6 #for chromosome 6; could be 1-22 or X #
+# Significance threshold
 thrs = 0.05
+# Threshold for identifying relevance to genes
 setbp = 500 
-divisor = 200
+bin_width = 200 # length of bins in base pairs
 df = pd.read_csv("./data/genome_df38.csv", delimiter=",")
 df = pd.DataFrame(df)
 df38 = df.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
@@ -285,7 +320,7 @@ for idx in range(len(pv_df)):
     d.columns = ['max']
     d = d.loc[d['max'] <= thrs, 'max']
     if len(d) > 0:
-        ret_dfi = get_peaks_matching_genes(divisor, d, ret_df)
+        ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
         if ret_dfi.shape[0] != 0:
             gene_counts[idx] = ret_dfi.shape[0]
             
@@ -302,7 +337,7 @@ for row in linkresult:
     d.columns = ['max']
     d = d.loc[d['max'] <= thrs, 'max']
     if len(d) > 0:
-        ret_dfi = get_peaks_matching_genes(divisor, d, ret_df)
+        ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
         if ret_dfi.shape[0] != 0:
             gene_counts[current_id] = ret_dfi.shape[0]
             print("#genes", ret_dfi.shape[0])
