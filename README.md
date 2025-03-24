@@ -28,9 +28,10 @@ The data doesn't contain the chromosome Y.
 6. Produce paper circular plot 2: get_newick_string.py and produce_circular_plot.py.
 7. Produce paper umap plots 3, 4, and 5: produce_umap_plots.py.
 8. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
-9. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
-10. Produce paper gene ontology resuls needed for plots 9 and 10: produce_go_results.py.
-11. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
+9. Produce paper figure 8: produce_hg38_consistency_plot.py
+10. Produce paper co-occurence plot, figure 9 9: produce_cooccurence_plot.py. 
+11. Produce paper gene ontology results needed for plots 10 and 11: produce_go_results.py.
+12. Produce paper datasets comparison plots 12, 13, and 14: produce_comparison_plots_datasets19vs38.py.
 
 
 ![Circular plot (step #6 above)](patch_circle_plot.png)

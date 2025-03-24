@@ -97,7 +97,8 @@ np.unique(df38['Biosample term name'], return_counts=True)
 
 
 
-# df38 is the dataframe we want to split in 2 matching (modifier, cell type) subsets where there are the same # of modifiers and cell types
+# df38 is the dataframe we want to split in 2 matching
+# (modifier, cell type) subsets where there are the same # of modifiers and cell types
 subset_A_list = []
 subset_B_list = []
 

@@ -1,7 +1,20 @@
-# code to produce Figure 8 to get co-occurence plot, combines all chromosomes info at once
+# produce_cooccurence_plot.py
+#
+# code to produce Figure 9 to get co-occurence plot, combines all chromosomes info at once
+#
+# Input:
+#     ./results38/hg38_chr6_200datacorrelation.h5
+#
+# Output:
+#     ./results38/co_occurrence_matrix_heatmap_allchr_hg38.eps
+# For more information, see figure 9 in the paper.
+#
+# This script takes less than half an hour to run.
+#
+#
+
 import numpy as np
 import pandas as pd
-import os
 from collections import Counter
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -9,9 +22,6 @@ import seaborn as sns
 import scipy.cluster.hierarchy as sch
 from scipy.spatial.distance import squareform, pdist
 from scipy.cluster.hierarchy import linkage, dendrogram, leaves_list, ward, fcluster
-from scipy.cluster import hierarchy
-from scipy.stats import spearmanr
-from sklearn.metrics.pairwise import pairwise_distances
 
 
 def check_symmetric(arr):
@@ -79,13 +89,13 @@ for i in range(1, 24):
 
 
 
-#parameters that can be changed
+# parameters that can be changed
 top_all_chrs = []
-min_cluster_size = 4 #we don't consider clusters with less than 4 samples
-N = 50 #visualize only top 50 co-occured items
-unique_labels = list(np.unique(labels_mark)) #can be labels_cell, labels_factor, or labels_activity
+min_cluster_size = 4 # we don't consider clusters with less than 4 samples
+N = 50 # visualize only top 50 co-occured items
+unique_labels = list(np.unique(labels_mark)) # can be labels_cell, labels_factor, or labels_activity
 co_occurrence_matrix = np.zeros((len(unique_labels), len(unique_labels)))
-labels = labels_mark #can be labels_cell, labels_factor, or labels_activity
+labels = labels_mark # can be labels_cell, labels_factor, or labels_activity
 label_counts = Counter(labels)
 for i in range(1, 24):
     chr_id = i 
@@ -125,7 +135,7 @@ flattened_data = sorted_data
 item_freqs = Counter(flattened_data)
 item_freqs.most_common()
 
-#annot=True will show the co-occurence counts computed above
+# annot=True will show the co-occurence counts computed above
 plt.figure(figsize=(20, 20))
 sns.heatmap(co_occurrence_matrix, annot=True, cmap="coolwarm", cbar=True, square=True, xticklabels=unique_labels, yticklabels=unique_labels)
 plt.title("Co-occurrence Matrix Heatmap of epigenetic modifiers in clusters (GRCh38)")
@@ -133,8 +143,8 @@ plt.xlabel("Epigenetic modifiers")
 plt.ylabel("Epigenetic modifiers")
 plt.show()
 
-co_occurrence_matrix = co_occurrence_matrix / 23 #normalize over 23 chromosomes
-#reorder the plot for visualization purposes to get FIGURE 8
+co_occurrence_matrix = co_occurrence_matrix / 23 # normalize over 23 chromosomes
+# reorder the plot for visualization purposes to get FIGURE 8
 df = pd.DataFrame(co_occurrence_matrix, columns=unique_labels, index=unique_labels)
 
 # Perform hierarchical clustering for visualization purposes to visualize most co-occured items together
