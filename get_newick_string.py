@@ -7,10 +7,15 @@
 #
 # The string is used for
 #
-# Input file needed: correlation file for chromosome of interest.
+# Input file needed: correlation file  for chromosome of interest.
+# The file name will be something like:
+#     ./results38/hg38_chr6_200datacorrelation.h5
 #
-# Note: to change the chromosome of interest, change the
-# variable chr_id =
+#
+# To change the chromosome of interest, change the
+# variable chr_id = 6
+#
+# This file takes approximately 1-2hrs to run; it is not instantaneous.
 #
 import numpy as np
 import pandas as pd
@@ -232,76 +237,78 @@ def get_filtered_clusters(linkage_matrix, num_min_imp_genes, pv_df_length):
     return sorted(cleaned_clusters, key=lambda x: (len(x[4].split(',')), float(x[0]), float(x[1])))
 
 
-# INPUT CHROMOSOME NUMBER
-chr_id = 6  # for chromosome 6; could be 1-22 or X #
-# Significance threshold
-thrs = 0.05
-# Threshold for identifying relevance to genes (buffer size)
-setbp = 500
-bin_width = 200  # length of bins in base pairs
-df = pd.read_csv("./data/genome_df38.csv", delimiter=",")
-df = pd.DataFrame(df)
-df38 = df.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
+if __name__ == "__main__":
 
-# We defined region of the genome as important in a certain cluster if its p-value was less than 0.05 in all samples
-# within that cluster. For every 200 bp region marked as important, we expanded the region by adding a 500 bp buffer to each
-# region. These expanded regions of genome were then matched with known gene positions from the Genome Browser, allowing
-# us to associate certain regions with specific genes.
+    # INPUT CHROMOSOME NUMBER
+    chr_id = 6  # for chromosome 6; could be 1-22 or X #
+    # Significance threshold
+    thrs = 0.05
+    # Threshold for identifying relevance to genes (buffer size)
+    setbp = 500
+    bin_width = 200  # length of bins in base pairs
+    df = pd.read_csv("./data/genome_df38.csv", delimiter=",")
+    df = pd.DataFrame(df)
+    df38 = df.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
 
-# read file with features where at least one sample has p-value <= 0.05
-pv_df = pd.read_pickle("./results38/pvdf_" + str(chr_id) + ".pkl")
-pv_df.index = df38['Target']
-# load reference file which contains known genes and their location in hg38 assembly
-ret_df = pd.read_csv("./results38/chr" + str(chr_id) + '_ret_df.csv', sep="\t")
-# load correlation file and obtain linkage from which we can get a dendrogram
-df_corr = pd.read_csv("./results38/hg38_chr" + str(chr_id) + "_200data" + 'correlation.h5', index_col=0)
-cor_dist = df_corr.to_numpy()
-np.fill_diagonal(cor_dist, 0)
-indices = check_symmetric(cor_dist)
-if len(indices) != 0:
-    cor_dist = make_symmetric(cor_dist)
-condensed_dist = squareform(cor_dist)
-linkresult = sch.linkage(condensed_dist, method="complete")
-linkresult[linkresult < 0] = 0
+    # We defined region of the genome as important in a certain cluster if its p-value was less than 0.05 in all samples
+    # within that cluster. For every 200 bp region marked as important, we expanded the region by adding a 500 bp buffer to each
+    # region. These expanded regions of genome were then matched with known gene positions from the Genome Browser, allowing
+    # us to associate certain regions with specific genes.
 
-# with tip branch lengths
-gene_counts = {}
-# tip nodes
-for idx in range(len(pv_df)):
-    subset_cluster = pv_df.iloc[[idx]]
-    d = pd.DataFrame(np.max(subset_cluster, axis=0))
-    d.columns = ['max']
-    d = d.loc[d['max'] <= thrs, 'max']
-    if len(d) > 0:
-        ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
-        if ret_dfi.shape[0] != 0:
-            gene_counts[idx] = ret_dfi.shape[0]
+    # read file with features where at least one sample has p-value <= 0.05
+    pv_df = pd.read_pickle("./results38/pvdf_" + str(chr_id) + ".pkl")
+    pv_df.index = df38['Target']
+    # load reference file which contains known genes and their location in hg38 assembly
+    ret_df = pd.read_csv("./results38/chr" + str(chr_id) + '_ret_df.csv', sep="\t")
+    # load correlation file and obtain linkage from which we can get a dendrogram
+    df_corr = pd.read_csv("./results38/hg38_chr" + str(chr_id) + "_200data" + 'correlation.h5', index_col=0)
+    cor_dist = df_corr.to_numpy()
+    np.fill_diagonal(cor_dist, 0)
+    indices = check_symmetric(cor_dist)
+    if len(indices) != 0:
+        cor_dist = make_symmetric(cor_dist)
+    condensed_dist = squareform(cor_dist)
+    linkresult = sch.linkage(condensed_dist, method="complete")
+    linkresult[linkresult < 0] = 0
 
-# all other nodes
-current_id = len(pv_df)
-for row in linkresult:
-    left, right = int(row[0]), int(row[1])
-    left_samples = get_samples_from_cluster(left, linkresult, len(pv_df))
-    right_samples = get_samples_from_cluster(right, linkresult, len(pv_df))
-    combined_samples = left_samples + right_samples
-    subset_cluster = pv_df.iloc[combined_samples]
-    print(subset_cluster)
-    d = pd.DataFrame(np.max(subset_cluster, axis=0))  # Use min instead of max for all samples condition
-    d.columns = ['max']
-    d = d.loc[d['max'] <= thrs, 'max']
-    if len(d) > 0:
-        ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
-        if ret_dfi.shape[0] != 0:
-            gene_counts[current_id] = ret_dfi.shape[0]
-            print("#genes", ret_dfi.shape[0])
-            print(ret_dfi['GeneName'])
-    current_id = current_id + 1
-# Convert linkage matrix to Newick format using the function
-root_node = len(pv_df) + len(linkresult) - 1
-newick_str = linkage_to_newick(root_node, pv_df.index, gene_counts, linkresult)
-print(newick_str)  # save chr6 newick string, we will use it to plot circular dendrogram later
-with open('./results38/chr6_newick.txt', 'w') as file:
-    file.write(newick_str)
+    # with tip branch lengths
+    gene_counts = {}
+    # tip nodes
+    for idx in range(len(pv_df)):
+        subset_cluster = pv_df.iloc[[idx]]
+        d = pd.DataFrame(np.max(subset_cluster, axis=0))
+        d.columns = ['max']
+        d = d.loc[d['max'] <= thrs, 'max']
+        if len(d) > 0:
+            ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
+            if ret_dfi.shape[0] != 0:
+                gene_counts[idx] = ret_dfi.shape[0]
+
+    # all other nodes
+    current_id = len(pv_df)
+    for row in linkresult:
+        left, right = int(row[0]), int(row[1])
+        left_samples = get_samples_from_cluster(left, linkresult, len(pv_df))
+        right_samples = get_samples_from_cluster(right, linkresult, len(pv_df))
+        combined_samples = left_samples + right_samples
+        subset_cluster = pv_df.iloc[combined_samples]
+        print(subset_cluster)
+        d = pd.DataFrame(np.max(subset_cluster, axis=0))  # Use min instead of max for all samples condition
+        d.columns = ['max']
+        d = d.loc[d['max'] <= thrs, 'max']
+        if len(d) > 0:
+            ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
+            if ret_dfi.shape[0] != 0:
+                gene_counts[current_id] = ret_dfi.shape[0]
+                print("#genes", ret_dfi.shape[0])
+                print(ret_dfi['GeneName'])
+        current_id = current_id + 1
+    # Convert linkage matrix to Newick format using the function
+    root_node = len(pv_df) + len(linkresult) - 1
+    newick_str = linkage_to_newick(root_node, pv_df.index, gene_counts, linkresult)
+    print(newick_str)  # save chr6 newick string, we will use it to plot circular dendrogram later
+    with open('./results38/chr6_newick.txt', 'w') as file:
+        file.write(newick_str)
 
 
 

@@ -1,24 +1,44 @@
-#UMAP plots
+# produce_umap_plots.py
+#
+# This file produces UMAP plots (figures 3, 4, and 5 in the manuscript)
+#
+#
+# This file requires the umap module:
+#     https://umap-learn.readthedocs.io/en/latest/index.html
+#     https://github.com/lmcinnes/umap
+# It also requires plotly:
+#     https://plotly.com/python/getting-started/
+#
+# This file takes less than a minute to run.
+#
+# Input files:
+#     ./results38/hg38_chr6_200datacorrelation.h5
+# (Correlation distance for chromosome of interest)
+#
+# To change the chromosome, change the file path for the correlation matrix
+# and change the chr_id_1 variable.
+#
+# The script uses plotly to create an interactive html file which
+# can be opened in an ordinary web browser.
+#
+# Output files:
+#     cells38_nolegend.html
+#     epi38_nolegend.html
+#     epi38_histonevsnot.html
+#     epi38_activity_sh.html
+#     epi38_factor_sh.html
+#     epi38_activity_sh_legend.png
+#     epi38_factor_sh_legend.png
+#
+# For a description of the content of these plots, see figures 3, 4 and 5 in the manuscript.
+#
 import pandas as pd
-import os, io
 import numpy as np
 
-
-import scipy
-from scipy.spatial.distance import pdist
-from scipy.cluster.hierarchy import ward, fcluster
-import scipy.cluster.hierarchy as sch
-from scipy.spatial.distance import squareform, pdist
-
-import sklearn.metrics as metrics
-from sklearn.metrics.pairwise import pairwise_distances
-from sklearn.metrics.cluster import adjusted_rand_score
-
-
+# Note: The following allows you to interact with the
+# plotly plots in a jupyter notebook.
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
-import matplotlib.pyplot as plt
-
 
 from ast import literal_eval
 import plotly.offline as py
@@ -163,15 +183,8 @@ fig.write_html("epi38_nolegend.html")
 
 #Histone vs non-Histone UMAP plot
 import pandas as pd
-import numpy as np
-import plotly.graph_objects as go
-from ast import literal_eval
-from umap import UMAP
-import random
-
 import plotly.graph_objs as go
-import umap
-import numpy as np
+
 # camera = dict(
 #     eye=dict(x=1.5, y=1.5, z=1.5)
 # )
