@@ -1,0 +1,20 @@
+In addition to standard library software,
+`epigen` requires the following software packages to run:
+
+AI / Machine Learning / Data Science / Informatics:
+    umap - https://umap-learn.readthedocs.io/en/latest/
+    scipy - https://scipy.org/
+    sklearn - https://scikit-learn.org/
+    minisom - https://github.com/JustGlowing/minisom
+
+Data:
+    h5py - https://www.h5py.org/
+    numpy - https://numpy.org/
+    pandas - https://pandas.pydata.org/
+    cudf - https://github.com/rapidsai/cudf
+
+Plotting:
+    plotly - https://plotly.com/
+    matplotlib - https://matplotlib.org/
+    seaborn - https://seaborn.pydata.org/
+    ete3 - https://etetoolkit.org/
