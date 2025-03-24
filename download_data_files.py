@@ -15,7 +15,7 @@ import requests
 import sys
 import pandas as pd
 
-from six.moves import urllib
+import urllib
 
 # load dataframe containing file information
 df = pd.read_csv("./data/genome_df38.csv", delimiter=",")

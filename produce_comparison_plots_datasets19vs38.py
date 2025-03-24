@@ -1,37 +1,50 @@
-#code to compare hg19 and hg38 datasets, figures 11 and 12
-
+# produce_comparison_plots_datasets19vs38.py
+#
+# Code to compare hg19 and hg38 datasets, figures 12, 13, and 14.
+#
+# This file requires the minisom package:
+#     https://github.com/JustGlowing/minisom?tab=readme-ov-file#installation
+#
+# Input:
+#     ./data/genome_df38.csv
+#     Binned data for all chromosomes:
+#     ./chr_files/hg38_chr6_200data.h5
+# To change the chromosome of interest (Fig 13 and 14), change the variable:
+#     chr_id = 6
+# and ensure that the relevant h5 file is available.
+#
+# Output:
+#     600_entropy_paper_plot_hg38.eps
+#     600_entropy_paper_plot_hg19.eps
+#    ./results38/combined_entropy_paper_plot_hg19_hg38.eps
+#    ./results38/marks38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps
+#    ./results38/cells38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps
+#    ./results38/marks19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps
+#    SOM_visualization.eps
+#    cells38_600.html
+#    epi38_600.html
+#    epi19_600.html
+#    cells19_600.html
+# For more information, see figures 12, 13, and 14 in the paper.
+# Also included are UMAP plots (not shown in the paper)
+#
+# Time to run: One hour or less.
+#
+#
 import numpy as np
 import pandas as pd
-import random
-import h5py
-import json
-import os, io
-import re
 from collections import Counter
 from collections import OrderedDict
-
 from ast import literal_eval
-
-import urllib.request 
-import scipy
 import scipy.cluster.hierarchy as sch
 from scipy.spatial.distance import squareform, pdist
-from scipy_cut_tree_balanced import cut_tree_balanced
 from scipy.cluster.hierarchy import linkage, dendrogram, leaves_list, fcluster, ward
-
-import sklearn.metrics as metrics
 from sklearn.metrics.pairwise import pairwise_distances
-from sklearn.metrics.cluster import adjusted_rand_score
-
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
-import matplotlib.patches as mpatches
 import seaborn as sns
-import plotly.graph_objs as go
-import plotly.express as px
 import plotly.offline as py
 import plotly.graph_objs as go
-from mpl_toolkits.mplot3d import Axes3D
 from umap import UMAP
 
 
@@ -224,11 +237,8 @@ df19_labels_cell= pd.merge(df19, filtered_df19_chr6, left_on='Accession', right_
 
 
 
-
-
-
-#get entropy plots separately for each dataset
-#plot for hg38
+# get entropy plots separately for each dataset
+# plot for hg38
 df38_plot_results = OrderedDict()
 df38_plot_results['Activity'] = df38_labels_activity
 df38_plot_results['Factor'] = df38_labels_factor
@@ -270,10 +280,10 @@ ax.tick_params(axis='both', which='major', labelsize=20)
 ax.legend(fontsize=font_size)
 plt.tight_layout()
 #plt.show()
-plt.savefig("./results38/600_entropy_paper_plot_hg19.eps", format='eps')
+plt.savefig("./results38/600_entropy_paper_plot_hg38.eps", format='eps')
 
 
-#same plotting as above but for hg19
+# same plotting as above but for hg19
 df19_plot_results = OrderedDict()
 df19_plot_results['Activity'] = df19_labels_activity
 df19_plot_results['Factor'] = df19_labels_factor
@@ -316,11 +326,7 @@ plt.tight_layout()
 plt.savefig("./results38/600_entropy_paper_plot_hg19.eps", format='eps')
 
 
-
-
-
-
-#get FIGURE 11: entropy plots
+# get FIGURE 12: entropy plots
 del cor_dist_38['Unnamed: 0']
 cor_dist_38 = cor_dist_38.to_numpy()
 np.fill_diagonal(cor_dist_38, 0)
@@ -372,7 +378,7 @@ plt.savefig("./results38/combined_entropy_paper_plot_hg19_hg38.eps", format='eps
 
 
 
-#get FIGURE 12 (2 images)
+#get FIGURE 13 (2 images)
 #hg38 for modifiers
 top_all_chrs = []
 min_cluster_size = 4
@@ -431,7 +437,7 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters (GRCh
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=30)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-#file_path = '/Users/akim/Documents/epi/omarks38_600_co_occurrence_matrix_heatmap_38_N50.eps'
+#file_path = './results38/omarks38_600_co_occurrence_matrix_heatmap_38_N50.eps'
 #plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -453,7 +459,7 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters', fon
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=20)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/marks38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps'
+file_path = './results38/marks38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -524,7 +530,7 @@ plt.title('Co-occurrence Matrix Heatmap of Cell Types in Clusters', fontsize=30)
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=18)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/cells38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps'
+file_path = './results38/cells38_600_co_occurrence_matrix_heatmap_38_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -584,7 +590,7 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters (GRCh
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=30)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-#file_path = '/Users/akim/Documents/epi/omarks19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
+#file_path = './results38/omarks19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
 #plt.savefig(file_path, format='eps')
 #plt.show()
 
@@ -606,7 +612,7 @@ plt.title('Co-occurrence matrix heatmap of epigentic modifiers in clusters', fon
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=20)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/marks19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
+file_path = './results38/marks19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -650,7 +656,7 @@ for cluster_id in np.unique(clusters):
     N = len(np.unique(sorted_indices))
     top_indices = [upper_triangle_indices[i][sorted_indices[:N]] for i in (0, 1)]
     top_co_occurring_labels = [(unique_labels[i], unique_labels[j]) for i, j in zip(*top_indices)]
-    #print(top_co_occurring_labels)
+    # print(top_co_occurring_labels)
     sorted_data = sorted(top_co_occurring_labels, key=lambda x: (x[0], x[1]))
     top_all_chrs.append(sorted_data)
 flattened_data = sorted_data
@@ -663,7 +669,7 @@ plt.xlabel("Cell Types")
 plt.ylabel("Cell Types")
 plt.show()
 
-#reorder 
+# reorder
 data = co_occurrence_matrix
 df = pd.DataFrame(data, columns=unique_labels, index=unique_labels)
 linked = linkage(df, 'single')
@@ -677,7 +683,7 @@ plt.title('Co-occurrence Matrix Heatmap of Cell Types in Clusters', fontsize=30)
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=18)
 plt.setp(ax.get_yticklabels(), rotation=0, horizontalalignment='right')
-file_path = '/Users/akim/Documents/epi/cells19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
+file_path = './results38/cells19_600_co_occurrence_matrix_heatmap_19_N50_normalized.eps'
 plt.savefig(file_path, format='eps')
 plt.show()
 
@@ -696,9 +702,9 @@ plt.grid(True)
 plt.show()
 
 
-#Figure 13
-#co-occurence matrix and df.index
-#Self-organizing maps
+# Figure 14
+# co-occurence matrix and df.index
+# Self-organizing maps
 import numpy as np
 from minisom import MiniSom
 import matplotlib.pyplot as plt
@@ -954,8 +960,8 @@ colors = [
     'rgb(95, 158, 160)', 
     'rgb(175, 238, 238)'
 ]
-#colors = np.unique(colors)
-#colors = random.choices(colors, k=len(np.unique(dfu.index)))
+# colors = np.unique(colors)
+# colors = random.choices(colors, k=len(np.unique(dfu.index)))
 
 data_graph = []
 for no, name in enumerate(np.unique(dfu["class"])):
@@ -1001,7 +1007,7 @@ fig.write_html("cells38_600.html")
 
 
 
-#hg19 for modifiers
+# hg19 for modifiers
 embedding_19 = UMAP(n_neighbors=10, n_components=3, metric="precomputed").fit_transform(cor_dist_19)
 dfu = pd.DataFrame(embedding_19, columns=('x', 'y', 'z'))
 dfu.index = df19_sub_target

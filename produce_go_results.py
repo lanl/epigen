@@ -1,29 +1,58 @@
-from sklearn.metrics.cluster import adjusted_rand_score
-import random
-from mpl_toolkits.mplot3d import Axes3D
+# produce_go_results.py
+#
+# Code to generate Figure 10 and 11.
+#
+# For each chromosome this will generate a list of important genes.
+# Fig 11. Can be produced by plugging these genes into KEGG.
+#
+#
+# Input required:
+#     ./data/genome_df38.csv
+#     Binned data for all chromosomes:
+#     ./chr_files/hg38_chr{}_200datacorrelation.h5
+#
+# Output:
+#     allchrgenes_tokobas.txt
+#     subsetchrgenes_tokobas.txt
+# For more information, please see figures 10 and 11 in the paper.
+#
+# Time to run:
+# Several hours.
+#
+#
+
 import pandas as pd
-import json
-import os, io
-import numpy as np
-import urllib.request 
+from collections import Counter
 import matplotlib.pyplot as plt
-import scipy
 from scipy.cluster.hierarchy import ward, fcluster
 import scipy.cluster.hierarchy as sch
 from scipy.spatial.distance import squareform, pdist
-from collections import Counter
-import re
-import sklearn.metrics as metrics
-from sklearn.metrics.pairwise import pairwise_distances
-
-from umap import UMAP
-import seaborn as sns
-import plotly.graph_objs as go
-import plotly.express as px
-from ast import literal_eval
-import plotly.offline as py
-import h5py
 import matplotlib.cm as cm
+import numpy as np
+
+
+def check_symmetric(arr):
+    if arr.shape[0] != arr.shape[1]:
+        raise ValueError("The given array is not square!")
+    non_symmetric_indices = []
+    n = arr.shape[0]
+    for i in range(n):
+        for j in range(i + 1, n):  # Only check the upper triangle
+            if arr[i, j] != arr[j, i]:
+                non_symmetric_indices.append((i, j))
+    return non_symmetric_indices
+
+
+def make_symmetric(mat):
+    rows, cols = mat.shape
+    for i in range(rows):
+        for j in range(i + 1, cols):  # only consider upper triangular part
+            if mat[i, j] != mat[j, i]:  # unsymmetrical
+                # Take the minimum of the two unsymmetrical entries
+                symmetric_value = min(mat[i, j], mat[j, i])
+                mat[i, j] = symmetric_value
+                mat[j, i] = symmetric_value
+    return mat
 
 
 
@@ -57,11 +86,11 @@ df38 = df38.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
 merged_df = pd.merge(df38, marks, on='Target')
 merged_df
 
-#linkages fro all  chrs
+#linkages for all  chrs
 list_linkages = []
 for i in range(1, 24):
     chr_id_1 = i
-    if chr_id == 23:
+    if chr_id_1 == 23:
         chr_id_1 = 'X'
     df_corr_1 = pd.read_csv("./results38/hg38_chr" + str(chr_id_1) + "_200data" + 'correlation.h5', index_col=0)
     cor_dist_1 = df_corr_1.to_numpy()
@@ -76,7 +105,7 @@ for i in range(1, 24):
 len(list_linkages)
 
 
-#get a summary df with number of important genes for all chrs at once
+# get a summary df with number of important genes for all chrs at once
 thrs = 0.05
 start_p = 0
 divisor = 200
@@ -172,7 +201,7 @@ np.sum(ret_cldf.loc[ret_cldf['HowManyKnownGenes'] > 0, 'ClusterSize'])
     
 
 
-#important genes for each chromosome    
+# important genes for each chromosome
 chr1 = ['COA6-AS1', 'DPM3', 'ENO1-AS1', 'G0S2', 'GAS5-AS1', 'H2AC20', 'H2AC21', 'H2AW'
  'H2BC20P', 'H2BU1', 'H3C13', 'HES4', 'LCE3A', 'LOC100287049', 'LOC105376805'
  'LOC105378591', 'LOC105378933', 'MIR11399', 'MIR1182', 'MIR12133', 'MIR137'
@@ -336,8 +365,7 @@ chr23 = ['EIF1AX-AS1', 'INTS6L-AS1', 'LINC02601', 'LOC105373383', 'MIR223', 'MIR
  'SNORD61'] #chr X
 
 
-#Get files with the list of genes for input for Kobas and GO plots 9 and 10
-from collections import Counter
+# Get files with the list of genes for input for Kobas and GO plots 9 and 10
 all_genes = []
 combined = []
 for index in range(1, 24):  # 1 to 23 inclusive

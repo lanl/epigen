@@ -28,9 +28,10 @@ The data doesn't contain the chromosome Y.
 6. Produce paper circular plot 2: get_newick_string.py and produce_circular_plot.py.
 7. Produce paper umap plots 3, 4, and 5: produce_umap_plots.py.
 8. Produce paper entropy plots 6 and 7: produce_entropy_plots.py.
-9. Produce paper co-occurence plot 8: produce_cooccurence_plot.py.
-10. Produce paper gene ontology resuls needed for plots 9 and 10: produce_go_results.py.
-11. Produce paper datasets comparison plots 11 and 12: produce_comparison_plots_datasets19vs38.py.
+9. Produce paper figure 8: produce_hg38_consistency_plot.py
+10. Produce paper co-occurence plot, figure 9 9: produce_cooccurence_plot.py. 
+11. Produce paper gene ontology results needed for plots 10 and 11: produce_go_results.py.
+12. Produce paper datasets comparison plots 12, 13, and 14: produce_comparison_plots_datasets19vs38.py.
 
 
 ![Circular plot (step #6 above)](patch_circle_plot.png)
@@ -38,6 +39,9 @@ Circular plot (step #6 above).
 
 ![UMAP plot (step #7 above)](umap_100_marks_hg38.png)
 UMAP plot (step #7 above).
+
+For information on software requirements, see requirements.txt. Additionally, we used gProfiler tool [Reimand et al., 2007] and Cytoscape [Shannon et al.,
+2003] to visualize GO and KEGG pathway results, respectively.
 
 © 2024. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S. Department of Energy/National Nuclear Security Administration. All rights in the program are reserved by Triad National Security, LLC, and the U.S. Department of Energy/National Nuclear Security Administration. The Government is granted for itself and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this material to reproduce, prepare. derivative works, distribute copies to the public, perform publicly and display publicly, and to permit others to do so.
