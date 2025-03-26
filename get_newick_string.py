@@ -54,18 +54,18 @@ def get_peaks_matching_genes(binwidth, d, ret_df):
     Nlimit = len(start_p)
     for k in range(Nlimit):
         if new_df.shape[0] < Nlimit:
-            gdf = ret_df[(ret_df['start'] >= start_p[k] * binwidth - setbp) & (ret_df['end'] <= start_p[k] * binwidth + binwidth + setbp)]
+            gdf = ret_df[(ret_df["start"] >= start_p[k] * binwidth - setbp) & (ret_df["end"] <= start_p[k] * binwidth + binwidth + setbp)]
             if gdf.shape[0] != 0:
-                for t in np.unique(gdf['GeneName']):
-                    temp = gdf[gdf['GeneName'] == t]
-                    data = {'GeneName': [t], 'start': np.min(temp['start']), 'end': np.max(temp['end'])}
+                for t in np.unique(gdf["GeneName"]):
+                    temp = gdf[gdf["GeneName"] == t]
+                    data = {"GeneName": [t], "start": np.min(temp["start"]), "end": np.max(temp["end"])}
                     new_df = pd.concat([start_df, pd.DataFrame(data)], axis=0).reset_index(drop=True)
                     start_df = new_df
 
-            if (new_df.shape[0] > 0):
-                new_df = new_df.sort_values('start')
+            if new_df.shape[0] > 0:
+                new_df = new_df.sort_values("start")
                 new_df.reset_index(inplace=True)
-                del new_df['index']
+                del new_df["index"]
 
     return new_df
 
@@ -101,8 +101,8 @@ def get_newick_from_dendro(pv_df, linkresult, thrs, divisor, ret_df):
     for idx in range(len(pv_df)):
         subset_cluster = pv_df.iloc[[idx]]
         d = pd.DataFrame(np.max(subset_cluster, axis=0))
-        d.columns = ['max']
-        d = d.loc[d['max'] <= thrs, 'max']
+        d.columns = ["max"]
+        d = d.loc[d["max"] <= thrs, "max"]
         if len(d) > 0:
             ret_dfi = get_peaks_matching_genes(divisor, d, ret_df)
             if ret_dfi.shape[0] != 0:
@@ -115,8 +115,8 @@ def get_newick_from_dendro(pv_df, linkresult, thrs, divisor, ret_df):
         combined_samples = left_samples + right_samples
         subset_cluster = pv_df.iloc[combined_samples]
         d = pd.DataFrame(np.max(subset_cluster, axis=0))  # Use min instead of max for all samples condition
-        d.columns = ['max']
-        d = d.loc[d['max'] <= thrs, 'max']
+        d.columns = ["max"]
+        d = d.loc[d["max"] <= thrs, "max"]
         if len(d) > 0:
             ret_dfi = get_peaks_matching_genes(divisor, d, ret_df)
             if ret_dfi.shape[0] != 0:
@@ -137,8 +137,8 @@ def get_gene_count_from_dendro(pv_df, linkresult, thrs, divisor, ret_df):
         combined_samples = left_samples + right_samples
         subset_cluster = pv_df.iloc[combined_samples]
         d = pd.DataFrame(np.max(subset_cluster, axis=0))  # Use min instead of max for all samples condition
-        d.columns = ['max']
-        d = d.loc[d['max'] <= thrs, 'max']
+        d.columns = ["max"]
+        d = d.loc[d["max"] <= thrs, "max"]
         if len(d) > 0:
             ret_dfi = get_peaks_matching_genes(divisor, d, ret_df)
             if ret_dfi.shape[0] != 0:
@@ -152,8 +152,8 @@ def get_linkage_with_gene_counts_and_samples(pv_df, linkresult, thrs, divisor, r
     for idx in range(len(pv_df)):
         subset_cluster = pv_df.iloc[[idx]]
         d = pd.DataFrame(np.max(subset_cluster, axis=0))
-        d.columns = ['max']
-        d = d.loc[d['max'] <= thrs, 'max']
+        d.columns = ["max"]
+        d = d.loc[d["max"] <= thrs, "max"]
         if len(d) > 0:
             ret_dfi = get_peaks_matching_genes(divisor, d, ret_df)
             if ret_dfi.shape[0] != 0:
@@ -168,12 +168,12 @@ def get_linkage_with_gene_counts_and_samples(pv_df, linkresult, thrs, divisor, r
         combined_samples = left_samples + right_samples
 
         # Append the samples to the samples list
-        samples_list.append(','.join(map(str, combined_samples)))
+        samples_list.append(",".join(map(str, combined_samples)))
 
         subset_cluster = pv_df.iloc[combined_samples]
         d = pd.DataFrame(np.max(subset_cluster, axis=0))
-        d.columns = ['max']
-        d = d.loc[d['max'] <= thrs, 'max']
+        d.columns = ["max"]
+        d = d.loc[d["max"] <= thrs, "max"]
         if len(d) > 0:
             ret_dfi = get_peaks_matching_genes(divisor, d, ret_df)
             if ret_dfi.shape[0] != 0:
@@ -188,7 +188,7 @@ def get_linkage_with_gene_counts_and_samples(pv_df, linkresult, thrs, divisor, r
 
 def get_filtered_clusters(linkage_matrix, num_min_imp_genes, pv_df_length):
     # Convert the sample string into sets for each cluster
-    sample_sets = [set(map(int, row[4].split(','))) for row in linkage_matrix]
+    sample_sets = [set(map(int, row[4].split(","))) for row in linkage_matrix]
 
     valid_clusters = {}
 
@@ -218,11 +218,12 @@ def get_filtered_clusters(linkage_matrix, num_min_imp_genes, pv_df_length):
     unique_clusters = {",".join(map(str, sorted(cluster))): cluster for cluster in valid_clusters.values()}.keys()
 
     # Get rows from the linkage matrix that match the unique clusters
-    filtered_clusters = [linkage_matrix[idx] for idx, samples in enumerate(sample_sets) if
-                         ",".join(map(str, sorted(samples))) in unique_clusters]
+    filtered_clusters = [
+        linkage_matrix[idx] for idx, samples in enumerate(sample_sets) if ",".join(map(str, sorted(samples))) in unique_clusters
+    ]
 
     all_original_leaves = set(range(int(float(linkage_matrix[-1][0])) + 1))
-    classified_leaves = {int(leaf) for cluster in unique_clusters for leaf in cluster.split(',')}
+    classified_leaves = {int(leaf) for cluster in unique_clusters for leaf in cluster.split(",")}
 
     # Add missing leaves as individual clusters
     for missing_leaf in all_original_leaves - classified_leaves:
@@ -230,11 +231,11 @@ def get_filtered_clusters(linkage_matrix, num_min_imp_genes, pv_df_length):
 
     cleaned_clusters = []
     for row in filtered_clusters:
-        samples = list(map(int, str(row[4]).split(',')))
+        samples = list(map(int, str(row[4]).split(",")))
         if (float(row[2]) != 0 or max(samples) < pv_df_length) and max(samples) < pv_df_length:
             cleaned_clusters.append(row)
 
-    return sorted(cleaned_clusters, key=lambda x: (len(x[4].split(',')), float(x[0]), float(x[1])))
+    return sorted(cleaned_clusters, key=lambda x: (len(x[4].split(",")), float(x[0]), float(x[1])))
 
 
 if __name__ == "__main__":
@@ -248,7 +249,7 @@ if __name__ == "__main__":
     bin_width = 200  # length of bins in base pairs
     df = pd.read_csv("./data/genome_df38.csv", delimiter=",")
     df = pd.DataFrame(df)
-    df38 = df.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
+    df38 = df.loc[:, ["Accession", "Target", "Biosample term name", "Genome"]]
 
     # We defined region of the genome as important in a certain cluster if its p-value was less than 0.05 in all samples
     # within that cluster. For every 200 bp region marked as important, we expanded the region by adding a 500 bp buffer to each
@@ -257,11 +258,11 @@ if __name__ == "__main__":
 
     # read file with features where at least one sample has p-value <= 0.05
     pv_df = pd.read_pickle("./results38/pvdf_" + str(chr_id) + ".pkl")
-    pv_df.index = df38['Target']
+    pv_df.index = df38["Target"]
     # load reference file which contains known genes and their location in hg38 assembly
-    ret_df = pd.read_csv("./results38/chr" + str(chr_id) + '_ret_df.csv', sep="\t")
+    ret_df = pd.read_csv("./results38/chr" + str(chr_id) + "_ret_df.csv", sep="\t")
     # load correlation file and obtain linkage from which we can get a dendrogram
-    df_corr = pd.read_csv("./results38/hg38_chr" + str(chr_id) + "_200data" + 'correlation.h5', index_col=0)
+    df_corr = pd.read_csv("./results38/hg38_chr" + str(chr_id) + "_200data" + "correlation.h5", index_col=0)
     cor_dist = df_corr.to_numpy()
     np.fill_diagonal(cor_dist, 0)
     indices = check_symmetric(cor_dist)
@@ -277,8 +278,8 @@ if __name__ == "__main__":
     for idx in range(len(pv_df)):
         subset_cluster = pv_df.iloc[[idx]]
         d = pd.DataFrame(np.max(subset_cluster, axis=0))
-        d.columns = ['max']
-        d = d.loc[d['max'] <= thrs, 'max']
+        d.columns = ["max"]
+        d = d.loc[d["max"] <= thrs, "max"]
         if len(d) > 0:
             ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
             if ret_dfi.shape[0] != 0:
@@ -294,24 +295,18 @@ if __name__ == "__main__":
         subset_cluster = pv_df.iloc[combined_samples]
         print(subset_cluster)
         d = pd.DataFrame(np.max(subset_cluster, axis=0))  # Use min instead of max for all samples condition
-        d.columns = ['max']
-        d = d.loc[d['max'] <= thrs, 'max']
+        d.columns = ["max"]
+        d = d.loc[d["max"] <= thrs, "max"]
         if len(d) > 0:
             ret_dfi = get_peaks_matching_genes(bin_width, d, ret_df)
             if ret_dfi.shape[0] != 0:
                 gene_counts[current_id] = ret_dfi.shape[0]
                 print("#genes", ret_dfi.shape[0])
-                print(ret_dfi['GeneName'])
+                print(ret_dfi["GeneName"])
         current_id = current_id + 1
     # Convert linkage matrix to Newick format using the function
     root_node = len(pv_df) + len(linkresult) - 1
     newick_str = linkage_to_newick(root_node, pv_df.index, gene_counts, linkresult)
     print(newick_str)  # save chr6 newick string, we will use it to plot circular dendrogram later
-    with open('./results38/chr6_newick.txt', 'w') as file:
+    with open("./results38/chr6_newick.txt", "w") as file:
         file.write(newick_str)
-
-
-
-
-
-
