@@ -1,3 +1,9 @@
+#!/bin/bash -l
+#SBATCH --output=job_%j.log
+#SBATCH --qos=standard
+#SBATCH -p gpu
+#SBATCH -t 10:00:00
+
 # To download files using slurm, see this script.
 #
 # Otherwise, simply run download_data_files.py manually.
@@ -12,11 +18,7 @@
 # Note: These .bigwig files are large: ~0.5GB per file.
 
 
-#!/bin/bash -l
-#SBATCH --output=job_%j.log
-#SBATCH --qos=standard
-#SBATCH -p gpu
-#SBATCH -t 10:00:00 
+
 
 module load python/3.8-anaconda-2020.07
 source activate

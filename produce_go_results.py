@@ -4,7 +4,7 @@
 #
 # For each chromosome this will generate a list of important genes.
 # Fig 11. Can be produced by plugging these genes into KEGG.
-#
+# https://www.genome.jp/kegg/
 #
 # Input required:
 #     ./data/genome_df38.csv

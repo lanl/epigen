@@ -1,6 +1,7 @@
 # download_data_files.py: download bigWig files for hg38 assembly from ENCODE
-#
-# input: genome_df38.csv file which has IDs to paste to ENCODE
+# See https://www.encodeproject.org/
+
+# Input file required: genome_df38.csv file which has IDs to paste to ENCODE
 # to download a file to the /hg38data directory
 #
 # how to run: takes two arguments: i=sys.argv[1] and j=sys.argv[2]

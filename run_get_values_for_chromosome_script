@@ -1,3 +1,9 @@
+#!/bin/bash -l
+#SBATCH --output=job_%j.log
+#SBATCH --qos=standard
+#SBATCH -p gpu
+#SBATCH -t 16:00:00
+
 # A SLURM job script to run get_data38_200.py file
 # This processes the bigWig files to get histograms binned by of each 200bp for specific chromosome ${chr}
 # ${start_in} ${end_in} determine the range of the files (1632 files in the hg38-aligned dataset)
@@ -5,11 +11,6 @@
 # `sbatch --export=chr=6,start_in=0,end_in=200 run_get_values_for_chromosome_script`
 # see `get_values_for_chromosome_hg38.py` for more details.
 
-#!/bin/bash -l
-#SBATCH --output=job_%j.log
-#SBATCH --qos=standard
-#SBATCH -p gpu
-#SBATCH -t 16:00:00 
 
 module load python/3.8-anaconda-2020.07
 source activate

@@ -4,7 +4,7 @@
 # Gene names are assigned from genes present at the https://genome.ucsc.edu
 # using starting and ending base pair positions in hg38.
 #
-# Input file: /data/hg38length.txt
+# Input file: ./data/hg38length.txt
 #
 # Output files: <Chromosome>_ret_def.csv
 #
