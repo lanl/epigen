@@ -29,39 +29,39 @@ import sys
 
 # Get the metadata for the samples
 df = pd.read_csv("./data/genome_df38.csv", delimiter=",")
-df38 = df.loc[df['Genome'] == 'hg38']
+df38 = df.loc[df["Genome"] == "hg38"]
 df38 = df38.reset_index()
-del df38['index']
+del df38["index"]
 
 # Get the meta for the chromosome
-chr_length = pd.read_csv("./data/hg38length.txt", sep = '\t', header = None)
-chr_length.columns = ['Chromosome', 'Total length (bp)', 'Nm', 'Nmm']
-chr_id = int(float(sys.argv[1])) # chromosome ID
+chr_length = pd.read_csv("./data/hg38length.txt", sep="\t", header=None)
+chr_length.columns = ["Chromosome", "Total length (bp)", "Nm", "Nmm"]
+chr_id = int(float(sys.argv[1]))  # chromosome ID
 
 start_p = 0
 bin_length = 200
 
 if chr_id == 23:  # This is chromosome X
-    chr_id = 'X'
+    chr_id = "X"
 
-end_p = (int(chr_length.loc[chr_length['Chromosome'] == str(chr_id), "Total length (bp)"]) // bin_length) * bin_length
+end_p = (int(chr_length.loc[chr_length["Chromosome"] == str(chr_id), "Total length (bp)"]) // bin_length) * bin_length
 
 # loop over sample files
 chr_vals = []
 for file_num in range(int(float(sys.argv[2])), int(float(sys.argv[3]))):
     temp = []
     i = 0
-    file_name = str(df38['Accession'][file_num])
-    bw = pyBigWig.open(str('./hg38data/') + str(file_name) + str('.bigWig'))
+    file_name = str(df38["Accession"][file_num])
+    bw = pyBigWig.open(str("./hg38data/") + str(file_name) + str(".bigWig"))
 
     # Loop over bins in the file
     print(file_num, file_name)
-    while i < end_p: 
-        temp.append(np.median(bw.values('chr' + str(chr_id), i, i + bin_length)))
+    while i < end_p:
+        temp.append(np.median(bw.values("chr" + str(chr_id), i, i + bin_length)))
         i = i + bin_length
     chr_vals.append(temp)
 
 # Reassemble all counts as a dataframe
 test_data = pd.DataFrame(chr_vals)
-filename = './results38/hg38_chr' + str(chr_id) + '_200_' + str(int(float(sys.argv[2]))) + '_' + str(int(float(sys.argv[3]))) + '.h5'
-test_data.to_hdf(filename, key='data', mode='w')
+filename = "./results38/hg38_chr" + str(chr_id) + "_200_" + str(int(float(sys.argv[2]))) + "_" + str(int(float(sys.argv[3]))) + ".h5"
+test_data.to_hdf(filename, key="data", mode="w")

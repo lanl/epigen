@@ -33,11 +33,12 @@ def check_symmetric(arr):
     non_symmetric_indices = []
     n = arr.shape[0]
     for i in range(n):
-        for j in range(i+1, n):  # Only check the upper triangle
+        for j in range(i + 1, n):  # Only check the upper triangle
             if arr[i, j] != arr[j, i]:
                 non_symmetric_indices.append((i, j))
 
     return non_symmetric_indices
+
 
 def make_symmetric(mat):
 
@@ -51,56 +52,55 @@ def make_symmetric(mat):
     return mat
 
 
-marks = pd.read_excel("./data/target_activity_factor.xlsx") 
+marks = pd.read_excel("./data/target_activity_factor.xlsx")
 marks.columns = ["Target", "Activity", "Factor"]
-marks['Activity'].value_counts()
-marks['Factor'].value_counts()
+marks["Activity"].value_counts()
+marks["Factor"].value_counts()
 
 df38 = pd.read_csv("./data/genome_df38.csv", delimiter=",")
 df38 = pd.DataFrame(df38)
-df38 = df38.loc[:, ['Accession', 'Target', 'Biosample term name', 'Genome']]
-df38['Target'].value_counts()
-df38['Biosample term name'].value_counts()
-merged_df = pd.merge(df38, marks, on='Target')
+df38 = df38.loc[:, ["Accession", "Target", "Biosample term name", "Genome"]]
+df38["Target"].value_counts()
+df38["Biosample term name"].value_counts()
+merged_df = pd.merge(df38, marks, on="Target")
 
 
-labels_mark = list(merged_df['Target'])
-labels_cell = list(merged_df['Biosample term name'])
-labels_factor = list(merged_df['Factor'])
-labels_activity = list(merged_df['Activity'])
+labels_mark = list(merged_df["Target"])
+labels_cell = list(merged_df["Biosample term name"])
+labels_factor = list(merged_df["Factor"])
+labels_activity = list(merged_df["Activity"])
 
 
-#get hierarchical clustering linkages fro all 23 chrs (23rd is X chr)
+# get hierarchical clustering linkages fro all 23 chrs (23rd is X chr)
 list_linkages = []
 for i in range(1, 24):
     chr_id = i
-    if chr_id == 23: #this is chromosome X
-        chr_id = 'X'
-    df_corr = pd.read_csv("./results38/hg38_chr" + str(chr_id) + "_200data" + 'correlation.h5', index_col=0)
+    if chr_id == 23:  # this is chromosome X
+        chr_id = "X"
+    df_corr = pd.read_csv("./results38/hg38_chr" + str(chr_id) + "_200data" + "correlation.h5", index_col=0)
     cor_dist = df_corr.to_numpy()
     np.fill_diagonal(cor_dist, 0)
     indices = check_symmetric(cor_dist)
     if len(indices) != 0:
         cor_dist = make_symmetric(cor_dist)
     condensed_dist = squareform(cor_dist)
-    linkresult = sch.linkage(condensed_dist, method  = "complete")
+    linkresult = sch.linkage(condensed_dist, method="complete")
     linkresult[linkresult < 0] = 0
     list_linkages.append(linkresult)
 
 
-
 # parameters that can be changed
 top_all_chrs = []
-min_cluster_size = 4 # we don't consider clusters with less than 4 samples
-N = 50 # visualize only top 50 co-occured items
-unique_labels = list(np.unique(labels_mark)) # can be labels_cell, labels_factor, or labels_activity
+min_cluster_size = 4  # we don't consider clusters with less than 4 samples
+N = 50  # visualize only top 50 co-occured items
+unique_labels = list(np.unique(labels_mark))  # can be labels_cell, labels_factor, or labels_activity
 co_occurrence_matrix = np.zeros((len(unique_labels), len(unique_labels)))
-labels = labels_mark # can be labels_cell, labels_factor, or labels_activity
+labels = labels_mark  # can be labels_cell, labels_factor, or labels_activity
 label_counts = Counter(labels)
 for i in range(1, 24):
-    chr_id = i 
-    linkresult = list_linkages[i-1]
-    clusters = fcluster(linkresult, 0.3, criterion='distance')    
+    chr_id = i
+    linkresult = list_linkages[i - 1]
+    clusters = fcluster(linkresult, 0.3, criterion="distance")
     print(len(np.unique(clusters)))
     for cluster_id in np.unique(clusters):
         indices_in_cluster = np.where(clusters == cluster_id)[0]
@@ -114,14 +114,22 @@ for i in range(1, 24):
                         count_label1 = labels_in_cluster.count(label1)
                         count_label2 = labels_in_cluster.count(label2)
                         min_count = min(count_label1, count_label2)
-                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
-                        co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
+                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count / np.sqrt(
+                            label_counts[label1] * label_counts[label2]
+                        )
+                        co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[
+                            unique_labels.index(label1), unique_labels.index(label2)
+                        ]
                     if label1 == label2:
                         count_label1 = labels_in_cluster.count(label1)
                         count_label2 = labels_in_cluster.count(label2)
                         min_count = min(count_label1, count_label2)
-                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count/np.sqrt(label_counts[label1] * label_counts[label2])
-                        co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)]
+                        co_occurrence_matrix[unique_labels.index(label1), unique_labels.index(label2)] += min_count / np.sqrt(
+                            label_counts[label1] * label_counts[label2]
+                        )
+                        co_occurrence_matrix[unique_labels.index(label2), unique_labels.index(label1)] = co_occurrence_matrix[
+                            unique_labels.index(label1), unique_labels.index(label2)
+                        ]
     upper_triangle_indices = np.triu_indices_from(co_occurrence_matrix, 1)
     upper_triangle_values = co_occurrence_matrix[upper_triangle_indices]
     sorted_indices = np.argsort(upper_triangle_values)[::-1]
@@ -143,27 +151,20 @@ plt.xlabel("Epigenetic modifiers")
 plt.ylabel("Epigenetic modifiers")
 plt.show()
 
-co_occurrence_matrix = co_occurrence_matrix / 23 # normalize over 23 chromosomes
+co_occurrence_matrix = co_occurrence_matrix / 23  # normalize over 23 chromosomes
 # reorder the plot for visualization purposes to get FIGURE 8
 df = pd.DataFrame(co_occurrence_matrix, columns=unique_labels, index=unique_labels)
 
 # Perform hierarchical clustering for visualization purposes to visualize most co-occured items together
-linked = linkage(df, 'single')
+linked = linkage(df, "single")
 df_ordered = df.iloc[leaves_list(linked), leaves_list(linked)]
 plt.figure(figsize=(30, 30))
-ax = sns.heatmap(df_ordered, cmap='coolwarm', linewidths=.5, annot=False, fmt=".1f")
+ax = sns.heatmap(df_ordered, cmap="coolwarm", linewidths=0.5, annot=False, fmt=".1f")
 ax.tick_params(labelsize=20)
 plt.xlabel("Epigenetic modifiers", fontsize=28)
 plt.ylabel("Epigenetic modifiers", fontsize=28)
-plt.title('Co-occurrence Matrix Heatmap of Epigentic Modifiers in Clusters (GRCh38)', fontsize=30)
+plt.title("Co-occurrence Matrix Heatmap of Epigentic Modifiers in Clusters (GRCh38)", fontsize=30)
 cbar = ax.collections[0].colorbar
 cbar.ax.tick_params(labelsize=20)
-plt.savefig('./results38/co_occurrence_matrix_heatmap_allchr_hg38.eps')
-#plt.show()
-
-
-
-
-
-
-
+plt.savefig("./results38/co_occurrence_matrix_heatmap_allchr_hg38.eps")
+# plt.show()
