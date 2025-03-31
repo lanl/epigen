@@ -43,6 +43,11 @@ UMAP plot (step #7 above).
 For information on software requirements, see requirements.txt. Additionally, we used gProfiler tool [Reimand et al., 2007] and Cytoscape [Shannon et al.,
 2003] to visualize GO and KEGG pathway results, respectively.
 
+
+The codes in this repository are based around the analysis in the following paper:
+
+**Anastasiia Kim, Nicholas Lubbers, Christina R. Steadman, Karissa Y. Sanbonmatsu**. *Statistical relationships across epigenomes using large-scale hierarchical clustering*. bioRXiv preprint [https://www.biorxiv.org/content/10.1101/2024.10.21.619460](https://www.biorxiv.org/content/10.1101/2024.10.21.619460)
+
 © 2024. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S. Department of Energy/National Nuclear Security Administration. All rights in the program are reserved by Triad National Security, LLC, and the U.S. Department of Energy/National Nuclear Security Administration. The Government is granted for itself and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this material to reproduce, prepare. derivative works, distribute copies to the public, perform publicly and display publicly, and to permit others to do so.
 
