@@ -1,6 +1,6 @@
 # produce_comparison_plots_datasets19vs38.py
 #
-# Code to compare hg19 and hg38 datasets, figures 12, 13, and 14.
+# Code to compare hg19 and hg38 datasets, figures 12, 13, and 15.
 #
 # This file requires the minisom package:
 #     https://github.com/JustGlowing/minisom?tab=readme-ov-file#installation
@@ -796,7 +796,7 @@ plt.grid(True)
 plt.show()
 
 
-# Figure 14
+# Figure 15
 # co-occurence matrix and df.index
 # Self-organizing maps
 import numpy as np
@@ -886,40 +886,40 @@ plt.show()
 # co_occurrence_matrix_normalized = df38_.values / np.sqrt(normalization_matrix)
 # np.fill_diagonal(co_occurrence_matrix_normalized, 1)
 # df38_2 = co_occurrence_matrix_normalized
-import numpy as np
-import pandas as pd
-from statsmodels.stats.multitest import multipletests
+# import numpy as np
+# import pandas as pd
+# from statsmodels.stats.multitest import multipletests
 
 
-def permutation_test(differences, n_permutations=10000):
-    T_obs = np.mean(differences)
-    permuted_stats = np.array([np.mean(differences * np.random.choice([-1, 1], size=len(differences))) for _ in range(n_permutations)])
+# def permutation_test(differences, n_permutations=10000):
+#     T_obs = np.mean(differences)
+#     permuted_stats = np.array([np.mean(differences * np.random.choice([-1, 1], size=len(differences))) for _ in range(n_permutations)])
 
-    if T_obs > 0:
-        p_value = np.sum(permuted_stats >= T_obs) / n_permutations
-    else:
-        p_value = np.sum(permuted_stats <= T_obs) / n_permutations
-    return p_value
+#     if T_obs > 0:
+#         p_value = np.sum(permuted_stats >= T_obs) / n_permutations
+#     else:
+#         p_value = np.sum(permuted_stats <= T_obs) / n_permutations
+#     return p_value
 
 
-labels = df19_.index.tolist()
-p_values = []
+# labels = df19_.index.tolist()
+# p_values = []
 
-# Perform permutation test for each row
-for label in labels:
-    row19 = df19_.loc[label].values
-    row38 = df38_.loc[label].values
-    differences = row19 - row38
-    p = permutation_test(differences)
-    p_values.append(p)
+# # Perform permutation test for each row
+# for label in labels:
+#     row19 = df19_.loc[label].values
+#     row38 = df38_.loc[label].values
+#     differences = row19 - row38
+#     p = permutation_test(differences)
+#     p_values.append(p)
 
-# Benjamini-Hochberg correction for multiple testing
-reject, pvals_corrected, _, _ = multipletests(p_values, alpha=0.05, method="fdr_bh")
+# # Benjamini-Hochberg correction for multiple testing
+# reject, pvals_corrected, _, _ = multipletests(p_values, alpha=0.05, method="fdr_bh")
 
-non_significant_labels = [label for label, rej in zip(labels, reject) if not rej]
-significant_labels = [label for label, rej in zip(labels, reject) if rej]
-print(f"Non-significant labels (p > 0.05): {non_significant_labels}")
-print(f"Significant labels (p ≤ 0.05): {significant_labels}")
+# non_significant_labels = [label for label, rej in zip(labels, reject) if not rej]
+# significant_labels = [label for label, rej in zip(labels, reject) if rej]
+# print(f"Non-significant labels (p > 0.05): {non_significant_labels}")
+# print(f"Significant labels (p ≤ 0.05): {significant_labels}")
 
 
 # UMAP plots (not shown in the paper), play with the n_neighbors=10 parameter (10, 20, ..., 100)
