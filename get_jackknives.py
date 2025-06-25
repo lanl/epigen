@@ -122,9 +122,24 @@ for chunkid in (19, 38):
         lbl = pd.merge(df38, sub, left_on='Accession', right_index=True)['Target'].tolist()
         mat, labs = compute_cooccurrence(sub, L, lbl)
         jack38.append({"left_out": idx, "matrix": mat, "labels": labs})
-    with open(f"./data/jackknife_cooccurrence_38_chunk_{chunkid}.csv","wb") as f:
-        pickle.dump(jack38, f)
-
+    
+    rows = []
+    for res in jack38:
+        left_out = res["left_out"]
+        mat      = res["matrix"]
+        labels   = res["labels"]
+        for i, li in enumerate(labels):
+            for j, lj in enumerate(labels):
+                rows.append({
+                    "chunk":     chunkid,
+                    "left_out":  left_out,
+                    "label_i":   li,
+                    "label_j":   lj,
+                    "value":     mat[i, j]
+                })
+    df_out = pd.DataFrame(rows)
+    df_out.to_csv(f"./data/jackknife_cooccurrence_38_chunk_{chunkid}.csv", index=False)
+        
     # df19 jackknife
     jack19 = []
     inds19 = filtered_df19_chr6.index.tolist()
@@ -135,5 +150,21 @@ for chunkid in (19, 38):
         lbl = pd.merge(df19, sub, left_on='Accession', right_index=True)['Target'].tolist()
         mat, labs = compute_cooccurrence(sub, L, lbl)
         jack19.append({"left_out": idx, "matrix": mat, "labels": labs})
-    with open(f"./data/jackknife_cooccurrence_19_chunk_{chunkid}.csv","wb") as f:
-        pickle.dump(jack19, f)
+        
+    rows = []
+    for res in jack19:
+        left_out = res["left_out"]
+        mat      = res["matrix"]
+        labels   = res["labels"]
+        for i, li in enumerate(labels):
+            for j, lj in enumerate(labels):
+                rows.append({
+                    "chunk":     chunkid,
+                    "left_out":  left_out,
+                    "label_i":   li,
+                    "label_j":   lj,
+                    "value":     mat[i, j]
+                })
+    df_out = pd.DataFrame(rows)
+    df_out.to_csv(f"./data/jackknife_cooccurrence_19_chunk_{chunkid}.csv", index=False)
+        
