@@ -33,7 +33,7 @@ The data doesn't contain the chromosome Y.
 11. Produce paper gene ontology results needed for plots 10 and 11: produce_go_results.py.
 12. Produce paper datasets comparison plots 12, 13, and 15: produce_comparison_plots_datasets19vs38.py.
 13. Produce paper datasets jacknife test heatmap plot 14: produce_jackknife_ztestplot_datasets19vs38.py.
-
+14. Produce circular plot (get pngs instead of eps/pdf):  paper_circular_plot_chr6.py then convert_to_png.py, will produce 3 pngs (see fullplot_pptx.pptx).
 
 ![Circular plot (step #6 above)](patch_circle_plot.png)
 Circular plot (step #6 above).
